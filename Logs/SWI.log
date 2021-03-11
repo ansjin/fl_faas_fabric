@@ -1,0 +1,151 @@
+2021-03-11 11:56:42,794 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 11:56:42,892 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 11:56:42,978 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 12:01:38,345 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 12:01:38,447 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 12:01:38,533 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 13:32:11,668 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: created action fl_server_init
+2021-03-11 13:32:11,670 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 13:32:11,839 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: created action fl_server_aggregator
+2021-03-11 13:32:11,839 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 13:32:12,010 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: created action fl_invoker_weights_update0
+2021-03-11 13:32:12,011 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 13:32:12,167 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: created action fl_invoker_weights_update1
+2021-03-11 13:32:12,167 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 13:32:12,330 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: created action client_0
+2021-03-11 13:32:12,331 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 13:36:32,571 - Clusters.Google.GoogleDeploy - DEBUG - ['availableMemoryMb: 2048', '']
+2021-03-11 13:36:32,571 - Clusters.Google.GoogleDeploy - DEBUG - ['buildId: f201f416-b96f-44fa-ad2b-ebf1f87a789f', '']
+2021-03-11 13:36:32,571 - Clusters.Google.GoogleDeploy - DEBUG - ['entryPoint: main', '']
+2021-03-11 13:36:32,571 - Clusters.Google.GoogleDeploy - DEBUG - ['httpsTrigger:', '']
+2021-03-11 13:36:32,571 - Clusters.Google.GoogleDeploy - DEBUG - ['  securityLevel: SECURE_OPTIONAL', '']
+2021-03-11 13:36:32,571 - Clusters.Google.GoogleDeploy - DEBUG - ['  url: https://us-central1-long-walker-228011.cloudfunctions.net/client_1', '']
+2021-03-11 13:36:32,571 - Clusters.Google.GoogleDeploy - DEBUG - ['ingressSettings: ALLOW_ALL', '']
+2021-03-11 13:36:32,571 - Clusters.Google.GoogleDeploy - DEBUG - ['labels:', '']
+2021-03-11 13:36:32,571 - Clusters.Google.GoogleDeploy - DEBUG - ['  deployment-tool: cli-gcloud', '']
+2021-03-11 13:36:32,572 - Clusters.Google.GoogleDeploy - DEBUG - ['name: projects/long-walker-228011/locations/us-central1/functions/client_1', '']
+2021-03-11 13:36:32,572 - Clusters.Google.GoogleDeploy - DEBUG - ['runtime: python37', '']
+2021-03-11 13:36:32,572 - Clusters.Google.GoogleDeploy - DEBUG - ['serviceAccountEmail: long-walker-228011@appspot.gserviceaccount.com', '']
+2021-03-11 13:36:32,572 - Clusters.Google.GoogleDeploy - DEBUG - ['sourceUploadUrl: https://storage.googleapis.com/gcf-upload-us-central1-56f7e2e0-f057-498f-9bda-2bd705cad915/189d42c0-4b24-4a61-b568-675597208bc6.zip?GoogleAccessId=service-1095726439123@gcf-admin-robot.iam.gserviceaccount.com&Expires=1615467734&Signature=R9NvtLf0uPqi%2FsG30BKyYtboRtdPomD48UjXXP%2F2w3%2FMTt%2FqQCLLwrucVOhn%2FXnzt8DheHVNiCFufDu%2BbynmOABtpAH8nrvIM280Qfd0i6DYVAN7P1Ly3aPFkvOO5215mPlak%2FMPzB4d26491QRDsHZaTOle%2FnCcKaiTkv5yzFVu%2FqGRAjeVRqwTeSnAw6mIQrXqiKMLSgFh1LRBNyZbpju6QElLHTJnO16Eq0KnQWpLhF2cg7v%2BWcCrIPCNUdD42MuMX2uXWDBnmWFxYBGEPUlLJjeusHSJRs6rfBeOtQc7rXyYJ24eMV4IIcLhc7%2FT4Q9O%2FSRBaMBMGGFllx1nHg%3D%3D', '']
+2021-03-11 13:36:32,572 - Clusters.Google.GoogleDeploy - DEBUG - ['status: ACTIVE', '']
+2021-03-11 13:36:32,572 - Clusters.Google.GoogleDeploy - DEBUG - ['timeout: 300s', '']
+2021-03-11 13:36:32,572 - Clusters.Google.GoogleDeploy - DEBUG - ["updateTime: '2021-03-11T12:36:32.063Z'", '']
+2021-03-11 13:36:32,572 - Clusters.Google.GoogleDeploy - DEBUG - ["versionId: '1'", '']
+2021-03-11 13:39:11,912 - FederatedLearning - INFO -  ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+2021-03-11 13:39:11,912 - FederatedLearning - INFO - Num Clients per rounds: 2
+2021-03-11 13:39:11,912 - FederatedLearning - INFO - Iter: 0, Clients: ['client_1', 'client_0']
+2021-03-11 13:39:11,914 - FederatedLearning - INFO - Starting training, Num Clients: 2
+2021-03-11 13:40:11,067 - FederatedLearning - INFO -  ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+2021-03-11 13:40:11,067 - FederatedLearning - INFO - Num Clients per rounds: 2
+2021-03-11 13:40:11,067 - FederatedLearning - INFO - Iter: 0, Clients: ['client_0', 'client_1']
+2021-03-11 13:40:11,070 - FederatedLearning - INFO - Starting training, Num Clients: 2
+2021-03-11 13:41:20,779 - FederatedLearning - INFO -  ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+2021-03-11 13:41:20,779 - FederatedLearning - INFO - Num Clients per rounds: 2
+2021-03-11 13:41:20,779 - FederatedLearning - INFO - Iter: 0, Clients: ['client_1', 'client_0']
+2021-03-11 13:41:20,781 - FederatedLearning - INFO - Starting training, Num Clients: 2
+2021-03-11 13:44:02,269 - FederatedLearning - INFO -  ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+2021-03-11 13:44:02,269 - FederatedLearning - INFO - Num Clients per rounds: 2
+2021-03-11 13:44:02,269 - FederatedLearning - INFO - Iter: 0, Clients: ['client_1', 'client_0']
+2021-03-11 13:44:02,271 - FederatedLearning - INFO - Starting training, Num Clients: 2
+2021-03-11 13:52:07,638 - FederatedLearning - INFO -  ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+2021-03-11 13:52:07,638 - FederatedLearning - INFO - Num Clients per rounds: 2
+2021-03-11 13:52:07,638 - FederatedLearning - INFO - Iter: 0, Clients: ['client_0', 'client_1']
+2021-03-11 13:52:07,641 - FederatedLearning - INFO - Starting training, Num Clients: 2
+2021-03-11 13:53:56,133 - FederatedLearning - INFO -  ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+2021-03-11 13:53:56,133 - FederatedLearning - INFO - Num Clients per rounds: 2
+2021-03-11 13:53:56,133 - FederatedLearning - INFO - Iter: 0, Clients: ['client_0', 'client_1']
+2021-03-11 13:53:56,135 - FederatedLearning - INFO - Starting training, Num Clients: 2
+2021-03-11 13:56:34,780 - FederatedLearning - INFO -  ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+2021-03-11 13:56:34,780 - FederatedLearning - INFO - Num Clients per rounds: 2
+2021-03-11 13:56:34,780 - FederatedLearning - INFO - Iter: 0, Clients: ['client_0', 'client_1']
+2021-03-11 13:56:34,783 - FederatedLearning - INFO - Starting training, Num Clients: 2
+2021-03-11 13:56:56,112 - FederatedLearning - INFO -  ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+2021-03-11 13:56:56,112 - FederatedLearning - INFO - Num Clients per rounds: 2
+2021-03-11 13:56:56,112 - FederatedLearning - INFO - Iter: 0, Clients: ['client_0', 'client_1']
+2021-03-11 13:56:56,114 - FederatedLearning - INFO - Starting training, Num Clients: 2
+2021-03-11 14:02:17,693 - FederatedLearning - INFO -  ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+2021-03-11 14:02:17,693 - FederatedLearning - INFO - Num Clients per rounds: 2
+2021-03-11 14:02:17,694 - FederatedLearning - INFO - Iter: 0, Clients: ['client_0', 'client_1']
+2021-03-11 14:02:17,696 - FederatedLearning - INFO - Starting training, Num Clients: 2
+2021-03-11 14:03:07,854 - FederatedLearning - INFO -  ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+2021-03-11 14:03:07,855 - FederatedLearning - INFO - Num Clients per rounds: 2
+2021-03-11 14:03:07,855 - FederatedLearning - INFO - Iter: 0, Clients: ['client_1', 'client_0']
+2021-03-11 14:03:07,857 - FederatedLearning - INFO - Starting training, Num Clients: 2
+2021-03-11 14:09:40,012 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: created action fl_server_init
+2021-03-11 14:09:40,012 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 14:09:40,142 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: created action fl_server_aggregator
+2021-03-11 14:09:40,143 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 14:09:40,281 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: created action fl_invoker_weights_update0
+2021-03-11 14:09:40,281 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 14:09:40,383 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: created action fl_invoker_weights_update1
+2021-03-11 14:09:40,383 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 14:09:40,490 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: created action client_0
+2021-03-11 14:09:40,490 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 14:11:07,732 - Clusters.Google.GoogleDeploy - DEBUG - ['availableMemoryMb: 2048', '']
+2021-03-11 14:11:07,732 - Clusters.Google.GoogleDeploy - DEBUG - ['buildId: 0309e4c2-acde-4706-ae4d-dd6dab1dc3fd', '']
+2021-03-11 14:11:07,732 - Clusters.Google.GoogleDeploy - DEBUG - ['entryPoint: main', '']
+2021-03-11 14:11:07,732 - Clusters.Google.GoogleDeploy - DEBUG - ['httpsTrigger:', '']
+2021-03-11 14:11:07,732 - Clusters.Google.GoogleDeploy - DEBUG - ['  securityLevel: SECURE_OPTIONAL', '']
+2021-03-11 14:11:07,732 - Clusters.Google.GoogleDeploy - DEBUG - ['  url: https://us-central1-long-walker-228011.cloudfunctions.net/client_1', '']
+2021-03-11 14:11:07,732 - Clusters.Google.GoogleDeploy - DEBUG - ['ingressSettings: ALLOW_ALL', '']
+2021-03-11 14:11:07,732 - Clusters.Google.GoogleDeploy - DEBUG - ['labels:', '']
+2021-03-11 14:11:07,732 - Clusters.Google.GoogleDeploy - DEBUG - ['  deployment-tool: cli-gcloud', '']
+2021-03-11 14:11:07,732 - Clusters.Google.GoogleDeploy - DEBUG - ['name: projects/long-walker-228011/locations/us-central1/functions/client_1', '']
+2021-03-11 14:11:07,733 - Clusters.Google.GoogleDeploy - DEBUG - ['runtime: python37', '']
+2021-03-11 14:11:07,733 - Clusters.Google.GoogleDeploy - DEBUG - ['serviceAccountEmail: long-walker-228011@appspot.gserviceaccount.com', '']
+2021-03-11 14:11:07,733 - Clusters.Google.GoogleDeploy - DEBUG - ['sourceUploadUrl: https://storage.googleapis.com/gcf-upload-us-central1-56f7e2e0-f057-498f-9bda-2bd705cad915/1bd7b654-df04-444b-b8a6-9f1cdbf61aaf.zip?GoogleAccessId=service-1095726439123@gcf-admin-robot.iam.gserviceaccount.com&Expires=1615469982&Signature=jAlrr4FpyuZlOeHIJkFxUmYHv%2FXvEyWuPyBGnVnjriPXLc%2BSji6Ef0DEOb5MoE7sGo1wjNpCGGD%2FZOOOOORnKmaGmOhZ1tJiozKOBQ3DOS%2BiqbyJvF0iAPBmNLyWZt%2BYANDQN2NAiAXPsTOjy0gPi6eyAvU8dWDBK%2F97Z6ya7amTjCmAiXha7R4s%2FU5IL7sentoyDkFdgNIMghXrk0L4BrWL6dBNDOBBqnekoK%2FZRkN2e8AIg%2BXoLkF4qwNzj6%2BWUlbN%2BTYiOiMJAwH%2Fd1T%2B63TKV2edJI380tpCde40RaawENdyhA%2FX7ZWFbEPcfEabmi86BGObiZpTK7MLXnUNbg%3D%3D', '']
+2021-03-11 14:11:07,733 - Clusters.Google.GoogleDeploy - DEBUG - ['status: ACTIVE', '']
+2021-03-11 14:11:07,733 - Clusters.Google.GoogleDeploy - DEBUG - ['timeout: 300s', '']
+2021-03-11 14:11:07,733 - Clusters.Google.GoogleDeploy - DEBUG - ["updateTime: '2021-03-11T13:11:07.221Z'", '']
+2021-03-11 14:11:07,733 - Clusters.Google.GoogleDeploy - DEBUG - ["versionId: '2'", '']
+2021-03-11 14:12:11,259 - FederatedLearning - INFO -  ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+2021-03-11 14:12:11,259 - FederatedLearning - INFO - Num Clients per rounds: 2
+2021-03-11 14:12:11,259 - FederatedLearning - INFO - Iter: 0, Clients: ['client_1', 'client_0']
+2021-03-11 14:12:11,262 - FederatedLearning - INFO - Starting training, Num Clients: 2
+2021-03-11 14:23:11,493 - FederatedLearning - INFO -  ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+2021-03-11 14:23:11,493 - FederatedLearning - INFO - Step1: Invoking Initialize function for the weights init
+2021-03-11 14:24:11,603 - FederatedLearning - INFO - Num Clients per rounds: 2
+2021-03-11 14:24:11,603 - FederatedLearning - INFO - Iter: 0, Clients: ['client_0', 'client_1']
+2021-03-11 14:24:11,608 - FederatedLearning - INFO - Starting training, Num Clients: 2
+2021-03-11 14:25:06,561 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: deleted action fl_server_init
+2021-03-11 14:25:06,561 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 14:25:06,661 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: deleted action fl_server_aggregator
+2021-03-11 14:25:06,661 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 14:25:06,775 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: deleted action fl_invoker_weights_update0
+2021-03-11 14:25:06,775 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 14:25:06,878 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: deleted action fl_invoker_weights_update1
+2021-03-11 14:25:06,878 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 14:25:06,979 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: deleted action client_0
+2021-03-11 14:25:06,980 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 14:25:28,056 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: created action fl_server_init
+2021-03-11 14:25:28,056 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 14:25:28,202 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: created action fl_server_aggregator
+2021-03-11 14:25:28,202 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 14:25:28,316 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: created action fl_invoker_weights_update0
+2021-03-11 14:25:28,316 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 14:25:28,430 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: created action fl_invoker_weights_update1
+2021-03-11 14:25:28,430 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 14:25:28,544 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - ok: created action client_0
+2021-03-11 14:25:28,544 - Clusters.OpenWhisk.OpenWhiskDeploy - DEBUG - 
+2021-03-11 14:29:38,303 - Clusters.Google.GoogleDeploy - DEBUG - ['availableMemoryMb: 2048', '']
+2021-03-11 14:29:38,303 - Clusters.Google.GoogleDeploy - DEBUG - ['buildId: 22060a5d-1043-4886-86ee-889219d6ad75', '']
+2021-03-11 14:29:38,303 - Clusters.Google.GoogleDeploy - DEBUG - ['entryPoint: main', '']
+2021-03-11 14:29:38,303 - Clusters.Google.GoogleDeploy - DEBUG - ['httpsTrigger:', '']
+2021-03-11 14:29:38,304 - Clusters.Google.GoogleDeploy - DEBUG - ['  securityLevel: SECURE_OPTIONAL', '']
+2021-03-11 14:29:38,304 - Clusters.Google.GoogleDeploy - DEBUG - ['  url: https://us-central1-long-walker-228011.cloudfunctions.net/client_1', '']
+2021-03-11 14:29:38,304 - Clusters.Google.GoogleDeploy - DEBUG - ['ingressSettings: ALLOW_ALL', '']
+2021-03-11 14:29:38,304 - Clusters.Google.GoogleDeploy - DEBUG - ['labels:', '']
+2021-03-11 14:29:38,304 - Clusters.Google.GoogleDeploy - DEBUG - ['  deployment-tool: cli-gcloud', '']
+2021-03-11 14:29:38,304 - Clusters.Google.GoogleDeploy - DEBUG - ['name: projects/long-walker-228011/locations/us-central1/functions/client_1', '']
+2021-03-11 14:29:38,304 - Clusters.Google.GoogleDeploy - DEBUG - ['runtime: python37', '']
+2021-03-11 14:29:38,304 - Clusters.Google.GoogleDeploy - DEBUG - ['serviceAccountEmail: long-walker-228011@appspot.gserviceaccount.com', '']
+2021-03-11 14:29:38,304 - Clusters.Google.GoogleDeploy - DEBUG - ['sourceUploadUrl: https://storage.googleapis.com/gcf-upload-us-central1-56f7e2e0-f057-498f-9bda-2bd705cad915/39b93a5f-660e-409a-8f49-d19547752f47.zip?GoogleAccessId=service-1095726439123@gcf-admin-robot.iam.gserviceaccount.com&Expires=1615470929&Signature=OFGBhoivfvdmkI5ohRU1j3OzN5fGBReid2jKTuZZ1WjBIokAW%2Ftoz3tpg%2BxtuCoxDjIYaSd4P1qoJU4GrCLwbc0fdU0vdqRf1h9JPpt4276M%2Fgzggkw1vCmBuKvkaKLVCTyFHPwk40LhwinUMqD9DjNxIebxop54LKQ1SR6mTAC9SpL%2BSeK%2FokNyNUjlSyDrrCHv7%2BOp6F0unZBHHI67i9LhJ%2FSyty6zTG9DmVau8zMrZLsR1R79Ys9fpnBKQ3M%2BRGnDATjydoJn91wEMNE%2FqH%2F%2BUzZ0useVQ%2BbXiYsmEpEyzjJYb2Q7qeoemGXj6oDUfCECFAgQAt23%2FiXobetlPg%3D%3D', '']
+2021-03-11 14:29:38,304 - Clusters.Google.GoogleDeploy - DEBUG - ['status: ACTIVE', '']
+2021-03-11 14:29:38,304 - Clusters.Google.GoogleDeploy - DEBUG - ['timeout: 300s', '']
+2021-03-11 14:29:38,305 - Clusters.Google.GoogleDeploy - DEBUG - ["updateTime: '2021-03-11T13:29:37.132Z'", '']
+2021-03-11 14:29:38,305 - Clusters.Google.GoogleDeploy - DEBUG - ["versionId: '1'", '']
+2021-03-11 14:29:51,644 - FederatedLearning - INFO -  ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+2021-03-11 14:29:51,644 - FederatedLearning - INFO - Step1: Invoking Initialize function for the weights init
+2021-03-11 14:30:02,091 - FederatedLearning - INFO - Num Clients per rounds: 2
+2021-03-11 14:30:02,093 - FederatedLearning - INFO - Iter: 0, Clients: ['client_0', 'client_1']
+2021-03-11 14:30:02,098 - FederatedLearning - INFO - Starting training, Num Clients: 2
