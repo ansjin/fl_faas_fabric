@@ -398,3 +398,5 @@ old/
 __pycache__/
 
 Clusters/Google/config.json
+Logs/SWI.log
+nohup*
