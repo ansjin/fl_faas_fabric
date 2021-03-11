@@ -26,6 +26,7 @@ Read More in our paper: https://dl.acm.org/doi/10.1145/3429880.3430100
 2. Rename ```config-sample.yaml``` to ```config.yaml```. 
 3. Include the clusters, their authentication, update the base URLs information in it. 
 4. Start a Mongo Database and update its configuration in the yaml file. 
+5. Do remove the proxies from the functions codes, if not being used.  
 For example, below shows the example configuration 
 ```yaml
 version: 0.1
