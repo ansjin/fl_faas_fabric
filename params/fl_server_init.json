@@ -1,0 +1,21 @@
+{
+    "num_clients": 2,
+    "train_images_url": "https://storage.googleapis.com/mnist_fl/mnist_train_img.obj",
+    "train_labels_url": "https://storage.googleapis.com/mnist_fl/mnist_train_img.obj",
+    "test_images_url": "https://storage.googleapis.com/mnist_fl/mnist_train_img.obj",
+    "test_labels_url": "https://storage.googleapis.com/mnist_fl/mnist_train_img.obj",
+    "mongo": {
+        "url": "172.24.65.11:27017",
+        "db": "flweights",
+        "collection": "mnist_weights"
+    },
+    "data_sampling": {
+        "input_size": 784,
+        "hidden_size": 500,
+        "output_size": 10,
+        "input_shape_x": 28,
+        "input_shape_y": 28,
+        "batch_size": 10,
+        "model": "cnn"
+    }
+}

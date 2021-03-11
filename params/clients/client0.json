@@ -1,0 +1,27 @@
+{
+    "client_id": "0",
+    "client_type": "openwhisk_local",
+    "url": "https://23bc46b1-71f6-4ed5-8c54-816aa4f8c502:123zO3xZCLrMN6v2BKK1dXYFpXlPkccOFqm12CdAsMgRU4VrNZ9lyGVCGuMDGIwP@172.24.65.11:31001/api/v1/namespaces/guest/actions/client0",
+    "train_images_url": "https://storage.googleapis.com/mnist_fl/mnist_train_img.obj",
+    "train_labels_url": "https://storage.googleapis.com/mnist_fl/mnist_train_labels.obj",
+    "test_images_url": "https://storage.googleapis.com/mnist_fl/mnist_test_img.obj",
+    "test_labels_url": "https://storage.googleapis.com/mnist_fl/mnist_test_labels.obj",
+    "mongo": {
+        "url": "172.24.65.11:27017",
+        "db": "flweights",
+        "collection": "mnist_weights"
+    },
+    "data_sampling": {
+        "input_size": 784,
+        "hidden_size": 500,
+        "output_size": 10,
+        "input_shape_x": 28,
+        "input_shape_y": 28,
+        "batch_size": 10,
+        "model": "cnn"
+    },
+    "model": "cnn",
+    "lr": "1e-3",
+    "optim": "adam",
+    "local_epochs": "5"
+}

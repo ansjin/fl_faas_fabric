@@ -1,0 +1,12 @@
+FROM openwhisk/python3aiaction
+COPY requirements.txt requirements.txt
+
+ENV HTTP_PROXY http://proxy.in.tum.de:8080/
+ENV HTTPS_PROXY http://proxy.in.tum.de:8080/
+ENV FTP_PROXY ftp://proxy.in.tum.de:8080/
+
+RUN apt-get update -y
+
+RUN pip3 install --upgrade pip six && pip3 install --no-cache-dir -r requirements.txt
+RUN pip3 uninstall pytorch
+RUN pip3 uninstall -y torchvision

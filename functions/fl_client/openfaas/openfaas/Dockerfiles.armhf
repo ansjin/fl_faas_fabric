@@ -1,0 +1,30 @@
+FROM openfaas/of-watchdog@sha256:bb6ae7338557dbcc131f91b559322b976c5e24ecd9412bcbf4028d6647ab0582 as watchdog
+
+FROM arm32v7/python:3.6.12-slim-buster
+
+COPY --from=watchdog /fwatchdog /usr/bin/fwatchdog
+RUN chmod +x /usr/bin/fwatchdog
+
+RUN apt-get update && \
+    apt-get install -y build-essential \
+    wget \
+    python3 \
+    make \
+    gcc \
+    libc6-dev
+
+WORKDIR /home/app
+
+COPY requirements.txt   .
+RUN pip install --extra-index-url=https://gergely.imreh.net/wheels/ <packagename>
+
+RUN pip install -r requirements.txt
+
+COPY main.py .
+ENV fprocess="python3 main.py"
+
+HEALTHCHECK --interval=3s CMD [ -e /tmp/.lock ] || exit 1
+
+CMD ["fwatchdog"]
+
+

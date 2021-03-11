@@ -1,0 +1,17 @@
+{
+  "name": "fl_invoker_weights_update",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bson": "^4.1.0",
+    "mongodb": "^3.6.1",
+    "q": "^1.5.1",
+    "request": "^2.88.2"
+  }
+}
