@@ -396,3 +396,5 @@ old/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
+
+Clusters/Google/config.json
