@@ -1,0 +1,145 @@
+version: 0.1
+name: test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time
+providers:
+  openwhisk:
+    invasic_cluster:
+      base_url: "https://<ADD OW_AUTH here>@<ADD_IP_HERE>:31001/api/v1/namespaces/guest/actions/"
+      auth:
+        ow_auth: <ADD OW_AUTH here>
+        ow_api_host: <ADD API HOST of OW>
+        ow_apigw_access_token: APIGW_ACCESS_TOKEN
+      prometheus_config:
+        host: ""
+        port_openwhisk_metrics: "30325"
+        port_node_metrics: "30471"
+      configurations:
+        num_hosts: 1
+        each_host_cores: ""
+        each_host_ram: 755gb
+        gpu_enabled: false
+        cuda_cores: ""
+        platform: amd64
+        host_names: invasic
+        concurrency: "100"
+  google:
+    gcf_cluster:
+      base_url: "https://us-central1-<ADD_PROJECT_ID_HERE>.cloudfunctions.net/"
+      auth:
+        type: service_account
+        project_id: ""
+        private_key_id: ""
+        private_key: ""
+        client_email: ""
+        client_id: ""
+        auth_uri: ""
+        token_uri: ""
+        auth_provider_x509_cert_url: ""
+        client_x509_cert_url: ""
+
+scenarios:
+  federated_learning:
+    server_config:
+      server_cluster_name: invasic_cluster
+      server_manager_functions:
+        - fl_server_init
+        - fl_server_aggregator
+        - fl_invoker_weights_update
+
+    clients_info:
+      total_num_clients: 2
+      num_clients_per_round: 2
+      edge_clients_count: 0
+      ow_clients_count: 1
+      gcf_clients_count: 1
+      client_functions:
+        - fl_client
+
+    data_sampling:
+      input_size: 784
+      hidden_size: 500
+      output_size: 10
+      input_shape_x: 28
+      input_shape_y: 28
+      batch_size: 10
+      model: "cnn"
+    mongo_config:
+      url: <ADD_MONGO_IP_HERE>:27017
+      db: flweights
+      collection: mnist_weights
+    training_test_data:
+      train_images_url: "https://storage.googleapis.com/mnist_fl/mnist_train_img.obj"
+      train_labels_url: "https://storage.googleapis.com/mnist_fl/mnist_train_labels.obj"
+      test_images_url: "https://storage.googleapis.com/mnist_fl/mnist_test_img.obj"
+      test_labels_url: "https://storage.googleapis.com/mnist_fl/mnist_test_labels.obj"
+    model_params:
+      lr: "1e-3"
+      optim: "adam"
+      local_epochs: "5"
+
+    functions:
+      fl_client:
+        openwhisk:
+          func_path: functions/fl_client/openwhisk/main.py
+          docker_image: kkyfury/tensorflow
+          memory: "2048"
+          timeout: "300000"
+          params_file_path: "params/clients/"
+          concurrency: "100"
+        google:
+          func_path: functions/fl_client/google/
+          memory: 2048MB
+          timeout: 300s
+          region: us-central1
+          runtime: python37
+          entry-point: main
+          params_file_path: "params/clients/"
+        openfaas:
+          func_path: functions/fl_client/openfaas/
+          docker_image: ansjin/fl_server:armhf_client
+          params_file_path: "params/clients/"
+
+      fl_server_init:
+        openwhisk:
+          func_path: functions/fl_server_init/openwhisk/main.py
+          docker_image: kkyfury/tensorflow
+          memory: "2048"
+          timeout: "300000"
+          params_file_path: "params/fl_server_init.json"
+          blocking_cli: true
+          concurrency: "100"
+      fl_server_aggregator:
+        openwhisk:
+          func_path: functions/fl_server_aggregator/openwhisk/main.py
+          docker_image: kkyfury/tensorflow
+          memory: "2048"
+          timeout: "300000"
+          params_file_path: "params/usage_num_clients.json"
+          blocking_cli: true
+          concurrency: "100"
+      fl_invoker_weights_update:
+        openwhisk:
+          func_path: functions/fl_invoker_weights_update/openwhisk/main.py
+          docker_image: ansjin/fl_server:invoker
+          memory: "1024"
+          timeout: "300000"
+          params_file_path: "params/usage_num_clients.json"
+          blocking_cli: true
+          concurrency: "100"
+
+  test:
+    functions:
+      nodeinfo:
+        openwhisk:
+          func_path: ./functions/nodeinfo/openwhisk/handler.js
+          memory: "256"
+          runtime: nodejs:14
+          docker:
+          timeout: "60000"
+          concurrency: "100"
+        google:
+          func_path: ./functions/nodeinfo/google/
+          entry-point: main
+          memory: 256MB
+          runtime: nodejs12
+          timeout: 60s
+          region: us-central1

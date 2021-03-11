@@ -1,0 +1,27 @@
+{
+    "client_id": "1",
+    "client_type": "cloud",
+    "url": "https://us-central1-long-walker-228011.cloudfunctions.net/client1",
+    "train_images_url": "https://storage.googleapis.com/mnist_fl/mnist_train_img.obj",
+    "train_labels_url": "https://storage.googleapis.com/mnist_fl/mnist_train_labels.obj",
+    "test_images_url": "https://storage.googleapis.com/mnist_fl/mnist_test_img.obj",
+    "test_labels_url": "https://storage.googleapis.com/mnist_fl/mnist_test_labels.obj",
+    "mongo": {
+        "url": "172.24.65.11:27017",
+        "db": "flweights",
+        "collection": "mnist_weights"
+    },
+    "data_sampling": {
+        "input_size": 784,
+        "hidden_size": 500,
+        "output_size": 10,
+        "input_shape_x": 28,
+        "input_shape_y": 28,
+        "batch_size": 10,
+        "model": "cnn"
+    },
+    "model": "cnn",
+    "lr": "1e-3",
+    "optim": "adam",
+    "local_epochs": "5"
+}

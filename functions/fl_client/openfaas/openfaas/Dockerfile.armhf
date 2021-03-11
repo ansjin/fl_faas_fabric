@@ -1,0 +1,60 @@
+FROM openfaas/of-watchdog@sha256:bb6ae7338557dbcc131f91b559322b976c5e24ecd9412bcbf4028d6647ab0582 as watchdog
+
+FROM arm64v8/ubuntu:18.04
+
+COPY --from=watchdog /fwatchdog /usr/bin/fwatchdog
+RUN chmod +x /usr/bin/fwatchdog
+
+RUN apt-get -q update -y && \
+ apt-get -q install -y \
+ apt-transport-https \
+ apt-utils \
+ build-essential \
+ cron \
+ curl \
+ g++ \
+ git \
+ gcc \
+ language-pack-id \
+ libcairo2-dev \
+ libexpat1 \
+ libffi-dev \
+ libssl-dev \
+ libx11-dev \
+ libxml2-dev \
+ libxslt1-dev \
+ libxss1 \
+ nano \
+ netcat \
+ pango1.0-tests \
+ psmisc \
+ python \
+ python-pip \
+ python-dev \
+ python-setuptools \
+ ssl-cert \
+ vim \
+ zlib1g \
+ zlib1g-dev
+
+WORKDIR /home/app
+
+RUN apt-get install libhdf5-serial-dev hdf5-tools libhdf5-dev zlib1g-dev zip libjpeg8-dev liblapack-dev libblas-dev gfortran -y
+RUN apt-get install python3-pip -y
+RUN pip3 install -U pip
+
+COPY requirements.txt   .
+RUN pip3 install --upgrade cython
+RUN pip3 install -r requirements.txt
+RUN pip3 install -U pip testresources setuptools numpy==1.16.1 future==0.17.1 mock==3.0.5 h5py==2.10.0 keras_preprocessing==1.0.5 keras_applications==1.0.8 gast==0.2.2 futures protobuf pybind11
+
+RUN pip3 install --pre --extra-index-url https://developer.download.nvidia.com/compute/redist/jp/v44 tensorflow==2.2.0+nv20.7
+
+COPY main.py .
+ENV fprocess="python3 main.py"
+
+HEALTHCHECK --interval=3s CMD [ -e /tmp/.lock ] || exit 1
+
+CMD ["fwatchdog"]
+
+

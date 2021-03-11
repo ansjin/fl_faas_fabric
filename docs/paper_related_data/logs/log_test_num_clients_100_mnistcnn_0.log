@@ -1,0 +1,1407 @@
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.8362599611282349, Accuracy: 0.628, Time: 120.13584089279175
+Iter: 2, Loss: 1.1470075845718384, Accuracy: 0.853, Time: 57.48026156425476
+Iter: 3, Loss: 0.6742464303970337, Accuracy: 0.901, Time: 44.39478087425232
+Iter: 4, Loss: 0.4802004396915436, Accuracy: 0.928, Time: 43.2911958694458
+Iter: 5, Loss: 0.35869985818862915, Accuracy: 0.939, Time: 53.64444088935852
+Iter: 6, Loss: 0.28122106194496155, Accuracy: 0.947, Time: 42.20750069618225
+Iter: 7, Loss: 0.22312599420547485, Accuracy: 0.955, Time: 40.75712966918945
+Iter: 8, Loss: 0.18788987398147583, Accuracy: 0.960, Time: 42.7893602848053
+Iter: 9, Loss: 0.15840409696102142, Accuracy: 0.963, Time: 40.52881574630737
+Iter: 10, Loss: 0.14267534017562866, Accuracy: 0.966, Time: 40.59636640548706
+Iter: 11, Loss: 0.12696996331214905, Accuracy: 0.966, Time: 39.9300754070282
+Iter: 12, Loss: 0.11372427642345428, Accuracy: 0.969, Time: 39.45960021018982
+Iter: 13, Loss: 0.10748245567083359, Accuracy: 0.969, Time: 38.384796142578125
+Iter: 14, Loss: 0.100596584379673, Accuracy: 0.970, Time: 39.83268857002258
+Iter: 15, Loss: 0.09142698347568512, Accuracy: 0.972, Time: 41.086447954177856
+Iter: 16, Loss: 0.08764869719743729, Accuracy: 0.973, Time: 41.80574560165405
+Iter: 17, Loss: 0.0816849023103714, Accuracy: 0.975, Time: 40.59359812736511
+Iter: 18, Loss: 0.07681404799222946, Accuracy: 0.976, Time: 46.80895400047302
+Iter: 19, Loss: 0.07151171565055847, Accuracy: 0.978, Time: 40.0271635055542
+Iter: 20, Loss: 0.06899064034223557, Accuracy: 0.979, Time: 48.52395939826965
+Iter: 21, Loss: 0.06680957227945328, Accuracy: 0.980, Time: 52.60637068748474
+Iter: 22, Loss: 0.06439149379730225, Accuracy: 0.980, Time: 52.14588761329651
+Iter: 23, Loss: 0.0610831044614315, Accuracy: 0.981, Time: 42.779529333114624
+Iter: 24, Loss: 0.060139354318380356, Accuracy: 0.981, Time: 65.55576467514038
+Iter: 25, Loss: 0.05806057155132294, Accuracy: 0.982, Time: 68.3490252494812
+Iter: 26, Loss: 0.05765850841999054, Accuracy: 0.982, Time: 59.898287773132324
+Iter: 27, Loss: 0.05578630417585373, Accuracy: 0.983, Time: 81.928471326828
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.9124025106430054, Accuracy: 0.648, Time: 268.660936832428
+Iter: 2, Loss: 1.191698431968689, Accuracy: 0.842, Time: 96.1184663772583
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.8793810606002808, Accuracy: 0.561, Time: 86.67192125320435
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.7868525981903076, Accuracy: 0.752, Time: 58.57780432701111
+Iter: 2, Loss: 1.0736256837844849, Accuracy: 0.888, Time: 67.53035879135132
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.8526841402053833, Accuracy: 0.696, Time: 55.02215027809143
+Iter: 2, Loss: 1.1588914394378662, Accuracy: 0.842, Time: 54.20712161064148
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.8385850191116333, Accuracy: 0.739, Time: 145.07886910438538
+Iter: 2, Loss: 1.078076720237732, Accuracy: 0.866, Time: 85.20605182647705
+Iter: 3, Loss: 0.6676197052001953, Accuracy: 0.901, Time: 91.10215997695923
+Iter: 4, Loss: 0.4740983545780182, Accuracy: 0.922, Time: 54.22035002708435
+Iter: 5, Loss: 0.3495328724384308, Accuracy: 0.933, Time: 55.61187744140625
+Iter: 6, Loss: 0.2915564179420471, Accuracy: 0.941, Time: 64.3546314239502
+Iter: 7, Loss: 0.2317633330821991, Accuracy: 0.948, Time: 61.073790073394775
+Iter: 8, Loss: 0.19936083257198334, Accuracy: 0.956, Time: 54.19223999977112
+Iter: 9, Loss: 0.1765340268611908, Accuracy: 0.955, Time: 54.23363018035889
+Iter: 10, Loss: 0.15359479188919067, Accuracy: 0.960, Time: 55.47315335273743
+Iter: 11, Loss: 0.14563117921352386, Accuracy: 0.962, Time: 65.92409181594849
+Iter: 12, Loss: 0.11841271072626114, Accuracy: 0.968, Time: 57.25038266181946
+Iter: 13, Loss: 0.113265760242939, Accuracy: 0.969, Time: 56.538254737854004
+Iter: 14, Loss: 0.10257916152477264, Accuracy: 0.971, Time: 58.61112904548645
+Iter: 15, Loss: 0.09778964519500732, Accuracy: 0.972, Time: 63.96225428581238
+Iter: 16, Loss: 0.08960289508104324, Accuracy: 0.974, Time: 53.85497999191284
+Iter: 17, Loss: 0.08602140098810196, Accuracy: 0.974, Time: 71.26135969161987
+Iter: 18, Loss: 0.08133626729249954, Accuracy: 0.976, Time: 59.44483685493469
+Iter: 19, Loss: 0.07769571244716644, Accuracy: 0.977, Time: 69.18855476379395
+Iter: 20, Loss: 0.07213720679283142, Accuracy: 0.977, Time: 53.84003138542175
+Iter: 21, Loss: 0.06944609433412552, Accuracy: 0.978, Time: 54.12528157234192
+Iter: 22, Loss: 0.06732704490423203, Accuracy: 0.979, Time: 68.14707374572754
+Iter: 23, Loss: 0.06332287937402725, Accuracy: 0.980, Time: 61.117791414260864
+Iter: 24, Loss: 0.06095053628087044, Accuracy: 0.981, Time: 53.013086795806885
+Iter: 25, Loss: 0.05945999175310135, Accuracy: 0.981, Time: 56.66634750366211
+Iter: 26, Loss: 0.056349463760852814, Accuracy: 0.982, Time: 60.88911056518555
+Iter: 27, Loss: 0.05506128445267677, Accuracy: 0.982, Time: 59.30537271499634
+Iter: 28, Loss: 0.053003620356321335, Accuracy: 0.983, Time: 83.19830656051636
+Iter: 29, Loss: 0.052791789174079895, Accuracy: 0.983, Time: 85.33008909225464
+Iter: 30, Loss: 0.050103481858968735, Accuracy: 0.984, Time: 68.8744695186615
+Iter: 31, Loss: 0.04905145615339279, Accuracy: 0.984, Time: 62.03047776222229
+Iter: 32, Loss: 0.047357380390167236, Accuracy: 0.984, Time: 71.0309112071991
+Iter: 33, Loss: 0.04727165400981903, Accuracy: 0.985, Time: 88.46565651893616
+Iter: 34, Loss: 0.04637867212295532, Accuracy: 0.985, Time: 73.60168027877808
+Iter: 35, Loss: 0.04589274525642395, Accuracy: 0.985, Time: 66.04647994041443
+Iter: 36, Loss: 0.044678494334220886, Accuracy: 0.985, Time: 53.997291803359985
+Iter: 37, Loss: 0.04319630563259125, Accuracy: 0.986, Time: 63.01389956474304
+Iter: 38, Loss: 0.043091706931591034, Accuracy: 0.986, Time: 62.6038658618927
+Iter: 39, Loss: 0.04220425710082054, Accuracy: 0.986, Time: 66.81166791915894
+Iter: 40, Loss: 0.041429031640291214, Accuracy: 0.986, Time: 76.08495354652405
+Iter: 41, Loss: 0.041339628398418427, Accuracy: 0.987, Time: 85.9908459186554
+Iter: 42, Loss: 0.04092438891530037, Accuracy: 0.987, Time: 96.59694981575012
+Iter: 43, Loss: 0.04092082381248474, Accuracy: 0.987, Time: 73.1131362915039
+Iter: 44, Loss: 0.040560755878686905, Accuracy: 0.987, Time: 90.79323816299438
+Iter: 45, Loss: 0.04040945693850517, Accuracy: 0.988, Time: 73.24543070793152
+Iter: 46, Loss: 0.0394844189286232, Accuracy: 0.988, Time: 68.80801820755005
+Iter: 47, Loss: 0.03895339369773865, Accuracy: 0.988, Time: 68.17035126686096
+Iter: 48, Loss: 0.03803449869155884, Accuracy: 0.989, Time: 79.34978294372559
+Iter: 49, Loss: 0.038120023906230927, Accuracy: 0.988, Time: 56.37398409843445
+Iter: 50, Loss: 0.03835798054933548, Accuracy: 0.988, Time: 54.01787543296814
+Iter: 51, Loss: 0.038223713636398315, Accuracy: 0.989, Time: 68.14915752410889
+Iter: 52, Loss: 0.037107497453689575, Accuracy: 0.989, Time: 62.356545209884644
+Iter: 53, Loss: 0.038056597113609314, Accuracy: 0.989, Time: 82.5951943397522
+Iter: 54, Loss: 0.03828500211238861, Accuracy: 0.989, Time: 53.994237422943115
+Iter: 55, Loss: 0.03817230090498924, Accuracy: 0.989, Time: 55.63050174713135
+Iter: 56, Loss: 0.03747361898422241, Accuracy: 0.990, Time: 53.778523206710815
+TotalIter: 56, FinalLoss: 0.03747361898422241, FinalAccuracy: 0.990, TotalTime: 3787.8107488155365
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.8033692836761475, Accuracy: 0.676, Time: 158.66050958633423
+Iter: 2, Loss: 1.16145658493042, Accuracy: 0.806, Time: 112.63326859474182
+Iter: 3, Loss: 0.7408183813095093, Accuracy: 0.885, Time: 108.60806465148926
+Iter: 4, Loss: 0.5151758790016174, Accuracy: 0.917, Time: 56.91539430618286
+Iter: 5, Loss: 0.3888292610645294, Accuracy: 0.937, Time: 54.3949134349823
+Iter: 6, Loss: 0.28836286067962646, Accuracy: 0.945, Time: 59.64478921890259
+Iter: 7, Loss: 0.23148784041404724, Accuracy: 0.952, Time: 88.62217688560486
+Iter: 8, Loss: 0.20816288888454437, Accuracy: 0.956, Time: 53.9337260723114
+Iter: 9, Loss: 0.160394549369812, Accuracy: 0.964, Time: 53.43422341346741
+Iter: 10, Loss: 0.14141635596752167, Accuracy: 0.967, Time: 85.86210656166077
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.856261134147644, Accuracy: 0.676, Time: 165.00727915763855
+Iter: 2, Loss: 1.171728491783142, Accuracy: 0.845, Time: 127.3345057964325
+Iter: 3, Loss: 0.7256215810775757, Accuracy: 0.895, Time: 83.38863444328308
+Iter: 4, Loss: 0.502927839756012, Accuracy: 0.923, Time: 56.98129224777222
+Iter: 5, Loss: 0.3499680161476135, Accuracy: 0.935, Time: 54.598113775253296
+Iter: 6, Loss: 0.2786012589931488, Accuracy: 0.944, Time: 55.70668601989746
+Iter: 7, Loss: 0.23622891306877136, Accuracy: 0.950, Time: 52.32350945472717
+Iter: 8, Loss: 0.18912826478481293, Accuracy: 0.957, Time: 76.11302542686462
+Iter: 9, Loss: 0.1565292924642563, Accuracy: 0.963, Time: 61.063350677490234
+Iter: 10, Loss: 0.13383816182613373, Accuracy: 0.966, Time: 55.55550408363342
+Iter: 11, Loss: 0.12072088569402695, Accuracy: 0.968, Time: 55.35156202316284
+Iter: 12, Loss: 0.11013121157884598, Accuracy: 0.971, Time: 52.579575300216675
+Iter: 13, Loss: 0.10134295374155045, Accuracy: 0.972, Time: 52.95217204093933
+Iter: 14, Loss: 0.09188463538885117, Accuracy: 0.973, Time: 58.47730326652527
+Iter: 15, Loss: 0.08545083552598953, Accuracy: 0.974, Time: 54.419514656066895
+Iter: 16, Loss: 0.07950278371572495, Accuracy: 0.975, Time: 56.63094449043274
+Iter: 17, Loss: 0.0762644037604332, Accuracy: 0.976, Time: 53.11334848403931
+Iter: 18, Loss: 0.07430907338857651, Accuracy: 0.977, Time: 54.857789516448975
+Iter: 19, Loss: 0.06825562566518784, Accuracy: 0.979, Time: 54.9434449672699
+Iter: 20, Loss: 0.06475193798542023, Accuracy: 0.980, Time: 58.802597522735596
+Iter: 21, Loss: 0.06201950088143349, Accuracy: 0.980, Time: 53.75287365913391
+Iter: 22, Loss: 0.059029389172792435, Accuracy: 0.981, Time: 55.63383913040161
+Iter: 23, Loss: 0.056996576488018036, Accuracy: 0.981, Time: 53.5903377532959
+Iter: 24, Loss: 0.05664196237921715, Accuracy: 0.982, Time: 54.12636661529541
+Iter: 25, Loss: 0.05607587844133377, Accuracy: 0.982, Time: 54.12235760688782
+Iter: 26, Loss: 0.053380321711301804, Accuracy: 0.983, Time: 53.01183819770813
+Iter: 27, Loss: 0.05289321392774582, Accuracy: 0.983, Time: 53.91226816177368
+Iter: 28, Loss: 0.05105483531951904, Accuracy: 0.983, Time: 54.597551584243774
+Iter: 29, Loss: 0.048450153321027756, Accuracy: 0.984, Time: 53.67327857017517
+Iter: 30, Loss: 0.046933259814977646, Accuracy: 0.985, Time: 64.2231514453888
+Iter: 31, Loss: 0.045279812067747116, Accuracy: 0.985, Time: 69.7432746887207
+Iter: 32, Loss: 0.044147130101919174, Accuracy: 0.986, Time: 53.90382790565491
+Iter: 33, Loss: 0.04236390069127083, Accuracy: 0.987, Time: 61.54314303398132
+Iter: 34, Loss: 0.041626110672950745, Accuracy: 0.986, Time: 55.84419822692871
+Iter: 35, Loss: 0.04179634153842926, Accuracy: 0.986, Time: 62.96133327484131
+Iter: 36, Loss: 0.04221874848008156, Accuracy: 0.987, Time: 68.94940423965454
+Iter: 37, Loss: 0.04272468388080597, Accuracy: 0.985, Time: 66.09570717811584
+Iter: 38, Loss: 0.04135315865278244, Accuracy: 0.987, Time: 61.47506833076477
+Iter: 39, Loss: 0.0405447892844677, Accuracy: 0.986, Time: 67.66750955581665
+Iter: 40, Loss: 0.040011584758758545, Accuracy: 0.987, Time: 55.22999286651611
+Iter: 41, Loss: 0.03856077790260315, Accuracy: 0.988, Time: 55.146480083465576
+Iter: 42, Loss: 0.03872207552194595, Accuracy: 0.988, Time: 54.938961029052734
+Iter: 43, Loss: 0.0385635606944561, Accuracy: 0.987, Time: 53.57521390914917
+Iter: 44, Loss: 0.03846203163266182, Accuracy: 0.988, Time: 54.681692361831665
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.8175232410430908, Accuracy: 0.614, InvokeTime:7.081588983535767,  aggTime: 17.960832118988037, total Time: 84.35474419593811, 
+Iter: 2, Loss: 1.1393541097640991, Accuracy: 0.849, InvokeTime:6.330873966217041,  aggTime: 13.928274154663086, total Time: 79.42770600318909, 
+Iter: 3, Loss: 0.715248703956604, Accuracy: 0.909, InvokeTime:8.372124195098877,  aggTime: 14.961811304092407, total Time: 72.73690223693848, 
+Iter: 4, Loss: 0.501991331577301, Accuracy: 0.929, InvokeTime:7.310647964477539,  aggTime: 13.6376953125, total Time: 55.9094021320343, 
+Iter: 5, Loss: 0.3832157552242279, Accuracy: 0.939, InvokeTime:6.608914852142334,  aggTime: 14.36098313331604, total Time: 61.540717124938965, 
+Iter: 6, Loss: 0.29770687222480774, Accuracy: 0.947, InvokeTime:6.5223681926727295,  aggTime: 14.6146240234375, total Time: 63.61405420303345, 
+Iter: 7, Loss: 0.2506338953971863, Accuracy: 0.954, InvokeTime:7.434507131576538,  aggTime: 13.270521879196167, total Time: 54.630654096603394, 
+Iter: 8, Loss: 0.1939118504524231, Accuracy: 0.959, InvokeTime:6.3378260135650635,  aggTime: 14.094578981399536, total Time: 40.42676901817322, 
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.8815277814865112, Accuracy: 0.585, InvokeTime:6.999432802200317,  aggTime: 20.02426791191101, total Time: 73.21685981750488, 
+Iter: 2, Loss: 1.152413249015808, Accuracy: 0.816, InvokeTime:6.420786142349243,  aggTime: 13.64658808708191, total Time: 63.87868309020996, 
+Iter: 3, Loss: 0.712445855140686, Accuracy: 0.887, InvokeTime:6.755315780639648,  aggTime: 15.44956374168396, total Time: 127.0943386554718, 
+Iter: 4, Loss: 0.4994514286518097, Accuracy: 0.916, InvokeTime:7.287355899810791,  aggTime: 13.399452209472656, total Time: 42.592872858047485, 
+Iter: 5, Loss: 0.3704027831554413, Accuracy: 0.933, InvokeTime:6.679777145385742,  aggTime: 13.959794998168945, total Time: 45.263628244400024, 
+Iter: 6, Loss: 0.28753483295440674, Accuracy: 0.942, InvokeTime:6.267619848251343,  aggTime: 14.166971921920776, total Time: 43.31171894073486, 
+Iter: 7, Loss: 0.22674056887626648, Accuracy: 0.950, InvokeTime:6.5275719165802,  aggTime: 13.29164171218872, total Time: 39.78612780570984, 
+Iter: 8, Loss: 0.18954704701900482, Accuracy: 0.957, InvokeTime:6.233672857284546,  aggTime: 14.043278932571411, total Time: 40.26764488220215, 
+Iter: 9, Loss: 0.16595664620399475, Accuracy: 0.958, InvokeTime:6.684720754623413,  aggTime: 13.98809814453125, total Time: 40.781378746032715, 
+Iter: 10, Loss: 0.14730708301067352, Accuracy: 0.963, InvokeTime:6.5915422439575195,  aggTime: 14.184103012084961, total Time: 46.11047101020813, 
+Iter: 11, Loss: 0.12685875594615936, Accuracy: 0.965, InvokeTime:6.7891881465911865,  aggTime: 13.996309041976929, total Time: 41.234619140625, 
+Iter: 12, Loss: 0.11517423391342163, Accuracy: 0.967, InvokeTime:6.714471817016602,  aggTime: 12.94562578201294, total Time: 43.71860074996948, 
+Iter: 13, Loss: 0.10320058465003967, Accuracy: 0.968, InvokeTime:6.814038038253784,  aggTime: 13.488662004470825, total Time: 44.44670486450195, 
+Iter: 14, Loss: 0.099856898188591, Accuracy: 0.969, InvokeTime:7.682579040527344,  aggTime: 13.86710000038147, total Time: 42.81615495681763, 
+Iter: 15, Loss: 0.0945986807346344, Accuracy: 0.970, InvokeTime:6.5134031772613525,  aggTime: 13.70493221282959, total Time: 42.9158661365509, 
+Iter: 16, Loss: 0.08660103380680084, Accuracy: 0.973, InvokeTime:7.035624027252197,  aggTime: 13.980576992034912, total Time: 42.02284121513367, 
+Iter: 17, Loss: 0.08042949438095093, Accuracy: 0.974, InvokeTime:9.133555173873901,  aggTime: 13.574280023574829, total Time: 42.24700713157654, 
+Iter: 18, Loss: 0.07526707649230957, Accuracy: 0.975, InvokeTime:6.695399761199951,  aggTime: 13.558326005935669, total Time: 40.63362097740173, 
+Iter: 19, Loss: 0.07360343635082245, Accuracy: 0.975, InvokeTime:6.669198989868164,  aggTime: 13.701676845550537, total Time: 41.05316495895386, 
+Iter: 20, Loss: 0.07084234803915024, Accuracy: 0.977, InvokeTime:7.460409879684448,  aggTime: 14.284327745437622, total Time: 41.291603803634644, 
+Iter: 21, Loss: 0.06705018132925034, Accuracy: 0.978, InvokeTime:6.2858240604400635,  aggTime: 14.16431736946106, total Time: 39.862319231033325, 
+Iter: 22, Loss: 0.06397230178117752, Accuracy: 0.979, InvokeTime:7.268977880477905,  aggTime: 13.950502157211304, total Time: 41.80061101913452, 
+Iter: 23, Loss: 0.06084273010492325, Accuracy: 0.981, InvokeTime:5.976661920547485,  aggTime: 14.10423493385315, total Time: 49.58649802207947, 
+Iter: 24, Loss: 0.058175817131996155, Accuracy: 0.981, InvokeTime:6.095865964889526,  aggTime: 13.302181959152222, total Time: 41.98395586013794, 
+Iter: 25, Loss: 0.05725792050361633, Accuracy: 0.982, InvokeTime:6.0209174156188965,  aggTime: 13.664254903793335, total Time: 41.5762460231781, 
+Iter: 26, Loss: 0.05561494082212448, Accuracy: 0.982, InvokeTime:6.260637044906616,  aggTime: 13.44303822517395, total Time: 40.255882024765015, 
+Iter: 27, Loss: 0.05280250683426857, Accuracy: 0.983, InvokeTime:6.331132888793945,  aggTime: 13.539627075195312, total Time: 39.69677686691284, 
+Iter: 28, Loss: 0.052525635808706284, Accuracy: 0.983, InvokeTime:6.703870058059692,  aggTime: 13.459619998931885, total Time: 39.59758806228638, 
+Iter: 29, Loss: 0.05155084654688835, Accuracy: 0.983, InvokeTime:6.169271945953369,  aggTime: 13.444482803344727, total Time: 39.379570722579956, 
+Iter: 30, Loss: 0.05039866641163826, Accuracy: 0.984, InvokeTime:6.201676845550537,  aggTime: 13.672894954681396, total Time: 40.605141162872314, 
+Iter: 31, Loss: 0.0496937558054924, Accuracy: 0.984, InvokeTime:6.15406608581543,  aggTime: 13.988246202468872, total Time: 40.37912321090698, 
+Iter: 32, Loss: 0.04799601435661316, Accuracy: 0.985, InvokeTime:5.91808295249939,  aggTime: 13.63910984992981, total Time: 39.626792907714844, 
+Iter: 33, Loss: 0.046676699072122574, Accuracy: 0.985, InvokeTime:6.3869359493255615,  aggTime: 13.735846996307373, total Time: 39.32146191596985, 
+Iter: 34, Loss: 0.04601133614778519, Accuracy: 0.986, InvokeTime:6.383778095245361,  aggTime: 13.78374695777893, total Time: 40.08735990524292, 
+Iter: 35, Loss: 0.0461665615439415, Accuracy: 0.986, InvokeTime:6.358905792236328,  aggTime: 13.854016065597534, total Time: 44.244531869888306, 
+Iter: 36, Loss: 0.044120896607637405, Accuracy: 0.986, InvokeTime:6.847934007644653,  aggTime: 13.807785034179688, total Time: 40.89042901992798, 
+Iter: 37, Loss: 0.04316037893295288, Accuracy: 0.987, InvokeTime:6.3490612506866455,  aggTime: 14.488811016082764, total Time: 41.069496154785156, 
+Iter: 38, Loss: 0.04372750595211983, Accuracy: 0.986, InvokeTime:5.867237091064453,  aggTime: 14.187188148498535, total Time: 42.77392220497131, 
+Iter: 39, Loss: 0.04354890435934067, Accuracy: 0.986, InvokeTime:6.31725001335144,  aggTime: 14.231152057647705, total Time: 39.88724613189697, 
+Iter: 40, Loss: 0.04341234266757965, Accuracy: 0.987, InvokeTime:6.255244970321655,  aggTime: 13.980823040008545, total Time: 39.960943937301636, 
+Iter: 41, Loss: 0.04188089445233345, Accuracy: 0.987, InvokeTime:6.165087938308716,  aggTime: 14.634805917739868, total Time: 40.60129976272583, 
+Iter: 42, Loss: 0.0410904735326767, Accuracy: 0.987, InvokeTime:6.154831886291504,  aggTime: 14.287582874298096, total Time: 39.75282287597656, 
+Iter: 43, Loss: 0.039841145277023315, Accuracy: 0.988, InvokeTime:6.2329230308532715,  aggTime: 14.145478963851929, total Time: 39.60576105117798, 
+Iter: 44, Loss: 0.04030723124742508, Accuracy: 0.987, InvokeTime:6.412770748138428,  aggTime: 14.311726808547974, total Time: 40.47753977775574, 
+Iter: 45, Loss: 0.04072494059801102, Accuracy: 0.987, InvokeTime:5.855378866195679,  aggTime: 14.360692024230957, total Time: 49.35603189468384, 
+Iter: 46, Loss: 0.04017385095357895, Accuracy: 0.987, InvokeTime:5.995665788650513,  aggTime: 14.687328100204468, total Time: 41.67652893066406, 
+Iter: 47, Loss: 0.03842351213097572, Accuracy: 0.988, InvokeTime:6.3722450733184814,  aggTime: 13.60541296005249, total Time: 48.734776973724365, 
+Iter: 48, Loss: 0.03943925350904465, Accuracy: 0.988, InvokeTime:5.945683002471924,  aggTime: 13.381468057632446, total Time: 39.423367977142334, 
+Iter: 49, Loss: 0.03904014453291893, Accuracy: 0.988, InvokeTime:5.819895029067993,  aggTime: 13.6283860206604, total Time: 39.220826148986816, 
+Iter: 50, Loss: 0.03848927468061447, Accuracy: 0.988, InvokeTime:6.33978796005249,  aggTime: 13.276757001876831, total Time: 38.88098502159119, 
+Iter: 51, Loss: 0.03736181929707527, Accuracy: 0.988, InvokeTime:6.711941719055176,  aggTime: 13.80013918876648, total Time: 42.60976004600525, 
+Iter: 52, Loss: 0.03759480267763138, Accuracy: 0.988, InvokeTime:6.302746772766113,  aggTime: 14.141237020492554, total Time: 40.69227385520935, 
+Iter: 53, Loss: 0.03785973787307739, Accuracy: 0.988, InvokeTime:5.96641993522644,  aggTime: 13.794744729995728, total Time: 41.95241975784302, 
+Iter: 54, Loss: 0.0379473939538002, Accuracy: 0.988, InvokeTime:5.910904169082642,  aggTime: 13.687277793884277, total Time: 39.13673710823059, 
+Iter: 55, Loss: 0.03729818016290665, Accuracy: 0.988, InvokeTime:6.389481067657471,  aggTime: 13.821559190750122, total Time: 39.80542707443237, 
+Iter: 56, Loss: 0.03675086796283722, Accuracy: 0.989, InvokeTime:7.709918022155762,  aggTime: 13.686126232147217, total Time: 40.62331008911133, 
+Iter: 57, Loss: 0.03784799203276634, Accuracy: 0.988, InvokeTime:6.299045085906982,  aggTime: 13.937402725219727, total Time: 39.451220989227295, 
+Iter: 58, Loss: 0.03786156699061394, Accuracy: 0.988, InvokeTime:6.037008047103882,  aggTime: 14.360026121139526, total Time: 39.73038697242737, 
+Iter: 59, Loss: 0.03791864588856697, Accuracy: 0.988, InvokeTime:6.180513858795166,  aggTime: 13.984345197677612, total Time: 40.88601207733154, 
+Iter: 60, Loss: 0.03657975047826767, Accuracy: 0.989, InvokeTime:5.926072120666504,  aggTime: 14.044591903686523, total Time: 43.59151101112366, 
+Iter: 61, Loss: 0.037345048040151596, Accuracy: 0.989, InvokeTime:6.033674001693726,  aggTime: 14.046055793762207, total Time: 42.08633494377136, 
+Iter: 62, Loss: 0.03717835992574692, Accuracy: 0.989, InvokeTime:7.040933132171631,  aggTime: 13.910402774810791, total Time: 44.33893179893494, 
+Iter: 63, Loss: 0.03645304962992668, Accuracy: 0.989, InvokeTime:5.991055965423584,  aggTime: 13.858934164047241, total Time: 39.830018043518066, 
+Iter: 64, Loss: 0.03596106544137001, Accuracy: 0.989, InvokeTime:7.084582090377808,  aggTime: 14.11622405052185, total Time: 40.97418808937073, 
+Iter: 65, Loss: 0.03606926277279854, Accuracy: 0.989, InvokeTime:5.9041907787323,  aggTime: 14.060290098190308, total Time: 39.922738790512085, 
+Iter: 66, Loss: 0.036208491772413254, Accuracy: 0.989, InvokeTime:6.224866628646851,  aggTime: 13.816179990768433, total Time: 44.03254675865173, 
+Iter: 67, Loss: 0.03539487347006798, Accuracy: 0.990, InvokeTime:6.784597873687744,  aggTime: 14.089757919311523, total Time: 40.95846676826477, 
+TotalIter: 67, FinalLoss: 0.03539487347006798, FinalAccuracy: 0.990, TotalTime: 2925.6515510082245
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.89958655834198, Accuracy: 0.591, InvokeTime:6.94545578956604,  aggTime: 18.5550799369812, total Time: 111.29086589813232, 
+Iter: 2, Loss: 1.191432237625122, Accuracy: 0.786, InvokeTime:5.93261194229126,  aggTime: 13.845365047454834, total Time: 63.7770299911499, 
+Iter: 3, Loss: 0.7304248809814453, Accuracy: 0.884, InvokeTime:6.927450656890869,  aggTime: 14.260475158691406, total Time: 62.512393951416016, 
+Iter: 4, Loss: 0.5404379963874817, Accuracy: 0.927, InvokeTime:6.559104919433594,  aggTime: 13.702846765518188, total Time: 39.0269718170166, 
+Iter: 5, Loss: 0.39508211612701416, Accuracy: 0.941, InvokeTime:5.688927888870239,  aggTime: 13.689255952835083, total Time: 37.63967776298523, 
+Iter: 6, Loss: 0.3081580698490143, Accuracy: 0.948, InvokeTime:5.989198923110962,  aggTime: 14.217304944992065, total Time: 39.39813590049744, 
+Iter: 7, Loss: 0.24681007862091064, Accuracy: 0.953, InvokeTime:6.05057692527771,  aggTime: 13.668994188308716, total Time: 38.964755058288574, 
+Iter: 8, Loss: 0.2003016173839569, Accuracy: 0.958, InvokeTime:6.303638696670532,  aggTime: 15.81806993484497, total Time: 41.7847056388855, 
+Iter: 9, Loss: 0.1715475171804428, Accuracy: 0.961, InvokeTime:6.77944803237915,  aggTime: 14.945222854614258, total Time: 41.06552815437317, 
+Iter: 10, Loss: 0.1536632627248764, Accuracy: 0.965, InvokeTime:6.658552885055542,  aggTime: 14.1459219455719, total Time: 40.18359994888306, 
+Iter: 11, Loss: 0.13272815942764282, Accuracy: 0.967, InvokeTime:7.136261701583862,  aggTime: 14.061231851577759, total Time: 40.16392278671265, 
+Iter: 12, Loss: 0.12354025989770889, Accuracy: 0.969, InvokeTime:6.018388032913208,  aggTime: 14.347517251968384, total Time: 40.165072202682495, 
+Iter: 13, Loss: 0.11558767408132553, Accuracy: 0.970, InvokeTime:6.455667972564697,  aggTime: 13.464612245559692, total Time: 38.83573913574219, 
+Iter: 14, Loss: 0.10451836884021759, Accuracy: 0.972, InvokeTime:4.9501588344573975,  aggTime: 13.447312831878662, total Time: 38.42089867591858, 
+Iter: 15, Loss: 0.09448045492172241, Accuracy: 0.973, InvokeTime:7.95939302444458,  aggTime: 13.138330221176147, total Time: 39.281594038009644, 
+Iter: 16, Loss: 0.09411589056253433, Accuracy: 0.973, InvokeTime:6.792905807495117,  aggTime: 13.664111137390137, total Time: 39.18614387512207, 
+Iter: 17, Loss: 0.09065666794776917, Accuracy: 0.975, InvokeTime:6.049634695053101,  aggTime: 13.741318941116333, total Time: 38.65461087226868, 
+Iter: 18, Loss: 0.08316042274236679, Accuracy: 0.976, InvokeTime:5.865320920944214,  aggTime: 13.399045944213867, total Time: 37.891674757003784, 
+Iter: 19, Loss: 0.081383615732193, Accuracy: 0.976, InvokeTime:7.560979127883911,  aggTime: 13.895216226577759, total Time: 40.09595823287964, 
+Iter: 20, Loss: 0.07832373678684235, Accuracy: 0.978, InvokeTime:4.712489128112793,  aggTime: 13.886354923248291, total Time: 42.199586153030396, 
+Iter: 21, Loss: 0.07320547848939896, Accuracy: 0.979, InvokeTime:6.795938014984131,  aggTime: 13.692753791809082, total Time: 40.093042850494385, 
+Iter: 22, Loss: 0.07145807147026062, Accuracy: 0.978, InvokeTime:5.253265142440796,  aggTime: 14.280046939849854, total Time: 37.605345010757446, 
+Iter: 23, Loss: 0.06724318116903305, Accuracy: 0.980, InvokeTime:6.510798215866089,  aggTime: 14.697107315063477, total Time: 38.96492123603821, 
+Iter: 24, Loss: 0.06413610279560089, Accuracy: 0.980, InvokeTime:5.659509897232056,  aggTime: 13.917984008789062, total Time: 38.244056701660156, 
+Iter: 25, Loss: 0.061890482902526855, Accuracy: 0.981, InvokeTime:5.988163709640503,  aggTime: 13.719590187072754, total Time: 59.851112842559814, 
+Iter: 26, Loss: 0.059223711490631104, Accuracy: 0.982, InvokeTime:6.814219951629639,  aggTime: 13.220315933227539, total Time: 38.500377893447876, 
+Iter: 27, Loss: 0.058638494461774826, Accuracy: 0.982, InvokeTime:5.723357915878296,  aggTime: 13.815283060073853, total Time: 39.57616114616394, 
+Iter: 28, Loss: 0.056665997952222824, Accuracy: 0.982, InvokeTime:6.651618003845215,  aggTime: 13.773133039474487, total Time: 39.60847592353821, 
+Iter: 29, Loss: 0.05713750794529915, Accuracy: 0.982, InvokeTime:5.711053848266602,  aggTime: 13.683388948440552, total Time: 39.60669279098511, 
+Iter: 30, Loss: 0.056367259472608566, Accuracy: 0.983, InvokeTime:5.979054927825928,  aggTime: 13.799658060073853, total Time: 40.43933701515198, 
+Iter: 31, Loss: 0.05425254628062248, Accuracy: 0.983, InvokeTime:6.477254867553711,  aggTime: 14.050181150436401, total Time: 47.41793513298035, 
+Iter: 32, Loss: 0.05261852592229843, Accuracy: 0.984, InvokeTime:4.708714008331299,  aggTime: 13.91917896270752, total Time: 38.79241895675659, 
+Iter: 33, Loss: 0.051143791526556015, Accuracy: 0.984, InvokeTime:5.043838262557983,  aggTime: 13.856995105743408, total Time: 47.10333728790283, 
+Iter: 34, Loss: 0.05024980381131172, Accuracy: 0.984, InvokeTime:7.1647210121154785,  aggTime: 13.991928100585938, total Time: 44.872687339782715, 
+Iter: 35, Loss: 0.05018134415149689, Accuracy: 0.985, InvokeTime:6.63794207572937,  aggTime: 13.851941108703613, total Time: 41.2509880065918, 
+Iter: 36, Loss: 0.05058541148900986, Accuracy: 0.984, InvokeTime:6.238656997680664,  aggTime: 13.97420597076416, total Time: 40.30760908126831, 
+Iter: 37, Loss: 0.04962395504117012, Accuracy: 0.985, InvokeTime:6.7967119216918945,  aggTime: 15.373315811157227, total Time: 41.63293385505676, 
+Iter: 38, Loss: 0.049513522535562515, Accuracy: 0.985, InvokeTime:6.597585916519165,  aggTime: 14.144868850708008, total Time: 40.28338980674744, 
+Iter: 39, Loss: 0.04697725549340248, Accuracy: 0.985, InvokeTime:6.082648038864136,  aggTime: 14.038811922073364, total Time: 39.08625316619873, 
+Iter: 40, Loss: 0.04752025753259659, Accuracy: 0.986, InvokeTime:4.848867893218994,  aggTime: 14.602548837661743, total Time: 39.26765179634094, 
+Iter: 41, Loss: 0.046184614300727844, Accuracy: 0.986, InvokeTime:7.411724090576172,  aggTime: 14.204225063323975, total Time: 42.121562242507935, 
+Iter: 42, Loss: 0.04634164273738861, Accuracy: 0.986, InvokeTime:5.762758016586304,  aggTime: 14.319858312606812, total Time: 40.497509241104126, 
+Iter: 43, Loss: 0.045519594103097916, Accuracy: 0.986, InvokeTime:7.934528112411499,  aggTime: 13.970386028289795, total Time: 41.241353034973145, 
+Iter: 44, Loss: 0.0449213944375515, Accuracy: 0.987, InvokeTime:6.18326210975647,  aggTime: 14.278146982192993, total Time: 54.941882848739624, 
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.8473637104034424, Accuracy: 0.607, InvokeTime:5.647624969482422,  aggTime: 18.036263942718506, total Time: 79.18066787719727, 
+Iter: 2, Loss: 1.1558297872543335, Accuracy: 0.845, InvokeTime:5.0702831745147705,  aggTime: 13.859255075454712, total Time: 78.00932717323303, 
+Iter: 3, Loss: 0.7036095857620239, Accuracy: 0.909, InvokeTime:5.027935981750488,  aggTime: 14.258600950241089, total Time: 37.79328489303589, 
+Iter: 4, Loss: 0.481245219707489, Accuracy: 0.928, InvokeTime:5.353300094604492,  aggTime: 13.44762396812439, total Time: 38.5169460773468, 
+Iter: 5, Loss: 0.34094706177711487, Accuracy: 0.944, InvokeTime:5.334764003753662,  aggTime: 14.746421098709106, total Time: 39.500816822052, 
+Iter: 6, Loss: 0.25398552417755127, Accuracy: 0.951, InvokeTime:5.106457948684692,  aggTime: 14.761620044708252, total Time: 39.55079102516174, 
+Iter: 7, Loss: 0.20746353268623352, Accuracy: 0.957, InvokeTime:4.996067047119141,  aggTime: 13.62570309638977, total Time: 38.515520095825195, 
+Iter: 8, Loss: 0.17052239179611206, Accuracy: 0.962, InvokeTime:5.063046932220459,  aggTime: 13.73927903175354, total Time: 38.164639949798584, 
+Iter: 9, Loss: 0.14934305846691132, Accuracy: 0.965, InvokeTime:5.422550916671753,  aggTime: 13.902400970458984, total Time: 38.62129783630371, 
+Iter: 10, Loss: 0.1249687597155571, Accuracy: 0.968, InvokeTime:5.281708002090454,  aggTime: 14.148499965667725, total Time: 37.76914095878601, 
+Iter: 11, Loss: 0.11307018995285034, Accuracy: 0.970, InvokeTime:4.969148874282837,  aggTime: 15.069163799285889, total Time: 39.36800169944763, 
+Iter: 12, Loss: 0.1041344627737999, Accuracy: 0.970, InvokeTime:5.200608015060425,  aggTime: 13.305042266845703, total Time: 52.63906407356262, 
+Iter: 13, Loss: 0.09699929505586624, Accuracy: 0.971, InvokeTime:5.527159214019775,  aggTime: 13.157441854476929, total Time: 44.72491192817688, 
+Iter: 14, Loss: 0.08771692216396332, Accuracy: 0.974, InvokeTime:4.922158718109131,  aggTime: 14.043615818023682, total Time: 38.77444672584534, 
+Iter: 15, Loss: 0.084739089012146, Accuracy: 0.975, InvokeTime:4.983301877975464,  aggTime: 13.667442083358765, total Time: 36.87719488143921, 
+Iter: 16, Loss: 0.07898177206516266, Accuracy: 0.977, InvokeTime:5.1403279304504395,  aggTime: 13.675540924072266, total Time: 51.77611970901489, 
+Iter: 17, Loss: 0.07576651871204376, Accuracy: 0.978, InvokeTime:5.236958026885986,  aggTime: 13.727770805358887, total Time: 38.612637996673584, 
+Iter: 18, Loss: 0.07241187989711761, Accuracy: 0.979, InvokeTime:5.68098783493042,  aggTime: 13.949088096618652, total Time: 37.8043429851532, 
+Iter: 19, Loss: 0.06899823993444443, Accuracy: 0.979, InvokeTime:5.0340681076049805,  aggTime: 14.252323150634766, total Time: 38.08795714378357, 
+Iter: 20, Loss: 0.06686996668577194, Accuracy: 0.980, InvokeTime:5.394561052322388,  aggTime: 14.096249103546143, total Time: 39.038588762283325, 
+Iter: 21, Loss: 0.06544932723045349, Accuracy: 0.981, InvokeTime:5.241767168045044,  aggTime: 13.882031917572021, total Time: 37.48511099815369, 
+Iter: 22, Loss: 0.06187022104859352, Accuracy: 0.982, InvokeTime:5.447010040283203,  aggTime: 14.542070150375366, total Time: 40.69441819190979, 
+Iter: 23, Loss: 0.060094550251960754, Accuracy: 0.982, InvokeTime:5.307327032089233,  aggTime: 14.76084303855896, total Time: 50.603514194488525, 
+Iter: 24, Loss: 0.0577789731323719, Accuracy: 0.982, InvokeTime:4.868916988372803,  aggTime: 13.413412094116211, total Time: 38.16281008720398, 
+Iter: 25, Loss: 0.05566481873393059, Accuracy: 0.983, InvokeTime:5.354674816131592,  aggTime: 13.776390790939331, total Time: 38.79776883125305, 
+Iter: 26, Loss: 0.05385122820734978, Accuracy: 0.983, InvokeTime:6.003097057342529,  aggTime: 13.561357736587524, total Time: 39.24723672866821, 
+Iter: 27, Loss: 0.05387537181377411, Accuracy: 0.984, InvokeTime:5.233350992202759,  aggTime: 13.479781150817871, total Time: 38.82497692108154, 
+Iter: 28, Loss: 0.053447313606739044, Accuracy: 0.984, InvokeTime:5.112444877624512,  aggTime: 14.031690835952759, total Time: 38.94831371307373, 
+Iter: 29, Loss: 0.05116508528590202, Accuracy: 0.984, InvokeTime:5.009498119354248,  aggTime: 13.533208131790161, total Time: 38.926727294921875, 
+Iter: 30, Loss: 0.05036424100399017, Accuracy: 0.984, InvokeTime:5.722016096115112,  aggTime: 13.7198007106781, total Time: 49.53245282173157, 
+Iter: 31, Loss: 0.05107621103525162, Accuracy: 0.984, InvokeTime:5.27382493019104,  aggTime: 13.56957197189331, total Time: 38.88398194313049, 
+Iter: 32, Loss: 0.049336209893226624, Accuracy: 0.985, InvokeTime:5.337724208831787,  aggTime: 13.859278917312622, total Time: 39.467724084854126, 
+Iter: 33, Loss: 0.04810159653425217, Accuracy: 0.985, InvokeTime:5.510409116744995,  aggTime: 13.776857852935791, total Time: 39.19074201583862, 
+Iter: 34, Loss: 0.04808446392416954, Accuracy: 0.985, InvokeTime:5.226686000823975,  aggTime: 14.208940029144287, total Time: 39.00389909744263, 
+Iter: 35, Loss: 0.04609064757823944, Accuracy: 0.986, InvokeTime:5.182754039764404,  aggTime: 13.773202180862427, total Time: 38.75731611251831, 
+Iter: 36, Loss: 0.04610369727015495, Accuracy: 0.986, InvokeTime:4.945140838623047,  aggTime: 13.99544906616211, total Time: 38.454550981521606, 
+Iter: 37, Loss: 0.044689979404211044, Accuracy: 0.987, InvokeTime:4.802130937576294,  aggTime: 13.954542875289917, total Time: 38.45834708213806, 
+Iter: 38, Loss: 0.045000456273555756, Accuracy: 0.987, InvokeTime:5.208915948867798,  aggTime: 14.060992956161499, total Time: 39.08880090713501, 
+Iter: 39, Loss: 0.043726399540901184, Accuracy: 0.987, InvokeTime:5.376250267028809,  aggTime: 14.060315132141113, total Time: 38.87683725357056, 
+Iter: 40, Loss: 0.04409436136484146, Accuracy: 0.987, InvokeTime:4.794442892074585,  aggTime: 14.20563006401062, total Time: 38.89411473274231, 
+Iter: 41, Loss: 0.04331992194056511, Accuracy: 0.987, InvokeTime:5.088589906692505,  aggTime: 14.152524948120117, total Time: 39.339508056640625, 
+Iter: 42, Loss: 0.043308597058057785, Accuracy: 0.987, InvokeTime:5.076345920562744,  aggTime: 14.515691995620728, total Time: 39.251806020736694, 
+Iter: 43, Loss: 0.0426345057785511, Accuracy: 0.987, InvokeTime:5.0090460777282715,  aggTime: 13.974781274795532, total Time: 39.05664014816284, 
+Iter: 44, Loss: 0.041932363063097, Accuracy: 0.987, InvokeTime:5.739706039428711,  aggTime: 14.349808692932129, total Time: 40.18048882484436, 
+Iter: 45, Loss: 0.04118752479553223, Accuracy: 0.987, InvokeTime:5.215571880340576,  aggTime: 14.13314700126648, total Time: 39.03614282608032, 
+Iter: 46, Loss: 0.04075739532709122, Accuracy: 0.988, InvokeTime:5.2284369468688965,  aggTime: 14.181884050369263, total Time: 40.32145714759827, 
+Iter: 47, Loss: 0.04106065630912781, Accuracy: 0.988, InvokeTime:5.319730997085571,  aggTime: 14.09804892539978, total Time: 39.05095076560974, 
+Iter: 48, Loss: 0.04067302867770195, Accuracy: 0.988, InvokeTime:5.043257713317871,  aggTime: 13.60568904876709, total Time: 59.95514488220215, 
+Iter: 49, Loss: 0.040439654141664505, Accuracy: 0.987, InvokeTime:4.923117160797119,  aggTime: 13.613590955734253, total Time: 68.66169428825378, 
+Iter: 50, Loss: 0.03996298089623451, Accuracy: 0.987, InvokeTime:5.061353921890259,  aggTime: 13.627293109893799, total Time: 58.12845993041992, 
+Iter: 51, Loss: 0.04007667675614357, Accuracy: 0.988, InvokeTime:5.1676201820373535,  aggTime: 13.87191891670227, total Time: 38.85044002532959, 
+Iter: 52, Loss: 0.040385544300079346, Accuracy: 0.988, InvokeTime:5.275172233581543,  aggTime: 13.650213956832886, total Time: 39.06340503692627, 
+Iter: 53, Loss: 0.040005121380090714, Accuracy: 0.988, InvokeTime:4.978984355926514,  aggTime: 13.821622133255005, total Time: 46.71718621253967, 
+Iter: 54, Loss: 0.03926575556397438, Accuracy: 0.988, InvokeTime:4.992508172988892,  aggTime: 14.042278051376343, total Time: 53.909116983413696, 
+Iter: 55, Loss: 0.039873551577329636, Accuracy: 0.988, InvokeTime:5.637032985687256,  aggTime: 13.865535020828247, total Time: 44.30555605888367, 
+Iter: 56, Loss: 0.03944389522075653, Accuracy: 0.988, InvokeTime:5.378293037414551,  aggTime: 13.614447116851807, total Time: 38.892242193222046, 
+Iter: 57, Loss: 0.03857826068997383, Accuracy: 0.988, InvokeTime:5.391843795776367,  aggTime: 13.91513204574585, total Time: 49.442131996154785, 
+Iter: 58, Loss: 0.039403654634952545, Accuracy: 0.988, InvokeTime:5.374881029129028,  aggTime: 14.491792917251587, total Time: 40.28564119338989, 
+Iter: 59, Loss: 0.03917616233229637, Accuracy: 0.988, InvokeTime:5.211520195007324,  aggTime: 14.418042182922363, total Time: 40.55345416069031, 
+Iter: 60, Loss: 0.038594990968704224, Accuracy: 0.988, InvokeTime:5.368454933166504,  aggTime: 14.225371837615967, total Time: 39.76738381385803, 
+Iter: 61, Loss: 0.039215851575136185, Accuracy: 0.989, InvokeTime:5.275566101074219,  aggTime: 14.346149921417236, total Time: 39.64857721328735, 
+Iter: 62, Loss: 0.038202352821826935, Accuracy: 0.988, InvokeTime:4.988747835159302,  aggTime: 14.350890874862671, total Time: 42.54920792579651, 
+Iter: 63, Loss: 0.03779347985982895, Accuracy: 0.989, InvokeTime:4.891443967819214,  aggTime: 14.863908052444458, total Time: 51.747944831848145, 
+Iter: 64, Loss: 0.039672333747148514, Accuracy: 0.988, InvokeTime:4.997919797897339,  aggTime: 14.186060190200806, total Time: 39.38913583755493, 
+Iter: 65, Loss: 0.038928475230932236, Accuracy: 0.988, InvokeTime:5.425146818161011,  aggTime: 14.312633037567139, total Time: 40.04117202758789, 
+Iter: 66, Loss: 0.03914296627044678, Accuracy: 0.989, InvokeTime:5.0610511302948,  aggTime: 14.124041080474854, total Time: 39.306005001068115, 
+Iter: 67, Loss: 0.03875872865319252, Accuracy: 0.988, InvokeTime:5.029321908950806,  aggTime: 14.087804794311523, total Time: 58.65852689743042, 
+Iter: 68, Loss: 0.040459778159856796, Accuracy: 0.988, InvokeTime:5.221925735473633,  aggTime: 14.15939998626709, total Time: 45.17811369895935, 
+Iter: 69, Loss: 0.04020310565829277, Accuracy: 0.989, InvokeTime:5.1396448612213135,  aggTime: 14.307898998260498, total Time: 38.21590805053711, 
+Iter: 70, Loss: 0.0395025759935379, Accuracy: 0.989, InvokeTime:5.624654769897461,  aggTime: 14.047757863998413, total Time: 39.73497986793518, 
+Iter: 71, Loss: 0.0397772453725338, Accuracy: 0.989, InvokeTime:5.147624969482422,  aggTime: 14.463292121887207, total Time: 40.18611812591553, 
+Iter: 72, Loss: 0.038492411375045776, Accuracy: 0.989, InvokeTime:6.408690929412842,  aggTime: 14.476613759994507, total Time: 40.77109980583191, 
+Iter: 73, Loss: 0.038888268172740936, Accuracy: 0.989, InvokeTime:5.443964958190918,  aggTime: 14.557940006256104, total Time: 44.26301383972168, 
+Iter: 74, Loss: 0.03748480603098869, Accuracy: 0.989, InvokeTime:5.199208736419678,  aggTime: 14.352791786193848, total Time: 40.48928785324097, 
+Iter: 75, Loss: 0.038813989609479904, Accuracy: 0.989, InvokeTime:5.67002010345459,  aggTime: 14.279675960540771, total Time: 48.24939799308777, 
+Iter: 76, Loss: 0.03918537124991417, Accuracy: 0.989, InvokeTime:5.0330870151519775,  aggTime: 14.1939697265625, total Time: 52.23501896858215, 
+Iter: 77, Loss: 0.03833209350705147, Accuracy: 0.989, InvokeTime:4.912003040313721,  aggTime: 14.268156051635742, total Time: 43.548542976379395, 
+Iter: 78, Loss: 0.04007309675216675, Accuracy: 0.990, InvokeTime:5.134186029434204,  aggTime: 14.218546867370605, total Time: 51.893975019454956, 
+TotalIter: 78, FinalLoss: 0.04007309675216675, FinalAccuracy: 0.990, TotalTime: 3374.535479068756
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Client: 0, FuncTime: 17.588144063949585
+Client: 1, FuncTime: 15.940042972564697
+Client: 2, FuncTime: 15.205645084381104
+Client: 3, FuncTime: 12.807414054870605
+Client: 4, FuncTime: 14.28487515449524
+Client: 5, FuncTime: 13.752194166183472
+Client: 6, FuncTime: 14.584937810897827
+Client: 7, FuncTime: 13.921621084213257
+Client: 8, FuncTime: 13.45329213142395
+Client: 9, FuncTime: 14.356590032577515
+Client: 10, FuncTime: 45.81522083282471
+Client: 11, FuncTime: 36.31049609184265
+Client: 12, FuncTime: 36.83763885498047
+Client: 13, FuncTime: 13.987871885299683
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Client: 0, FuncTime: 14.006885290145874
+Client: 1, FuncTime: 13.323150873184204
+Client: 2, FuncTime: 5.4847800731658936
+Client: 3, FuncTime: 5.51926589012146
+Client: 4, FuncTime: 5.513544082641602
+Client: 5, FuncTime: 5.515424966812134
+Client: 6, FuncTime: 5.462018966674805
+Client: 7, FuncTime: 5.844476938247681
+Client: 8, FuncTime: 5.5599141120910645
+Client: 9, FuncTime: 5.535396099090576
+Client: 10, FuncTime: 12.172807931900024
+Client: 11, FuncTime: 9.460268020629883
+Client: 12, FuncTime: 10.274256944656372
+Client: 13, FuncTime: 34.704549074172974
+Client: 14, FuncTime: 11.316926956176758
+Client: 15, FuncTime: 31.964842081069946
+Client: 16, FuncTime: 12.332494020462036
+Client: 17, FuncTime: 32.66547107696533
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Client: 0, FuncTime: 14.756810903549194
+Client: 1, FuncTime: 14.171181201934814
+Client: 2, FuncTime: 5.578485012054443
+Client: 3, FuncTime: 5.597506046295166
+Client: 4, FuncTime: 5.456713914871216
+Client: 5, FuncTime: 5.592661619186401
+Client: 6, FuncTime: 5.491059064865112
+Client: 7, FuncTime: 6.296140909194946
+Client: 8, FuncTime: 5.594009160995483
+Client: 9, FuncTime: 5.529242038726807
+Client: 10, FuncTime: 10.811843156814575
+Client: 11, FuncTime: 35.78663611412048
+Client: 12, FuncTime: 10.01587700843811
+Client: 13, FuncTime: 10.717741966247559
+Client: 14, FuncTime: 12.215451955795288
+Client: 15, FuncTime: 10.80012583732605
+Client: 16, FuncTime: 40.71730279922485
+Client: 17, FuncTime: 10.560234069824219
+Client: 18, FuncTime: 10.762577056884766
+Client: 19, FuncTime: 50.6492440700531
+Client: 20, FuncTime: 44.329020261764526
+Client: 21, FuncTime: 34.71664786338806
+Client: 22, FuncTime: 39.517953634262085
+Client: 23, FuncTime: 46.12380313873291
+Client: 24, FuncTime: 30.889945030212402
+Client: 25, FuncTime: 29.750877857208252
+Client: 26, FuncTime: 28.531441926956177
+Client: 27, FuncTime: 11.553710222244263
+Client: 28, FuncTime: 39.690624952316284
+Client: 29, FuncTime: 29.264564037322998
+Client: 30, FuncTime: 37.001952171325684
+Client: 31, FuncTime: 33.25596785545349
+Client: 32, FuncTime: 33.66856527328491
+Client: 33, FuncTime: 31.55046010017395
+Client: 34, FuncTime: 33.766080141067505
+Client: 35, FuncTime: 51.45016694068909
+Client: 36, FuncTime: 31.5727961063385
+Client: 37, FuncTime: 31.012943983078003
+Client: 38, FuncTime: 33.7179229259491
+Client: 39, FuncTime: 32.710278034210205
+Client: 40, FuncTime: 60.06981301307678
+Client: 41, FuncTime: 38.18472218513489
+Client: 42, FuncTime: 50.62887978553772
+Client: 43, FuncTime: 29.57244300842285
+Client: 44, FuncTime: 60.07208013534546
+Client: 45, FuncTime: 31.031605005264282
+Client: 46, FuncTime: 38.5486581325531
+Client: 47, FuncTime: 56.208120822906494
+Client: 48, FuncTime: 43.825515031814575
+Client: 49, FuncTime: 30.971590042114258
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Client: 0, FuncTime: 5.942800998687744
+Client: 1, FuncTime: 5.80272102355957
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.515872597694397, Accuracy: 0.685, InvokeTime:7.587494850158691,  aggTime: 13.826037168502808, total Time: 101.46784615516663, 
+Iter: 2, Loss: 1.0268853902816772, Accuracy: 0.789, InvokeTime:9.423278093338013,  aggTime: 8.970820903778076, total Time: 41.874423027038574, 
+Iter: 3, Loss: 0.7693381309509277, Accuracy: 0.818, InvokeTime:8.657017946243286,  aggTime: 7.930091142654419, total Time: 54.80704188346863, 
+Iter: 4, Loss: 0.6291067004203796, Accuracy: 0.837, InvokeTime:7.438899040222168,  aggTime: 8.458314895629883, total Time: 55.63726997375488, 
+Iter: 5, Loss: 0.5474404692649841, Accuracy: 0.850, InvokeTime:7.179312229156494,  aggTime: 8.3719961643219, total Time: 42.42647910118103, 
+Iter: 6, Loss: 0.49446073174476624, Accuracy: 0.857, InvokeTime:8.394375085830688,  aggTime: 7.848604917526245, total Time: 30.428084135055542, 
+Iter: 7, Loss: 0.4480045437812805, Accuracy: 0.870, InvokeTime:7.877291679382324,  aggTime: 7.863048791885376, total Time: 34.966994762420654, 
+Iter: 8, Loss: 0.42384278774261475, Accuracy: 0.873, InvokeTime:7.548908948898315,  aggTime: 8.354938983917236, total Time: 31.398442029953003, 
+Iter: 9, Loss: 0.40478482842445374, Accuracy: 0.878, InvokeTime:8.412703037261963,  aggTime: 8.216155767440796, total Time: 30.699129819869995, 
+Iter: 10, Loss: 0.38116151094436646, Accuracy: 0.887, InvokeTime:8.108846187591553,  aggTime: 7.853736162185669, total Time: 30.510398387908936, 
+Iter: 11, Loss: 0.37514665722846985, Accuracy: 0.888, InvokeTime:8.441174030303955,  aggTime: 7.485419034957886, total Time: 30.144545078277588, 
+Iter: 12, Loss: 0.35942894220352173, Accuracy: 0.893, InvokeTime:8.18033218383789,  aggTime: 7.8460211753845215, total Time: 30.894724130630493, 
+Iter: 13, Loss: 0.3484615683555603, Accuracy: 0.896, InvokeTime:8.248130083084106,  aggTime: 8.146701097488403, total Time: 32.29248404502869, 
+Iter: 14, Loss: 0.33404579758644104, Accuracy: 0.901, InvokeTime:10.144397974014282,  aggTime: 7.964298963546753, total Time: 31.917001008987427, 
+Iter: 15, Loss: 0.33232417702674866, Accuracy: 0.901, InvokeTime:9.098975896835327,  aggTime: 7.908837795257568, total Time: 32.46136283874512, 
+Iter: 16, Loss: 0.32390299439430237, Accuracy: 0.904, InvokeTime:9.797005891799927,  aggTime: 8.259675979614258, total Time: 35.801222801208496, 
+Iter: 17, Loss: 0.3151240050792694, Accuracy: 0.909, InvokeTime:9.864857912063599,  aggTime: 8.870107889175415, total Time: 33.22044491767883, 
+Iter: 18, Loss: 0.30664268136024475, Accuracy: 0.910, InvokeTime:7.103176832199097,  aggTime: 7.582741975784302, total Time: 29.592072010040283, 
+Iter: 19, Loss: 0.3030698001384735, Accuracy: 0.911, InvokeTime:8.929964780807495,  aggTime: 8.150227069854736, total Time: 31.927828788757324, 
+Iter: 20, Loss: 0.2988075613975525, Accuracy: 0.911, InvokeTime:7.0963311195373535,  aggTime: 7.892194032669067, total Time: 39.033190965652466, 
+Iter: 21, Loss: 0.2931375205516815, Accuracy: 0.914, InvokeTime:9.212288856506348,  aggTime: 7.877478837966919, total Time: 31.84662890434265, 
+Iter: 22, Loss: 0.28664013743400574, Accuracy: 0.915, InvokeTime:8.708456993103027,  aggTime: 7.93983006477356, total Time: 32.46966195106506, 
+Iter: 23, Loss: 0.2816329002380371, Accuracy: 0.917, InvokeTime:9.04091501235962,  aggTime: 7.919779062271118, total Time: 32.76024603843689, 
+Iter: 24, Loss: 0.28074806928634644, Accuracy: 0.916, InvokeTime:9.468035697937012,  aggTime: 8.187212228775024, total Time: 36.76380395889282, 
+Iter: 25, Loss: 0.2752307057380676, Accuracy: 0.919, InvokeTime:7.858983039855957,  aggTime: 8.044543027877808, total Time: 32.526447057724, 
+Iter: 26, Loss: 0.27213501930236816, Accuracy: 0.921, InvokeTime:8.82875394821167,  aggTime: 11.357280969619751, total Time: 35.41547203063965, 
+Iter: 27, Loss: 0.26955389976501465, Accuracy: 0.922, InvokeTime:11.534162998199463,  aggTime: 8.212401151657104, total Time: 34.8778030872345, 
+Iter: 28, Loss: 0.27010175585746765, Accuracy: 0.922, InvokeTime:7.855868816375732,  aggTime: 7.79850172996521, total Time: 30.134618759155273, 
+Iter: 29, Loss: 0.2679443657398224, Accuracy: 0.924, InvokeTime:9.255271196365356,  aggTime: 7.875129222869873, total Time: 31.962563037872314, 
+Iter: 30, Loss: 0.2682648301124573, Accuracy: 0.923, InvokeTime:7.721138000488281,  aggTime: 8.422502279281616, total Time: 66.45675015449524, 
+Iter: 31, Loss: 0.26677802205085754, Accuracy: 0.924, InvokeTime:7.994815111160278,  aggTime: 8.19024109840393, total Time: 51.741170167922974, 
+Iter: 32, Loss: 0.2603858411312103, Accuracy: 0.925, InvokeTime:8.761131048202515,  aggTime: 8.178072690963745, total Time: 31.930288791656494, 
+Iter: 33, Loss: 0.26235753297805786, Accuracy: 0.927, InvokeTime:8.729627847671509,  aggTime: 8.181622982025146, total Time: 31.734308004379272, 
+Iter: 34, Loss: 0.25756463408470154, Accuracy: 0.928, InvokeTime:7.4978320598602295,  aggTime: 8.306938886642456, total Time: 30.83319616317749, 
+Iter: 35, Loss: 0.25679054856300354, Accuracy: 0.930, InvokeTime:8.148331880569458,  aggTime: 8.07519006729126, total Time: 44.9714629650116, 
+Iter: 36, Loss: 0.25118306279182434, Accuracy: 0.931, InvokeTime:8.080075025558472,  aggTime: 8.093909740447998, total Time: 30.411290884017944, 
+Iter: 37, Loss: 0.25224316120147705, Accuracy: 0.931, InvokeTime:7.831906080245972,  aggTime: 8.117825984954834, total Time: 29.902987957000732, 
+Iter: 38, Loss: 0.24935343861579895, Accuracy: 0.933, InvokeTime:7.199128150939941,  aggTime: 8.017098903656006, total Time: 29.599395036697388, 
+Iter: 39, Loss: 0.24811765551567078, Accuracy: 0.933, InvokeTime:7.9934821128845215,  aggTime: 7.473811864852905, total Time: 32.22064995765686, 
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.5187344551086426, Accuracy: 0.701, InvokeTime:8.888827800750732,  aggTime: 7.76571798324585, total Time: 52.01727485656738, 
+Iter: 2, Loss: 1.0164716243743896, Accuracy: 0.795, InvokeTime:8.726838111877441,  aggTime: 7.8757030963897705, total Time: 52.66579008102417, 
+Iter: 3, Loss: 0.7470574975013733, Accuracy: 0.837, InvokeTime:9.679068803787231,  aggTime: 7.897418022155762, total Time: 61.19593787193298, 
+Iter: 4, Loss: 0.6042447686195374, Accuracy: 0.852, InvokeTime:7.392371892929077,  aggTime: 7.702779054641724, total Time: 51.32429313659668, 
+Iter: 5, Loss: 0.5185022354125977, Accuracy: 0.862, InvokeTime:7.783797740936279,  aggTime: 7.655082941055298, total Time: 52.92453384399414, 
+Iter: 6, Loss: 0.4554246664047241, Accuracy: 0.877, InvokeTime:9.11131501197815,  aggTime: 7.706141948699951, total Time: 45.30791091918945, 
+Iter: 7, Loss: 0.41537147760391235, Accuracy: 0.884, InvokeTime:8.6056969165802,  aggTime: 7.578583002090454, total Time: 31.520564079284668, 
+Iter: 8, Loss: 0.3842679560184479, Accuracy: 0.892, InvokeTime:8.43635606765747,  aggTime: 8.045590162277222, total Time: 31.6808340549469, 
+Iter: 9, Loss: 0.36308857798576355, Accuracy: 0.896, InvokeTime:8.73060417175293,  aggTime: 7.392857074737549, total Time: 30.554647207260132, 
+Iter: 10, Loss: 0.34430545568466187, Accuracy: 0.901, InvokeTime:8.366832971572876,  aggTime: 7.945111036300659, total Time: 30.975300312042236, 
+Iter: 11, Loss: 0.32965540885925293, Accuracy: 0.905, InvokeTime:8.514017105102539,  aggTime: 7.986883163452148, total Time: 32.300273180007935, 
+Iter: 12, Loss: 0.3210659325122833, Accuracy: 0.905, InvokeTime:8.244861841201782,  aggTime: 8.235219955444336, total Time: 32.232872009277344, 
+Iter: 13, Loss: 0.31340640783309937, Accuracy: 0.908, InvokeTime:7.6655662059783936,  aggTime: 7.741086006164551, total Time: 41.395546197891235, 
+Iter: 14, Loss: 0.30281856656074524, Accuracy: 0.912, InvokeTime:8.360398054122925,  aggTime: 7.59076189994812, total Time: 32.281007051467896, 
+Iter: 15, Loss: 0.2932925820350647, Accuracy: 0.914, InvokeTime:7.5269739627838135,  aggTime: 7.8477818965911865, total Time: 30.304413080215454, 
+Iter: 16, Loss: 0.2842896580696106, Accuracy: 0.917, InvokeTime:9.711593866348267,  aggTime: 8.157088994979858, total Time: 33.811378955841064, 
+Iter: 17, Loss: 0.27584946155548096, Accuracy: 0.920, InvokeTime:10.403156995773315,  aggTime: 8.24025821685791, total Time: 54.19025111198425, 
+Iter: 18, Loss: 0.269277423620224, Accuracy: 0.921, InvokeTime:9.619288206100464,  aggTime: 7.953537940979004, total Time: 35.26285696029663, 
+Iter: 19, Loss: 0.26719164848327637, Accuracy: 0.922, InvokeTime:8.483220100402832,  aggTime: 8.323375225067139, total Time: 42.00949311256409, 
+Iter: 20, Loss: 0.2648398280143738, Accuracy: 0.923, InvokeTime:9.331532716751099,  aggTime: 7.9701948165893555, total Time: 34.623395681381226, 
+Iter: 21, Loss: 0.2611304521560669, Accuracy: 0.924, InvokeTime:8.067272901535034,  aggTime: 8.111029148101807, total Time: 31.929091215133667, 
+Iter: 22, Loss: 0.25811320543289185, Accuracy: 0.925, InvokeTime:10.14333724975586,  aggTime: 8.438269853591919, total Time: 35.718799114227295, 
+Iter: 23, Loss: 0.25356385111808777, Accuracy: 0.925, InvokeTime:11.641938924789429,  aggTime: 8.587502241134644, total Time: 38.72365117073059, 
+Iter: 24, Loss: 0.2503734529018402, Accuracy: 0.928, InvokeTime:8.908027172088623,  aggTime: 8.02988600730896, total Time: 41.14146900177002, 
+Iter: 25, Loss: 0.2457132786512375, Accuracy: 0.929, InvokeTime:8.475549936294556,  aggTime: 8.471253156661987, total Time: 31.951536893844604, 
+Iter: 26, Loss: 0.24456526339054108, Accuracy: 0.930, InvokeTime:7.935871839523315,  aggTime: 7.756453275680542, total Time: 31.27015495300293, 
+Iter: 27, Loss: 0.23920615017414093, Accuracy: 0.931, InvokeTime:9.627319812774658,  aggTime: 7.756148099899292, total Time: 40.12396597862244, 
+Iter: 28, Loss: 0.2372712641954422, Accuracy: 0.933, InvokeTime:10.241864919662476,  aggTime: 8.182357788085938, total Time: 57.86252784729004, 
+Iter: 29, Loss: 0.23755227029323578, Accuracy: 0.932, InvokeTime:9.014484882354736,  aggTime: 7.851232051849365, total Time: 32.43031692504883, 
+Iter: 30, Loss: 0.23530574142932892, Accuracy: 0.933, InvokeTime:8.679465055465698,  aggTime: 7.813462734222412, total Time: 32.56903100013733, 
+Iter: 31, Loss: 0.2319098562002182, Accuracy: 0.935, InvokeTime:8.270036935806274,  aggTime: 8.473627805709839, total Time: 62.495038986206055, 
+Iter: 32, Loss: 0.2286640852689743, Accuracy: 0.937, InvokeTime:7.991779088973999,  aggTime: 7.869654893875122, total Time: 31.54244589805603, 
+Iter: 33, Loss: 0.23020339012145996, Accuracy: 0.936, InvokeTime:10.122600793838501,  aggTime: 7.9598000049591064, total Time: 34.86059594154358, 
+Iter: 34, Loss: 0.23070217669010162, Accuracy: 0.937, InvokeTime:8.435266733169556,  aggTime: 7.908329248428345, total Time: 32.06746792793274, 
+Iter: 35, Loss: 0.2252684086561203, Accuracy: 0.937, InvokeTime:7.896657943725586,  aggTime: 7.7785069942474365, total Time: 80.90957498550415, 
+Iter: 36, Loss: 0.22226130962371826, Accuracy: 0.939, InvokeTime:8.33097791671753,  aggTime: 7.776451826095581, total Time: 32.30117583274841, 
+Iter: 37, Loss: 0.22280253469944, Accuracy: 0.939, InvokeTime:8.635493755340576,  aggTime: 7.896153926849365, total Time: 32.44122290611267, 
+Iter: 38, Loss: 0.22105622291564941, Accuracy: 0.941, InvokeTime:7.925102949142456,  aggTime: 7.470480918884277, total Time: 35.40609288215637, 
+Iter: 39, Loss: 0.2216605395078659, Accuracy: 0.940, InvokeTime:10.63758897781372,  aggTime: 7.597470045089722, total Time: 54.31766486167908, 
+Iter: 40, Loss: 0.2208145260810852, Accuracy: 0.941, InvokeTime:8.015661001205444,  aggTime: 7.7366931438446045, total Time: 30.659187078475952, 
+Iter: 41, Loss: 0.21878847479820251, Accuracy: 0.942, InvokeTime:8.434963941574097,  aggTime: 7.769331932067871, total Time: 34.15985894203186, 
+Iter: 42, Loss: 0.2180151790380478, Accuracy: 0.941, InvokeTime:9.239881992340088,  aggTime: 8.1508469581604, total Time: 35.35674691200256, 
+Iter: 43, Loss: 0.216431125998497, Accuracy: 0.942, InvokeTime:9.717291831970215,  aggTime: 7.49005913734436, total Time: 32.6962149143219, 
+Iter: 44, Loss: 0.2133568376302719, Accuracy: 0.943, InvokeTime:7.951030731201172,  aggTime: 8.081886768341064, total Time: 63.21945285797119, 
+Iter: 45, Loss: 0.21160170435905457, Accuracy: 0.945, InvokeTime:8.535547018051147,  aggTime: 7.630662202835083, total Time: 32.50630712509155, 
+Iter: 46, Loss: 0.21151317656040192, Accuracy: 0.944, InvokeTime:7.929410934448242,  aggTime: 7.719291925430298, total Time: 40.19254398345947, 
+Iter: 47, Loss: 0.20898453891277313, Accuracy: 0.945, InvokeTime:9.601434707641602,  aggTime: 7.847430944442749, total Time: 33.49709391593933, 
+Iter: 48, Loss: 0.20790685713291168, Accuracy: 0.945, InvokeTime:8.366825103759766,  aggTime: 8.070289373397827, total Time: 69.42975616455078, 
+Iter: 49, Loss: 0.20823165774345398, Accuracy: 0.946, InvokeTime:10.90026593208313,  aggTime: 8.379854202270508, total Time: 61.38046097755432, 
+Iter: 50, Loss: 0.20751291513442993, Accuracy: 0.945, InvokeTime:8.41932201385498,  aggTime: 7.82181978225708, total Time: 48.00920081138611, 
+Iter: 51, Loss: 0.207099050283432, Accuracy: 0.946, InvokeTime:8.60905909538269,  aggTime: 7.887671232223511, total Time: 63.29354810714722, 
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.543675184249878, Accuracy: 0.639, InvokeTime:9.071319818496704,  aggTime: 12.538660287857056, total Time: 65.51394009590149, 
+Iter: 2, Loss: 1.0457477569580078, Accuracy: 0.794, InvokeTime:8.971296072006226,  aggTime: 8.272876977920532, total Time: 56.21307015419006, 
+Iter: 3, Loss: 0.7676466703414917, Accuracy: 0.846, InvokeTime:10.929406881332397,  aggTime: 7.8121137619018555, total Time: 66.27485275268555, 
+Iter: 4, Loss: 0.6078367233276367, Accuracy: 0.868, InvokeTime:9.651471853256226,  aggTime: 8.647950172424316, total Time: 35.320883989334106, 
+Iter: 5, Loss: 0.513637125492096, Accuracy: 0.880, InvokeTime:10.750898838043213,  aggTime: 7.704107046127319, total Time: 33.800939083099365, 
+Iter: 6, Loss: 0.45277276635169983, Accuracy: 0.889, InvokeTime:7.857264995574951,  aggTime: 7.8491058349609375, total Time: 55.265053033828735, 
+Iter: 7, Loss: 0.4075717329978943, Accuracy: 0.897, InvokeTime:8.360740184783936,  aggTime: 7.964992046356201, total Time: 35.0401291847229, 
+Iter: 8, Loss: 0.3788365125656128, Accuracy: 0.899, InvokeTime:8.063501119613647,  aggTime: 8.084450721740723, total Time: 36.6113018989563, 
+Iter: 9, Loss: 0.3558579087257385, Accuracy: 0.904, InvokeTime:8.655724048614502,  aggTime: 8.266457080841064, total Time: 32.30894112586975, 
+Iter: 10, Loss: 0.33625566959381104, Accuracy: 0.906, InvokeTime:10.26785397529602,  aggTime: 8.361656188964844, total Time: 49.56825804710388, 
+Iter: 11, Loss: 0.3221462666988373, Accuracy: 0.908, InvokeTime:9.045184850692749,  aggTime: 8.002697944641113, total Time: 33.973368883132935, 
+Iter: 12, Loss: 0.30756446719169617, Accuracy: 0.911, InvokeTime:7.534577131271362,  aggTime: 7.7653539180755615, total Time: 30.620723009109497, 
+Iter: 13, Loss: 0.30070793628692627, Accuracy: 0.913, InvokeTime:9.772223949432373,  aggTime: 7.907821178436279, total Time: 36.11659622192383, 
+Iter: 14, Loss: 0.2892325818538666, Accuracy: 0.916, InvokeTime:8.32399606704712,  aggTime: 8.200380086898804, total Time: 35.61624312400818, 
+Iter: 15, Loss: 0.2829881012439728, Accuracy: 0.917, InvokeTime:9.776005744934082,  aggTime: 7.7649946212768555, total Time: 31.912792682647705, 
+Iter: 16, Loss: 0.27167460322380066, Accuracy: 0.923, InvokeTime:8.963877201080322,  aggTime: 7.8563737869262695, total Time: 32.33753299713135, 
+Iter: 17, Loss: 0.2663564085960388, Accuracy: 0.924, InvokeTime:8.148144960403442,  aggTime: 8.599907159805298, total Time: 31.425061225891113, 
+Iter: 18, Loss: 0.26381850242614746, Accuracy: 0.923, InvokeTime:8.268548011779785,  aggTime: 8.13154673576355, total Time: 30.80912184715271, 
+Iter: 19, Loss: 0.2609803080558777, Accuracy: 0.923, InvokeTime:7.975647926330566,  aggTime: 8.084837198257446, total Time: 30.136176109313965, 
+Iter: 20, Loss: 0.25522857904434204, Accuracy: 0.925, InvokeTime:10.41516900062561,  aggTime: 7.678851127624512, total Time: 33.90247702598572, 
+Iter: 21, Loss: 0.2504267692565918, Accuracy: 0.928, InvokeTime:9.110435962677002,  aggTime: 7.758294105529785, total Time: 31.11127209663391, 
+Iter: 22, Loss: 0.24783872067928314, Accuracy: 0.928, InvokeTime:8.258296728134155,  aggTime: 7.789644002914429, total Time: 31.456557750701904, 
+Iter: 23, Loss: 0.24528594315052032, Accuracy: 0.930, InvokeTime:8.403029918670654,  aggTime: 7.855164051055908, total Time: 37.778451919555664, 
+Iter: 24, Loss: 0.24022792279720306, Accuracy: 0.931, InvokeTime:9.091921091079712,  aggTime: 7.791836261749268, total Time: 32.3465142250061, 
+Iter: 25, Loss: 0.23965764045715332, Accuracy: 0.931, InvokeTime:7.480879068374634,  aggTime: 7.8892717361450195, total Time: 30.532006978988647, 
+Iter: 26, Loss: 0.2367158681154251, Accuracy: 0.932, InvokeTime:8.895569086074829,  aggTime: 8.202147006988525, total Time: 31.94667410850525, 
+Iter: 27, Loss: 0.23435954749584198, Accuracy: 0.932, InvokeTime:7.897847890853882,  aggTime: 7.833298921585083, total Time: 30.465142965316772, 
+Iter: 28, Loss: 0.23188281059265137, Accuracy: 0.934, InvokeTime:8.338958740234375,  aggTime: 7.8033061027526855, total Time: 31.69111680984497, 
+Iter: 29, Loss: 0.22813862562179565, Accuracy: 0.933, InvokeTime:8.158147096633911,  aggTime: 7.7970240116119385, total Time: 39.61177706718445, 
+Iter: 30, Loss: 0.22481824457645416, Accuracy: 0.936, InvokeTime:7.748734951019287,  aggTime: 8.10457706451416, total Time: 31.56304097175598, 
+Iter: 31, Loss: 0.22433461248874664, Accuracy: 0.937, InvokeTime:8.158963918685913,  aggTime: 8.066052913665771, total Time: 42.11957907676697, 
+Iter: 32, Loss: 0.22337175905704498, Accuracy: 0.935, InvokeTime:7.612433910369873,  aggTime: 7.929703235626221, total Time: 32.01899790763855, 
+Iter: 33, Loss: 0.22349587082862854, Accuracy: 0.936, InvokeTime:7.775882005691528,  aggTime: 8.30119514465332, total Time: 34.39564299583435, 
+Iter: 34, Loss: 0.22059722244739532, Accuracy: 0.937, InvokeTime:11.664752960205078,  aggTime: 7.986471176147461, total Time: 39.28232216835022, 
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.571826457977295, Accuracy: 0.667, InvokeTime:11.322635889053345,  aggTime: 13.67037320137024, total Time: 47.95855402946472, 
+Iter: 2, Loss: 1.0567036867141724, Accuracy: 0.779, InvokeTime:8.269715309143066,  aggTime: 7.926899194717407, total Time: 51.57876229286194, 
+Iter: 3, Loss: 0.7890955209732056, Accuracy: 0.810, InvokeTime:8.311512231826782,  aggTime: 7.701366186141968, total Time: 41.895833253860474, 
+Iter: 4, Loss: 0.6338745951652527, Accuracy: 0.836, InvokeTime:9.179468870162964,  aggTime: 8.27932596206665, total Time: 38.30251598358154, 
+Iter: 5, Loss: 0.5393245816230774, Accuracy: 0.851, InvokeTime:11.88987398147583,  aggTime: 7.55039381980896, total Time: 34.6059730052948, 
+Iter: 6, Loss: 0.4804263114929199, Accuracy: 0.860, InvokeTime:8.306317806243896,  aggTime: 7.690781116485596, total Time: 45.341131925582886, 
+Iter: 7, Loss: 0.43416163325309753, Accuracy: 0.871, InvokeTime:7.604207992553711,  aggTime: 7.584960222244263, total Time: 45.278205156326294, 
+Iter: 8, Loss: 0.40304091572761536, Accuracy: 0.877, InvokeTime:8.392672061920166,  aggTime: 8.050609111785889, total Time: 31.646320104599, 
+Iter: 9, Loss: 0.378836452960968, Accuracy: 0.884, InvokeTime:9.064780950546265,  aggTime: 7.8899970054626465, total Time: 33.07072925567627, 
+Iter: 10, Loss: 0.3574276864528656, Accuracy: 0.891, InvokeTime:10.490590333938599,  aggTime: 8.292722940444946, total Time: 38.041686058044434, 
+Iter: 11, Loss: 0.33920302987098694, Accuracy: 0.897, InvokeTime:9.2659170627594,  aggTime: 7.839658975601196, total Time: 34.322887897491455, 
+Iter: 12, Loss: 0.32909730076789856, Accuracy: 0.900, InvokeTime:9.279863119125366,  aggTime: 7.653587341308594, total Time: 33.681225299835205, 
+Iter: 13, Loss: 0.31847232580184937, Accuracy: 0.904, InvokeTime:10.391474962234497,  aggTime: 7.891513109207153, total Time: 33.26967096328735, 
+Iter: 14, Loss: 0.3083207607269287, Accuracy: 0.907, InvokeTime:8.7258939743042,  aggTime: 8.350183963775635, total Time: 35.892714977264404, 
+Iter: 15, Loss: 0.30081215500831604, Accuracy: 0.910, InvokeTime:8.804696083068848,  aggTime: 7.98491907119751, total Time: 33.735602140426636, 
+Iter: 16, Loss: 0.29175081849098206, Accuracy: 0.914, InvokeTime:9.20837688446045,  aggTime: 8.26979398727417, total Time: 32.84617877006531, 
+Iter: 17, Loss: 0.2843119502067566, Accuracy: 0.916, InvokeTime:13.138840198516846,  aggTime: 7.863929271697998, total Time: 36.29365825653076, 
+Iter: 18, Loss: 0.27638399600982666, Accuracy: 0.919, InvokeTime:9.068254232406616,  aggTime: 8.201961994171143, total Time: 33.595881938934326, 
+Iter: 19, Loss: 0.27212658524513245, Accuracy: 0.921, InvokeTime:9.215745210647583,  aggTime: 7.381756067276001, total Time: 34.006184101104736, 
+Iter: 20, Loss: 0.2672587037086487, Accuracy: 0.922, InvokeTime:8.035517930984497,  aggTime: 7.513494968414307, total Time: 30.503557205200195, 
+Iter: 21, Loss: 0.26432913541793823, Accuracy: 0.923, InvokeTime:8.624103784561157,  aggTime: 7.578634023666382, total Time: 32.06441807746887, 
+Iter: 22, Loss: 0.26072293519973755, Accuracy: 0.924, InvokeTime:10.048942804336548,  aggTime: 7.8663129806518555, total Time: 33.86412596702576, 
+Iter: 23, Loss: 0.2570851147174835, Accuracy: 0.926, InvokeTime:8.894352912902832,  aggTime: 7.757622957229614, total Time: 35.896665811538696, 
+Iter: 24, Loss: 0.2547568380832672, Accuracy: 0.927, InvokeTime:8.40178108215332,  aggTime: 8.074116230010986, total Time: 32.31309533119202, 
+Iter: 25, Loss: 0.25037315487861633, Accuracy: 0.928, InvokeTime:8.436803102493286,  aggTime: 7.6214070320129395, total Time: 30.862694025039673, 
+Iter: 26, Loss: 0.24384203553199768, Accuracy: 0.931, InvokeTime:10.177942991256714,  aggTime: 7.860185861587524, total Time: 33.58078980445862, 
+Iter: 27, Loss: 0.24355104565620422, Accuracy: 0.930, InvokeTime:8.975783824920654,  aggTime: 8.238216876983643, total Time: 32.22140169143677, 
+Iter: 28, Loss: 0.2411012500524521, Accuracy: 0.932, InvokeTime:8.199737071990967,  aggTime: 7.857294797897339, total Time: 31.326495885849, 
+Iter: 29, Loss: 0.23882751166820526, Accuracy: 0.932, InvokeTime:8.794754028320312,  aggTime: 8.167269229888916, total Time: 31.756272077560425, 
+Iter: 30, Loss: 0.23490604758262634, Accuracy: 0.933, InvokeTime:7.432883977890015,  aggTime: 7.721938133239746, total Time: 30.018104076385498, 
+Iter: 31, Loss: 0.23349113762378693, Accuracy: 0.934, InvokeTime:8.598958015441895,  aggTime: 8.180221796035767, total Time: 32.90281391143799, 
+Iter: 32, Loss: 0.2310105413198471, Accuracy: 0.934, InvokeTime:7.932561159133911,  aggTime: 8.093311786651611, total Time: 30.600254774093628, 
+Iter: 33, Loss: 0.2304418385028839, Accuracy: 0.935, InvokeTime:8.275439023971558,  aggTime: 8.180983781814575, total Time: 32.15163993835449, 
+Iter: 34, Loss: 0.22870928049087524, Accuracy: 0.936, InvokeTime:9.260624170303345,  aggTime: 8.30141282081604, total Time: 32.59807991981506, 
+Iter: 35, Loss: 0.2276422083377838, Accuracy: 0.937, InvokeTime:7.745969772338867,  aggTime: 8.254631042480469, total Time: 34.1031129360199, 
+Iter: 36, Loss: 0.22481052577495575, Accuracy: 0.937, InvokeTime:7.756985902786255,  aggTime: 7.397037982940674, total Time: 35.06382489204407, 
+Iter: 37, Loss: 0.2244379222393036, Accuracy: 0.936, InvokeTime:11.42314076423645,  aggTime: 7.517791986465454, total Time: 33.40970802307129, 
+Iter: 38, Loss: 0.22140251100063324, Accuracy: 0.938, InvokeTime:8.528749227523804,  aggTime: 7.682759046554565, total Time: 31.023117065429688, 
+Iter: 39, Loss: 0.21893049776554108, Accuracy: 0.939, InvokeTime:8.158771991729736,  aggTime: 7.516602993011475, total Time: 30.2069308757782, 
+Iter: 40, Loss: 0.21986277401447296, Accuracy: 0.939, InvokeTime:8.74051809310913,  aggTime: 7.274740934371948, total Time: 31.304689168930054, 
+Iter: 41, Loss: 0.2177998274564743, Accuracy: 0.940, InvokeTime:10.630923986434937,  aggTime: 7.283667087554932, total Time: 34.43462800979614, 
+Iter: 42, Loss: 0.21647965908050537, Accuracy: 0.940, InvokeTime:9.435861825942993,  aggTime: 7.443961143493652, total Time: 33.38125491142273, 
+Iter: 43, Loss: 0.2182004451751709, Accuracy: 0.938, InvokeTime:9.441059112548828,  aggTime: 7.693203926086426, total Time: 59.76257824897766, 
+Iter: 44, Loss: 0.21624863147735596, Accuracy: 0.940, InvokeTime:9.789050817489624,  aggTime: 7.418812036514282, total Time: 33.192946910858154, 
+Iter: 45, Loss: 0.21122704446315765, Accuracy: 0.941, InvokeTime:10.62529182434082,  aggTime: 7.561643123626709, total Time: 36.15021109580994, 
+Iter: 46, Loss: 0.21072770655155182, Accuracy: 0.942, InvokeTime:9.641068935394287,  aggTime: 7.4222211837768555, total Time: 33.54868507385254, 
+Iter: 47, Loss: 0.2084285169839859, Accuracy: 0.943, InvokeTime:11.285146951675415,  aggTime: 7.762933969497681, total Time: 34.873050928115845, 
+Iter: 48, Loss: 0.2041601985692978, Accuracy: 0.945, InvokeTime:9.774990797042847,  aggTime: 7.761455059051514, total Time: 37.510441064834595, 
+Iter: 49, Loss: 0.20364806056022644, Accuracy: 0.944, InvokeTime:10.32811975479126,  aggTime: 8.031132936477661, total Time: 35.6657075881958, 
+Iter: 50, Loss: 0.20454010367393494, Accuracy: 0.944, InvokeTime:10.263462781906128,  aggTime: 7.980764865875244, total Time: 34.371601819992065, 
+Iter: 51, Loss: 0.20625419914722443, Accuracy: 0.944, InvokeTime:11.075555086135864,  aggTime: 7.648092269897461, total Time: 35.82642197608948, 
+Iter: 52, Loss: 0.2022622674703598, Accuracy: 0.945, InvokeTime:10.150371074676514,  aggTime: 7.5694568157196045, total Time: 33.45233988761902, 
+Iter: 53, Loss: 0.20195922255516052, Accuracy: 0.946, InvokeTime:9.25045108795166,  aggTime: 8.111799240112305, total Time: 33.666664123535156, 
+Iter: 54, Loss: 0.20342588424682617, Accuracy: 0.946, InvokeTime:12.476449966430664,  aggTime: 7.840284824371338, total Time: 36.8011589050293, 
+Iter: 55, Loss: 0.19932596385478973, Accuracy: 0.948, InvokeTime:10.51208782196045,  aggTime: 7.869412899017334, total Time: 38.50494074821472, 
+Iter: 56, Loss: 0.19936411082744598, Accuracy: 0.947, InvokeTime:11.642703771591187,  aggTime: 7.770924091339111, total Time: 36.56383991241455, 
+Iter: 57, Loss: 0.19832149147987366, Accuracy: 0.948, InvokeTime:9.409964084625244,  aggTime: 7.711789846420288, total Time: 34.404350996017456, 
+Iter: 58, Loss: 0.196219339966774, Accuracy: 0.949, InvokeTime:11.33770203590393,  aggTime: 7.90362811088562, total Time: 36.9772732257843, 
+Iter: 59, Loss: 0.19304901361465454, Accuracy: 0.949, InvokeTime:11.767344951629639,  aggTime: 8.437774181365967, total Time: 49.48839998245239, 
+Iter: 60, Loss: 0.19201244413852692, Accuracy: 0.949, InvokeTime:10.427459001541138,  aggTime: 7.90950608253479, total Time: 51.22679901123047, 
+Iter: 61, Loss: 0.1927843987941742, Accuracy: 0.950, InvokeTime:8.06076693534851,  aggTime: 8.13439393043518, total Time: 31.47795581817627, 
+Iter: 62, Loss: 0.19284120202064514, Accuracy: 0.950, InvokeTime:7.655581951141357,  aggTime: 7.697101831436157, total Time: 30.423136949539185, 
+Iter: 63, Loss: 0.19201701879501343, Accuracy: 0.950, InvokeTime:12.265856981277466,  aggTime: 7.929218053817749, total Time: 34.7957718372345, 
+Iter: 64, Loss: 0.1916358917951584, Accuracy: 0.949, InvokeTime:9.726798057556152,  aggTime: 8.046247959136963, total Time: 33.96849083900452, 
+Iter: 65, Loss: 0.18999959528446198, Accuracy: 0.951, InvokeTime:7.746629953384399,  aggTime: 8.002394914627075, total Time: 42.358728885650635, 
+Iter: 66, Loss: 0.18951751291751862, Accuracy: 0.951, InvokeTime:7.812408685684204,  aggTime: 8.31687617301941, total Time: 50.91477990150452, 
+Iter: 67, Loss: 0.18775324523448944, Accuracy: 0.951, InvokeTime:8.751626014709473,  aggTime: 8.0015869140625, total Time: 32.43676018714905, 
+Iter: 68, Loss: 0.1884612739086151, Accuracy: 0.951, InvokeTime:9.657150030136108,  aggTime: 8.370012044906616, total Time: 33.21841907501221, 
+Iter: 69, Loss: 0.1879289448261261, Accuracy: 0.950, InvokeTime:10.059317111968994,  aggTime: 7.901936054229736, total Time: 33.130022048950195, 
+Iter: 70, Loss: 0.18485620617866516, Accuracy: 0.952, InvokeTime:7.696310997009277,  aggTime: 8.017449140548706, total Time: 31.438507080078125, 
+Iter: 71, Loss: 0.18340519070625305, Accuracy: 0.953, InvokeTime:8.294518947601318,  aggTime: 8.134532928466797, total Time: 31.38504195213318, 
+Iter: 72, Loss: 0.18458330631256104, Accuracy: 0.953, InvokeTime:7.944632053375244,  aggTime: 8.03085207939148, total Time: 30.63229513168335, 
+Iter: 73, Loss: 0.1825696974992752, Accuracy: 0.953, InvokeTime:7.830557107925415,  aggTime: 7.934157133102417, total Time: 33.45485711097717, 
+Iter: 74, Loss: 0.18241670727729797, Accuracy: 0.952, InvokeTime:8.037272930145264,  aggTime: 8.026640176773071, total Time: 30.517853021621704, 
+Iter: 75, Loss: 0.18506558239459991, Accuracy: 0.952, InvokeTime:10.723539113998413,  aggTime: 8.059386968612671, total Time: 33.26646304130554, 
+Iter: 76, Loss: 0.18199917674064636, Accuracy: 0.953, InvokeTime:8.337013006210327,  aggTime: 7.4339540004730225, total Time: 30.57357883453369, 
+Iter: 77, Loss: 0.18051545321941376, Accuracy: 0.954, InvokeTime:8.215394020080566,  aggTime: 7.372231960296631, total Time: 30.25564694404602, 
+Iter: 78, Loss: 0.1796945035457611, Accuracy: 0.954, InvokeTime:8.908962965011597,  aggTime: 7.481757164001465, total Time: 30.272236108779907, 
+Iter: 79, Loss: 0.17885051667690277, Accuracy: 0.954, InvokeTime:8.171555995941162,  aggTime: 7.563795328140259, total Time: 30.949777126312256, 
+Iter: 80, Loss: 0.17662166059017181, Accuracy: 0.954, InvokeTime:8.743559837341309,  aggTime: 7.520802974700928, total Time: 31.396635055541992, 
+Iter: 81, Loss: 0.17705102264881134, Accuracy: 0.955, InvokeTime:8.567906856536865,  aggTime: 7.818676948547363, total Time: 31.790997982025146, 
+Iter: 82, Loss: 0.1765860766172409, Accuracy: 0.955, InvokeTime:8.692257165908813,  aggTime: 7.80501914024353, total Time: 31.933577060699463, 
+Iter: 83, Loss: 0.17686119675636292, Accuracy: 0.954, InvokeTime:10.240555047988892,  aggTime: 7.554095029830933, total Time: 32.41036581993103, 
+Iter: 84, Loss: 0.17560142278671265, Accuracy: 0.955, InvokeTime:8.830674171447754,  aggTime: 7.653101921081543, total Time: 31.271735191345215, 
+Iter: 85, Loss: 0.17663989961147308, Accuracy: 0.954, InvokeTime:12.793297052383423,  aggTime: 8.449802160263062, total Time: 36.1607301235199, 
+Iter: 86, Loss: 0.17537052929401398, Accuracy: 0.955, InvokeTime:7.586707353591919,  aggTime: 7.828437805175781, total Time: 30.78674817085266, 
+Iter: 87, Loss: 0.17469574511051178, Accuracy: 0.956, InvokeTime:9.431818008422852,  aggTime: 7.796354055404663, total Time: 32.38933706283569, 
+Iter: 88, Loss: 0.17380499839782715, Accuracy: 0.955, InvokeTime:8.067342042922974,  aggTime: 8.025192022323608, total Time: 31.05153512954712, 
+Iter: 89, Loss: 0.17339375615119934, Accuracy: 0.956, InvokeTime:10.892930030822754,  aggTime: 7.685487985610962, total Time: 33.39440298080444, 
+Iter: 90, Loss: 0.1722649484872818, Accuracy: 0.956, InvokeTime:7.988358736038208,  aggTime: 7.65630316734314, total Time: 30.381248950958252, 
+Iter: 91, Loss: 0.17096632719039917, Accuracy: 0.957, InvokeTime:10.506363153457642,  aggTime: 7.864681005477905, total Time: 33.495869874954224, 
+Iter: 92, Loss: 0.17206919193267822, Accuracy: 0.957, InvokeTime:13.738971948623657,  aggTime: 7.549925804138184, total Time: 36.43970990180969, 
+Iter: 93, Loss: 0.17309069633483887, Accuracy: 0.956, InvokeTime:8.917577981948853,  aggTime: 7.938133001327515, total Time: 31.98998999595642, 
+Iter: 94, Loss: 0.17209850251674652, Accuracy: 0.957, InvokeTime:8.902653932571411,  aggTime: 7.766894102096558, total Time: 32.422374963760376, 
+Iter: 95, Loss: 0.1708141714334488, Accuracy: 0.957, InvokeTime:8.445544004440308,  aggTime: 8.209636926651001, total Time: 33.28335189819336, 
+Iter: 96, Loss: 0.1713063269853592, Accuracy: 0.957, InvokeTime:11.487219095230103,  aggTime: 7.850185871124268, total Time: 36.60999584197998, 
+Iter: 97, Loss: 0.17062623798847198, Accuracy: 0.956, InvokeTime:8.755559921264648,  aggTime: 7.7124621868133545, total Time: 36.632359981536865, 
+Iter: 98, Loss: 0.17042165994644165, Accuracy: 0.957, InvokeTime:8.77703332901001,  aggTime: 7.793760061264038, total Time: 33.246437072753906, 
+Iter: 99, Loss: 0.170121967792511, Accuracy: 0.957, InvokeTime:9.05301284790039,  aggTime: 7.724651098251343, total Time: 31.413360834121704, 
+Iter: 100, Loss: 0.17163757979869843, Accuracy: 0.957, InvokeTime:8.040113925933838,  aggTime: 7.436158895492554, total Time: 29.850285053253174, 
+Iter: 101, Loss: 0.16733025014400482, Accuracy: 0.958, InvokeTime:9.839318752288818,  aggTime: 7.696659088134766, total Time: 31.92220973968506, 
+Iter: 102, Loss: 0.168627068400383, Accuracy: 0.957, InvokeTime:8.839460849761963,  aggTime: 7.718491077423096, total Time: 32.56231904029846, 
+Iter: 103, Loss: 0.1665852665901184, Accuracy: 0.959, InvokeTime:8.563655853271484,  aggTime: 8.031944990158081, total Time: 31.302478075027466, 
+Iter: 104, Loss: 0.16463302075862885, Accuracy: 0.959, InvokeTime:8.3715238571167,  aggTime: 7.680615186691284, total Time: 34.46327614784241, 
+Iter: 105, Loss: 0.16427265107631683, Accuracy: 0.959, InvokeTime:8.415887832641602,  aggTime: 8.321810007095337, total Time: 31.306097984313965, 
+Iter: 106, Loss: 0.16347330808639526, Accuracy: 0.960, InvokeTime:7.4335668087005615,  aggTime: 7.763699293136597, total Time: 29.76517605781555, 
+Iter: 107, Loss: 0.16563428938388824, Accuracy: 0.959, InvokeTime:7.8018879890441895,  aggTime: 8.075575113296509, total Time: 30.962589025497437, 
+Iter: 108, Loss: 0.1634928584098816, Accuracy: 0.959, InvokeTime:7.743512868881226,  aggTime: 9.490710020065308, total Time: 32.35380506515503, 
+Iter: 109, Loss: 0.1618712842464447, Accuracy: 0.960, InvokeTime:8.303339004516602,  aggTime: 7.970034122467041, total Time: 32.15025496482849, 
+Iter: 110, Loss: 0.16268236935138702, Accuracy: 0.959, InvokeTime:8.973175048828125,  aggTime: 8.121274948120117, total Time: 31.85037922859192, 
+Iter: 111, Loss: 0.16232147812843323, Accuracy: 0.960, InvokeTime:8.917918920516968,  aggTime: 7.91258692741394, total Time: 31.40545082092285, 
+Iter: 112, Loss: 0.15931551158428192, Accuracy: 0.960, InvokeTime:8.737517833709717,  aggTime: 7.827808141708374, total Time: 31.541359901428223, 
+Iter: 113, Loss: 0.1617337465286255, Accuracy: 0.960, InvokeTime:7.894002914428711,  aggTime: 8.210891008377075, total Time: 30.85445809364319, 
+Iter: 114, Loss: 0.16173473000526428, Accuracy: 0.959, InvokeTime:8.329816102981567,  aggTime: 8.00618290901184, total Time: 30.969785928726196, 
+Iter: 115, Loss: 0.16155141592025757, Accuracy: 0.960, InvokeTime:7.2614641189575195,  aggTime: 8.386344194412231, total Time: 68.68626403808594, 
+Iter: 116, Loss: 0.1616218239068985, Accuracy: 0.960, InvokeTime:8.035521030426025,  aggTime: 8.18127989768982, total Time: 35.593021869659424, 
+Iter: 117, Loss: 0.1613723188638687, Accuracy: 0.960, InvokeTime:8.707469701766968,  aggTime: 8.122596025466919, total Time: 70.11893582344055, 
+Iter: 118, Loss: 0.15946820378303528, Accuracy: 0.960, InvokeTime:7.813163995742798,  aggTime: 8.069939851760864, total Time: 30.598302125930786, 
+Iter: 119, Loss: 0.16232538223266602, Accuracy: 0.960, InvokeTime:7.738892078399658,  aggTime: 7.943304061889648, total Time: 36.443593978881836, 
+Iter: 120, Loss: 0.16165520250797272, Accuracy: 0.960, InvokeTime:8.092095136642456,  aggTime: 7.784672975540161, total Time: 36.204610109329224, 
+Iter: 121, Loss: 0.16321474313735962, Accuracy: 0.960, InvokeTime:8.552290201187134,  aggTime: 8.17057204246521, total Time: 42.921916246414185, 
+Iter: 122, Loss: 0.1627904176712036, Accuracy: 0.960, InvokeTime:7.9486987590789795,  aggTime: 7.612732887268066, total Time: 59.28900194168091, 
+Iter: 123, Loss: 0.15803848206996918, Accuracy: 0.961, InvokeTime:7.79186487197876,  aggTime: 8.285717964172363, total Time: 37.30600714683533, 
+Iter: 124, Loss: 0.1578158736228943, Accuracy: 0.961, InvokeTime:8.837319135665894,  aggTime: 8.073578119277954, total Time: 31.094377279281616, 
+Iter: 125, Loss: 0.15789897739887238, Accuracy: 0.961, InvokeTime:7.457013130187988,  aggTime: 8.334575176239014, total Time: 33.18150019645691, 
+Iter: 126, Loss: 0.1579388976097107, Accuracy: 0.961, InvokeTime:7.925997018814087,  aggTime: 8.720052003860474, total Time: 30.712541341781616, 
+Iter: 127, Loss: 0.15713617205619812, Accuracy: 0.961, InvokeTime:7.782811880111694,  aggTime: 8.038716077804565, total Time: 30.343541860580444, 
+Iter: 128, Loss: 0.1567990779876709, Accuracy: 0.961, InvokeTime:9.279706001281738,  aggTime: 8.079984903335571, total Time: 52.80659604072571, 
+Iter: 129, Loss: 0.1570923775434494, Accuracy: 0.961, InvokeTime:11.014842987060547,  aggTime: 7.86846399307251, total Time: 32.97333312034607, 
+Iter: 130, Loss: 0.1566809117794037, Accuracy: 0.961, InvokeTime:8.411645889282227,  aggTime: 8.191988945007324, total Time: 31.293659210205078, 
+Iter: 131, Loss: 0.15688441693782806, Accuracy: 0.961, InvokeTime:7.8679039478302,  aggTime: 7.907470226287842, total Time: 30.46482801437378, 
+Iter: 132, Loss: 0.157295823097229, Accuracy: 0.961, InvokeTime:8.276189804077148,  aggTime: 7.513249158859253, total Time: 30.646361827850342, 
+Iter: 133, Loss: 0.15528209507465363, Accuracy: 0.962, InvokeTime:8.50298523902893,  aggTime: 7.774765968322754, total Time: 31.40221405029297, 
+Iter: 134, Loss: 0.15561968088150024, Accuracy: 0.961, InvokeTime:8.087668895721436,  aggTime: 7.888442754745483, total Time: 33.17331290245056, 
+Iter: 135, Loss: 0.15582025051116943, Accuracy: 0.961, InvokeTime:7.199363946914673,  aggTime: 7.786102056503296, total Time: 34.69784903526306, 
+Iter: 136, Loss: 0.15530668199062347, Accuracy: 0.962, InvokeTime:8.214779138565063,  aggTime: 8.020946979522705, total Time: 30.423471212387085, 
+Iter: 137, Loss: 0.15717409551143646, Accuracy: 0.961, InvokeTime:8.254467010498047,  aggTime: 7.777909994125366, total Time: 30.825146198272705, 
+Iter: 138, Loss: 0.15507763624191284, Accuracy: 0.962, InvokeTime:8.903539896011353,  aggTime: 7.721709966659546, total Time: 34.421828746795654, 
+Iter: 139, Loss: 0.15487632155418396, Accuracy: 0.962, InvokeTime:7.786191940307617,  aggTime: 8.034816980361938, total Time: 40.632359981536865, 
+Iter: 140, Loss: 0.1543397605419159, Accuracy: 0.962, InvokeTime:7.085308313369751,  aggTime: 8.501574277877808, total Time: 41.56898522377014, 
+Iter: 141, Loss: 0.15398187935352325, Accuracy: 0.962, InvokeTime:8.248217821121216,  aggTime: 7.930178165435791, total Time: 30.97558093070984, 
+Iter: 142, Loss: 0.1553668975830078, Accuracy: 0.962, InvokeTime:8.499961853027344,  aggTime: 8.005094289779663, total Time: 30.977837085723877, 
+Iter: 143, Loss: 0.15528205037117004, Accuracy: 0.962, InvokeTime:8.157768964767456,  aggTime: 7.9148547649383545, total Time: 30.41021990776062, 
+Iter: 144, Loss: 0.15295061469078064, Accuracy: 0.963, InvokeTime:8.804038286209106,  aggTime: 8.089401960372925, total Time: 31.727777242660522, 
+Iter: 145, Loss: 0.15255331993103027, Accuracy: 0.962, InvokeTime:8.257729053497314,  aggTime: 7.934580087661743, total Time: 30.924673080444336, 
+Iter: 146, Loss: 0.1514519602060318, Accuracy: 0.962, InvokeTime:8.481076955795288,  aggTime: 7.336802959442139, total Time: 31.13443922996521, 
+Iter: 147, Loss: 0.15057781338691711, Accuracy: 0.963, InvokeTime:9.751183986663818,  aggTime: 7.09483003616333, total Time: 33.39640688896179, 
+Iter: 148, Loss: 0.1519436538219452, Accuracy: 0.962, InvokeTime:9.611021995544434,  aggTime: 7.404109001159668, total Time: 31.976255893707275, 
+Iter: 149, Loss: 0.15057888627052307, Accuracy: 0.963, InvokeTime:8.901419878005981,  aggTime: 8.114978790283203, total Time: 34.38316869735718, 
+Iter: 150, Loss: 0.15137827396392822, Accuracy: 0.962, InvokeTime:8.164368152618408,  aggTime: 7.622251033782959, total Time: 30.067879915237427, 
+Iter: 151, Loss: 0.15087226033210754, Accuracy: 0.962, InvokeTime:8.351249933242798,  aggTime: 8.218907833099365, total Time: 31.066730976104736, 
+Iter: 152, Loss: 0.15100716054439545, Accuracy: 0.962, InvokeTime:8.967579126358032,  aggTime: 7.4740588665008545, total Time: 30.929497003555298, 
+Iter: 153, Loss: 0.1491968333721161, Accuracy: 0.963, InvokeTime:7.630834341049194,  aggTime: 8.004503011703491, total Time: 31.625068187713623, 
+Iter: 154, Loss: 0.15006540715694427, Accuracy: 0.963, InvokeTime:8.723750829696655,  aggTime: 7.276435852050781, total Time: 30.821139812469482, 
+Iter: 155, Loss: 0.15176968276500702, Accuracy: 0.963, InvokeTime:8.44449496269226,  aggTime: 7.480149030685425, total Time: 31.302475929260254, 
+Iter: 156, Loss: 0.15141171216964722, Accuracy: 0.963, InvokeTime:9.979480981826782,  aggTime: 7.671601295471191, total Time: 40.067798137664795, 
+Iter: 157, Loss: 0.15136729180812836, Accuracy: 0.962, InvokeTime:8.969273090362549,  aggTime: 7.812129020690918, total Time: 32.51312208175659, 
+Iter: 158, Loss: 0.15049588680267334, Accuracy: 0.962, InvokeTime:8.837936162948608,  aggTime: 7.46917986869812, total Time: 31.349299907684326, 
+Iter: 159, Loss: 0.1502208411693573, Accuracy: 0.963, InvokeTime:8.145348310470581,  aggTime: 7.60506534576416, total Time: 30.54657530784607, 
+Iter: 160, Loss: 0.14964577555656433, Accuracy: 0.963, InvokeTime:7.417539119720459,  aggTime: 7.476755857467651, total Time: 29.910650968551636, 
+Iter: 161, Loss: 0.14959807693958282, Accuracy: 0.964, InvokeTime:8.60469913482666,  aggTime: 7.50779128074646, total Time: 30.408698081970215, 
+Iter: 162, Loss: 0.148881733417511, Accuracy: 0.964, InvokeTime:8.231852054595947,  aggTime: 7.519983768463135, total Time: 30.414654970169067, 
+Iter: 163, Loss: 0.14989659190177917, Accuracy: 0.963, InvokeTime:7.5604248046875,  aggTime: 7.687467575073242, total Time: 29.91540765762329, 
+Iter: 164, Loss: 0.15063472092151642, Accuracy: 0.963, InvokeTime:8.569857120513916,  aggTime: 7.3407909870147705, total Time: 30.790800094604492, 
+Iter: 165, Loss: 0.1509610414505005, Accuracy: 0.964, InvokeTime:8.384877920150757,  aggTime: 7.964714050292969, total Time: 33.8062629699707, 
+Iter: 166, Loss: 0.15140004456043243, Accuracy: 0.963, InvokeTime:7.739492177963257,  aggTime: 7.856220960617065, total Time: 32.013506174087524, 
+Iter: 167, Loss: 0.15108878910541534, Accuracy: 0.964, InvokeTime:7.835949182510376,  aggTime: 7.8053648471832275, total Time: 30.036691904067993, 
+Iter: 168, Loss: 0.15095186233520508, Accuracy: 0.964, InvokeTime:8.276294946670532,  aggTime: 8.153273820877075, total Time: 38.434449911117554, 
+Iter: 169, Loss: 0.14762602746486664, Accuracy: 0.964, InvokeTime:9.064199924468994,  aggTime: 8.108691215515137, total Time: 45.66849207878113, 
+Iter: 170, Loss: 0.14787767827510834, Accuracy: 0.964, InvokeTime:8.31433391571045,  aggTime: 7.872401714324951, total Time: 30.789057731628418, 
+Iter: 171, Loss: 0.14530029892921448, Accuracy: 0.964, InvokeTime:8.393746137619019,  aggTime: 7.569637060165405, total Time: 31.707332134246826, 
+Iter: 172, Loss: 0.14638914167881012, Accuracy: 0.964, InvokeTime:8.891535997390747,  aggTime: 7.787137985229492, total Time: 31.576181888580322, 
+Iter: 173, Loss: 0.14481934905052185, Accuracy: 0.965, InvokeTime:7.715301990509033,  aggTime: 7.762655973434448, total Time: 29.79851222038269, 
+Iter: 174, Loss: 0.14708973467350006, Accuracy: 0.965, InvokeTime:7.984328985214233,  aggTime: 7.409853935241699, total Time: 33.07413196563721, 
+Iter: 175, Loss: 0.14739805459976196, Accuracy: 0.964, InvokeTime:7.96134614944458,  aggTime: 7.375231027603149, total Time: 30.688359022140503, 
+Iter: 176, Loss: 0.1465444415807724, Accuracy: 0.965, InvokeTime:7.9555158615112305,  aggTime: 7.51240611076355, total Time: 30.139292001724243, 
+Iter: 177, Loss: 0.14766350388526917, Accuracy: 0.965, InvokeTime:9.21894097328186,  aggTime: 7.747529983520508, total Time: 32.20260715484619, 
+Iter: 178, Loss: 0.146693155169487, Accuracy: 0.965, InvokeTime:9.564346075057983,  aggTime: 7.734417200088501, total Time: 31.861699104309082, 
+Iter: 179, Loss: 0.14568780362606049, Accuracy: 0.965, InvokeTime:9.001997947692871,  aggTime: 7.947630167007446, total Time: 31.77924108505249, 
+Iter: 180, Loss: 0.14685189723968506, Accuracy: 0.965, InvokeTime:8.07309889793396,  aggTime: 7.474780082702637, total Time: 31.508233785629272, 
+Iter: 181, Loss: 0.1455283761024475, Accuracy: 0.964, InvokeTime:7.674454212188721,  aggTime: 8.391022205352783, total Time: 30.548794269561768, 
+Iter: 182, Loss: 0.1460462361574173, Accuracy: 0.965, InvokeTime:7.755573034286499,  aggTime: 7.771679878234863, total Time: 36.33917689323425, 
+Iter: 183, Loss: 0.14502057433128357, Accuracy: 0.965, InvokeTime:8.6429922580719,  aggTime: 7.685222148895264, total Time: 31.120851278305054, 
+Iter: 184, Loss: 0.14467428624629974, Accuracy: 0.965, InvokeTime:7.994246959686279,  aggTime: 8.127021074295044, total Time: 31.04552388191223, 
+Iter: 185, Loss: 0.14618228375911713, Accuracy: 0.965, InvokeTime:8.182903051376343,  aggTime: 7.675051212310791, total Time: 29.875219345092773, 
+Iter: 186, Loss: 0.1465369462966919, Accuracy: 0.965, InvokeTime:7.0361480712890625,  aggTime: 7.560322999954224, total Time: 30.238819122314453, 
+Iter: 187, Loss: 0.14630624651908875, Accuracy: 0.965, InvokeTime:8.515286922454834,  aggTime: 7.756148099899292, total Time: 31.302783966064453, 
+Iter: 188, Loss: 0.14596189558506012, Accuracy: 0.965, InvokeTime:7.522674083709717,  aggTime: 7.415292024612427, total Time: 30.24337601661682, 
+Iter: 189, Loss: 0.14488589763641357, Accuracy: 0.965, InvokeTime:8.562587261199951,  aggTime: 7.790328025817871, total Time: 30.428178310394287, 
+Iter: 190, Loss: 0.1435677707195282, Accuracy: 0.965, InvokeTime:7.2166359424591064,  aggTime: 7.713015794754028, total Time: 29.64467477798462, 
+Iter: 191, Loss: 0.14792737364768982, Accuracy: 0.965, InvokeTime:8.01154613494873,  aggTime: 7.530789136886597, total Time: 30.102482080459595, 
+Iter: 192, Loss: 0.14578469097614288, Accuracy: 0.966, InvokeTime:6.801401138305664,  aggTime: 7.596049070358276, total Time: 28.766329288482666, 
+Iter: 193, Loss: 0.14571093022823334, Accuracy: 0.966, InvokeTime:7.770485877990723,  aggTime: 7.794608116149902, total Time: 29.83733296394348, 
+Iter: 194, Loss: 0.1437516063451767, Accuracy: 0.966, InvokeTime:7.128560781478882,  aggTime: 7.480071783065796, total Time: 29.0859477519989, 
+Iter: 195, Loss: 0.14445632696151733, Accuracy: 0.965, InvokeTime:7.497257947921753,  aggTime: 7.4960339069366455, total Time: 42.643781900405884, 
+Iter: 196, Loss: 0.14617370069026947, Accuracy: 0.965, InvokeTime:7.436450958251953,  aggTime: 7.4724650382995605, total Time: 29.24753999710083, 
+Iter: 197, Loss: 0.14562761783599854, Accuracy: 0.965, InvokeTime:7.328074932098389,  aggTime: 7.908267974853516, total Time: 30.00052499771118, 
+Iter: 198, Loss: 0.14565381407737732, Accuracy: 0.965, InvokeTime:7.055901050567627,  aggTime: 7.68555474281311, total Time: 29.38383388519287, 
+Iter: 199, Loss: 0.14563977718353271, Accuracy: 0.965, InvokeTime:7.682697057723999,  aggTime: 7.858254671096802, total Time: 29.99565076828003, 
+Iter: 200, Loss: 0.14634248614311218, Accuracy: 0.965, InvokeTime:8.333409070968628,  aggTime: 7.4716880321502686, total Time: 30.082459926605225, 
+Iter: 201, Loss: 0.14468228816986084, Accuracy: 0.966, InvokeTime:8.001368761062622,  aggTime: 7.430227994918823, total Time: 29.93045687675476, 
+Iter: 202, Loss: 0.14348390698432922, Accuracy: 0.966, InvokeTime:7.24821400642395,  aggTime: 7.533200025558472, total Time: 29.099308967590332, 
+Iter: 203, Loss: 0.14309774339199066, Accuracy: 0.966, InvokeTime:7.40235710144043,  aggTime: 7.734163999557495, total Time: 31.408705949783325, 
+Iter: 204, Loss: 0.14438197016716003, Accuracy: 0.966, InvokeTime:8.25758695602417,  aggTime: 7.682277202606201, total Time: 30.080855131149292, 
+Iter: 205, Loss: 0.1438874453306198, Accuracy: 0.966, InvokeTime:7.745605945587158,  aggTime: 8.139023303985596, total Time: 30.136279106140137, 
+Iter: 206, Loss: 0.14510388672351837, Accuracy: 0.966, InvokeTime:7.361603021621704,  aggTime: 7.734224796295166, total Time: 29.38275671005249, 
+Iter: 207, Loss: 0.14464034140110016, Accuracy: 0.966, InvokeTime:8.064582824707031,  aggTime: 8.38182020187378, total Time: 32.1552939414978, 
+Iter: 208, Loss: 0.14495420455932617, Accuracy: 0.965, InvokeTime:7.4370810985565186,  aggTime: 8.31085205078125, total Time: 42.70691919326782, 
+Iter: 209, Loss: 0.14318138360977173, Accuracy: 0.966, InvokeTime:7.5941407680511475,  aggTime: 7.854621887207031, total Time: 30.604100704193115, 
+Iter: 210, Loss: 0.14290323853492737, Accuracy: 0.966, InvokeTime:7.875174045562744,  aggTime: 7.704211950302124, total Time: 34.51645088195801, 
+Iter: 211, Loss: 0.1448415070772171, Accuracy: 0.966, InvokeTime:7.627560138702393,  aggTime: 8.662000894546509, total Time: 30.249304056167603, 
+Iter: 212, Loss: 0.14469487965106964, Accuracy: 0.966, InvokeTime:7.307859897613525,  aggTime: 7.915064096450806, total Time: 29.10953712463379, 
+Iter: 213, Loss: 0.14344976842403412, Accuracy: 0.966, InvokeTime:7.814245223999023,  aggTime: 8.37185788154602, total Time: 40.05227708816528, 
+Iter: 214, Loss: 0.14278347790241241, Accuracy: 0.966, InvokeTime:8.963043928146362,  aggTime: 8.108414888381958, total Time: 31.45295286178589, 
+Iter: 215, Loss: 0.14250893890857697, Accuracy: 0.965, InvokeTime:8.013747930526733,  aggTime: 8.003921031951904, total Time: 29.901103973388672, 
+Iter: 216, Loss: 0.14421981573104858, Accuracy: 0.966, InvokeTime:7.6685950756073,  aggTime: 8.271263122558594, total Time: 30.266578197479248, 
+Iter: 217, Loss: 0.14251261949539185, Accuracy: 0.966, InvokeTime:8.330134868621826,  aggTime: 7.806517124176025, total Time: 30.270759105682373, 
+Iter: 218, Loss: 0.1421576589345932, Accuracy: 0.966, InvokeTime:8.288434028625488,  aggTime: 7.828233957290649, total Time: 30.417872190475464, 
+Iter: 219, Loss: 0.1427651196718216, Accuracy: 0.966, InvokeTime:8.968814134597778,  aggTime: 8.248713970184326, total Time: 31.419911861419678, 
+Iter: 220, Loss: 0.14143440127372742, Accuracy: 0.966, InvokeTime:7.88216495513916,  aggTime: 7.870219945907593, total Time: 30.300352811813354, 
+Iter: 221, Loss: 0.14214631915092468, Accuracy: 0.967, InvokeTime:8.816177129745483,  aggTime: 7.638326168060303, total Time: 30.494004011154175, 
+Iter: 222, Loss: 0.14276131987571716, Accuracy: 0.966, InvokeTime:7.44677996635437,  aggTime: 7.72009801864624, total Time: 31.969990015029907, 
+Iter: 223, Loss: 0.1413566619157791, Accuracy: 0.966, InvokeTime:10.399237155914307,  aggTime: 7.753767967224121, total Time: 32.049948930740356, 
+Iter: 224, Loss: 0.14307717978954315, Accuracy: 0.966, InvokeTime:8.498655080795288,  aggTime: 7.960253953933716, total Time: 31.027674198150635, 
+Iter: 225, Loss: 0.14254020154476166, Accuracy: 0.966, InvokeTime:7.933786153793335,  aggTime: 8.423531770706177, total Time: 30.904829025268555, 
+Iter: 226, Loss: 0.14301209151744843, Accuracy: 0.966, InvokeTime:8.31730580329895,  aggTime: 8.021847009658813, total Time: 31.04393196105957, 
+Iter: 227, Loss: 0.14243781566619873, Accuracy: 0.966, InvokeTime:8.376343011856079,  aggTime: 7.830329895019531, total Time: 30.419546842575073, 
+Iter: 228, Loss: 0.14177601039409637, Accuracy: 0.966, InvokeTime:7.507359981536865,  aggTime: 7.650520086288452, total Time: 29.35628914833069, 
+Iter: 229, Loss: 0.14268720149993896, Accuracy: 0.966, InvokeTime:8.312541246414185,  aggTime: 7.757872104644775, total Time: 30.645512104034424, 
+Iter: 230, Loss: 0.14229266345500946, Accuracy: 0.967, InvokeTime:7.683857202529907,  aggTime: 7.794572114944458, total Time: 45.913398027420044, 
+Iter: 231, Loss: 0.14082972705364227, Accuracy: 0.967, InvokeTime:7.2020111083984375,  aggTime: 7.782647132873535, total Time: 29.17274308204651, 
+Iter: 232, Loss: 0.1413603276014328, Accuracy: 0.966, InvokeTime:8.758677005767822,  aggTime: 7.935673713684082, total Time: 33.88886570930481, 
+Iter: 233, Loss: 0.14089950919151306, Accuracy: 0.967, InvokeTime:7.746769189834595,  aggTime: 7.838421583175659, total Time: 31.002631902694702, 
+Iter: 234, Loss: 0.1418294906616211, Accuracy: 0.966, InvokeTime:7.806056022644043,  aggTime: 8.034552812576294, total Time: 31.592710971832275, 
+Iter: 235, Loss: 0.1399967074394226, Accuracy: 0.966, InvokeTime:8.109107255935669,  aggTime: 7.636919021606445, total Time: 29.95017910003662, 
+Iter: 236, Loss: 0.14129137992858887, Accuracy: 0.966, InvokeTime:7.493019104003906,  aggTime: 7.563230037689209, total Time: 30.313966989517212, 
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.5639541149139404, Accuracy: 0.660, InvokeTime:7.998752117156982,  aggTime: 14.313650846481323, total Time: 62.30566596984863, 
+Iter: 2, Loss: 1.0677722692489624, Accuracy: 0.779, InvokeTime:7.728454113006592,  aggTime: 7.6348137855529785, total Time: 48.29582715034485, 
+Iter: 3, Loss: 0.79402756690979, Accuracy: 0.818, InvokeTime:6.4788970947265625,  aggTime: 7.697768926620483, total Time: 79.01654410362244, 
+Iter: 4, Loss: 0.6387238502502441, Accuracy: 0.840, InvokeTime:9.352850914001465,  aggTime: 8.388947010040283, total Time: 41.89877986907959, 
+Iter: 5, Loss: 0.5447025895118713, Accuracy: 0.854, InvokeTime:8.423593997955322,  aggTime: 7.744813680648804, total Time: 39.18481087684631, 
+Iter: 6, Loss: 0.4761835038661957, Accuracy: 0.868, InvokeTime:8.061149835586548,  aggTime: 7.7221879959106445, total Time: 36.18248677253723, 
+Iter: 7, Loss: 0.4294319748878479, Accuracy: 0.877, InvokeTime:7.90802788734436,  aggTime: 8.384233236312866, total Time: 37.12140989303589, 
+Iter: 8, Loss: 0.4030412435531616, Accuracy: 0.878, InvokeTime:7.317688941955566,  aggTime: 8.286488056182861, total Time: 30.115185976028442, 
+Iter: 9, Loss: 0.37702885270118713, Accuracy: 0.885, InvokeTime:9.773545980453491,  aggTime: 8.258422136306763, total Time: 32.0319881439209, 
+Iter: 10, Loss: 0.3523479402065277, Accuracy: 0.895, InvokeTime:8.622102975845337,  aggTime: 7.717387914657593, total Time: 32.597522020339966, 
+Iter: 11, Loss: 0.3366421163082123, Accuracy: 0.898, InvokeTime:8.588561058044434,  aggTime: 7.800801038742065, total Time: 30.56562614440918, 
+Iter: 12, Loss: 0.31886422634124756, Accuracy: 0.903, InvokeTime:9.354160785675049,  aggTime: 7.774494886398315, total Time: 31.14445209503174, 
+Iter: 13, Loss: 0.3116099238395691, Accuracy: 0.905, InvokeTime:7.904154062271118,  aggTime: 8.170114755630493, total Time: 30.936444759368896, 
+Iter: 14, Loss: 0.29679134488105774, Accuracy: 0.911, InvokeTime:7.762337923049927,  aggTime: 7.839257717132568, total Time: 29.354708909988403, 
+Iter: 15, Loss: 0.2891296148300171, Accuracy: 0.914, InvokeTime:6.934412956237793,  aggTime: 8.12620210647583, total Time: 29.730144023895264, 
+Iter: 16, Loss: 0.2812236547470093, Accuracy: 0.916, InvokeTime:7.358630180358887,  aggTime: 8.295482873916626, total Time: 29.38807487487793, 
+Iter: 17, Loss: 0.27846208214759827, Accuracy: 0.917, InvokeTime:8.48055386543274,  aggTime: 8.117482900619507, total Time: 30.90394687652588, 
+Iter: 18, Loss: 0.26841962337493896, Accuracy: 0.921, InvokeTime:8.17447304725647,  aggTime: 8.097046136856079, total Time: 30.126208066940308, 
+Iter: 19, Loss: 0.26762059330940247, Accuracy: 0.921, InvokeTime:7.940901756286621,  aggTime: 7.562681198120117, total Time: 29.080908060073853, 
+Iter: 20, Loss: 0.2630584239959717, Accuracy: 0.922, InvokeTime:8.326029062271118,  aggTime: 7.955956935882568, total Time: 77.54020404815674, 
+Iter: 21, Loss: 0.25999411940574646, Accuracy: 0.924, InvokeTime:7.176077127456665,  aggTime: 7.687195062637329, total Time: 43.55514216423035, 
+Iter: 22, Loss: 0.2591961920261383, Accuracy: 0.924, InvokeTime:7.0360190868377686,  aggTime: 7.640547275543213, total Time: 28.408424139022827, 
+Iter: 23, Loss: 0.25468429923057556, Accuracy: 0.926, InvokeTime:8.025199890136719,  aggTime: 7.730445146560669, total Time: 29.692538022994995, 
+Iter: 24, Loss: 0.25018632411956787, Accuracy: 0.928, InvokeTime:6.70776104927063,  aggTime: 7.697165012359619, total Time: 28.17069911956787, 
+Iter: 25, Loss: 0.24834153056144714, Accuracy: 0.928, InvokeTime:9.063967943191528,  aggTime: 7.966792106628418, total Time: 38.497544050216675, 
+Iter: 26, Loss: 0.2427239716053009, Accuracy: 0.930, InvokeTime:6.372204065322876,  aggTime: 7.766900062561035, total Time: 30.71352791786194, 
+Iter: 27, Loss: 0.2428533136844635, Accuracy: 0.930, InvokeTime:8.418644189834595,  aggTime: 7.764214038848877, total Time: 50.200178146362305, 
+Iter: 28, Loss: 0.24076056480407715, Accuracy: 0.931, InvokeTime:6.617027997970581,  aggTime: 7.764243125915527, total Time: 28.3425190448761, 
+Iter: 29, Loss: 0.2370874285697937, Accuracy: 0.932, InvokeTime:7.54833722114563,  aggTime: 7.824244976043701, total Time: 29.483575105667114, 
+Iter: 30, Loss: 0.23350054025650024, Accuracy: 0.933, InvokeTime:7.329259157180786,  aggTime: 7.941171884536743, total Time: 29.395249128341675, 
+Iter: 31, Loss: 0.22928659617900848, Accuracy: 0.936, InvokeTime:8.569216012954712,  aggTime: 7.9358789920806885, total Time: 31.391515970230103, 
+Iter: 32, Loss: 0.22630436718463898, Accuracy: 0.936, InvokeTime:7.385900974273682,  aggTime: 7.692453145980835, total Time: 29.106117963790894, 
+Iter: 33, Loss: 0.22676675021648407, Accuracy: 0.936, InvokeTime:7.61449408531189,  aggTime: 8.470615148544312, total Time: 30.229258060455322, 
+Iter: 34, Loss: 0.2228904813528061, Accuracy: 0.938, InvokeTime:8.0038001537323,  aggTime: 8.094871044158936, total Time: 43.0046820640564, 
+Iter: 35, Loss: 0.2237260937690735, Accuracy: 0.938, InvokeTime:7.243360996246338,  aggTime: 7.894488096237183, total Time: 31.0852108001709, 
+Iter: 36, Loss: 0.2198306918144226, Accuracy: 0.939, InvokeTime:6.99704122543335,  aggTime: 8.013712167739868, total Time: 35.476635217666626, 
+Iter: 37, Loss: 0.22178225219249725, Accuracy: 0.939, InvokeTime:8.201733827590942,  aggTime: 7.874366998672485, total Time: 53.96359705924988, 
+Iter: 38, Loss: 0.220304474234581, Accuracy: 0.939, InvokeTime:8.109586000442505,  aggTime: 7.406370639801025, total Time: 29.464662790298462, 
+Iter: 39, Loss: 0.22303520143032074, Accuracy: 0.939, InvokeTime:11.374562740325928,  aggTime: 7.557821989059448, total Time: 32.48826193809509, 
+Iter: 40, Loss: 0.22216200828552246, Accuracy: 0.940, InvokeTime:6.569330930709839,  aggTime: 7.369887351989746, total Time: 27.887580156326294, 
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.561741590499878, Accuracy: 0.659, InvokeTime:5.10081672668457,  aggTime: 12.712110996246338, total Time: 113.82766580581665, 
+Iter: 2, Loss: 1.0474834442138672, Accuracy: 0.808, InvokeTime:5.876649379730225,  aggTime: 8.05812692642212, total Time: 45.01853919029236, 
+Iter: 3, Loss: 0.7740074992179871, Accuracy: 0.844, InvokeTime:6.039082050323486,  aggTime: 9.401033163070679, total Time: 70.16479015350342, 
+Iter: 4, Loss: 0.6192911863327026, Accuracy: 0.858, InvokeTime:7.289829730987549,  aggTime: 8.070584058761597, total Time: 40.66018199920654, 
+Iter: 5, Loss: 0.5253475308418274, Accuracy: 0.871, InvokeTime:7.751355886459351,  aggTime: 7.442874193191528, total Time: 53.64708399772644, 
+Iter: 6, Loss: 0.47176483273506165, Accuracy: 0.875, InvokeTime:8.037875175476074,  aggTime: 7.669945240020752, total Time: 62.0912811756134, 
+Iter: 7, Loss: 0.428555965423584, Accuracy: 0.880, InvokeTime:7.133995056152344,  aggTime: 8.15684700012207, total Time: 53.47662591934204, 
+Iter: 8, Loss: 0.39764660596847534, Accuracy: 0.887, InvokeTime:5.974745750427246,  aggTime: 8.185521841049194, total Time: 39.40618658065796, 
+Iter: 9, Loss: 0.3760147988796234, Accuracy: 0.890, InvokeTime:5.596408128738403,  aggTime: 7.61634087562561, total Time: 30.297776222229004, 
+Iter: 10, Loss: 0.358783483505249, Accuracy: 0.896, InvokeTime:6.092370986938477,  aggTime: 7.505367040634155, total Time: 27.97372817993164, 
+Iter: 11, Loss: 0.3395616412162781, Accuracy: 0.900, InvokeTime:6.014371633529663,  aggTime: 7.595785856246948, total Time: 27.989230632781982, 
+Iter: 12, Loss: 0.3293965756893158, Accuracy: 0.903, InvokeTime:6.892777919769287,  aggTime: 7.720221281051636, total Time: 28.15495800971985, 
+Iter: 13, Loss: 0.31656062602996826, Accuracy: 0.908, InvokeTime:7.091628789901733,  aggTime: 7.98199200630188, total Time: 29.17508602142334, 
+Iter: 14, Loss: 0.30368655920028687, Accuracy: 0.910, InvokeTime:6.672321081161499,  aggTime: 7.9762701988220215, total Time: 27.41452121734619, 
+Iter: 15, Loss: 0.30046936869621277, Accuracy: 0.912, InvokeTime:6.070767164230347,  aggTime: 7.739496946334839, total Time: 26.12394118309021, 
+Iter: 16, Loss: 0.2933988571166992, Accuracy: 0.912, InvokeTime:7.0138139724731445,  aggTime: 7.964111089706421, total Time: 51.32411313056946, 
+Iter: 17, Loss: 0.2788063585758209, Accuracy: 0.918, InvokeTime:6.2340099811553955,  aggTime: 8.270734071731567, total Time: 28.869282245635986, 
+Iter: 18, Loss: 0.2759305238723755, Accuracy: 0.919, InvokeTime:5.989037990570068,  aggTime: 8.136429786682129, total Time: 28.345342874526978, 
+Iter: 19, Loss: 0.271291047334671, Accuracy: 0.921, InvokeTime:5.070005655288696,  aggTime: 8.240514039993286, total Time: 27.508880853652954, 
+Iter: 20, Loss: 0.26924455165863037, Accuracy: 0.920, InvokeTime:5.998342037200928,  aggTime: 7.687989950180054, total Time: 27.615211963653564, 
+Iter: 21, Loss: 0.2630271017551422, Accuracy: 0.924, InvokeTime:7.172611951828003,  aggTime: 7.807208776473999, total Time: 29.0894877910614, 
+Iter: 22, Loss: 0.260270357131958, Accuracy: 0.924, InvokeTime:6.9199440479278564,  aggTime: 7.696770668029785, total Time: 28.961617946624756, 
+Iter: 23, Loss: 0.25508183240890503, Accuracy: 0.927, InvokeTime:5.954629182815552,  aggTime: 7.771585941314697, total Time: 27.192958116531372, 
+Iter: 24, Loss: 0.25177615880966187, Accuracy: 0.928, InvokeTime:7.212039947509766,  aggTime: 7.818824768066406, total Time: 46.935210943222046, 
+Iter: 25, Loss: 0.2462514340877533, Accuracy: 0.930, InvokeTime:6.207818984985352,  aggTime: 7.891627073287964, total Time: 28.032461881637573, 
+Iter: 26, Loss: 0.24122841656208038, Accuracy: 0.933, InvokeTime:6.81010890007019,  aggTime: 7.8323891162872314, total Time: 28.973553895950317, 
+Iter: 27, Loss: 0.23948562145233154, Accuracy: 0.933, InvokeTime:7.200482606887817,  aggTime: 7.793657064437866, total Time: 28.210705757141113, 
+Iter: 28, Loss: 0.23573945462703705, Accuracy: 0.934, InvokeTime:6.852909088134766,  aggTime: 8.44359302520752, total Time: 43.87128400802612, 
+Iter: 29, Loss: 0.23486453294754028, Accuracy: 0.936, InvokeTime:7.177725076675415,  aggTime: 7.853009939193726, total Time: 29.437115907669067, 
+Iter: 30, Loss: 0.23210950195789337, Accuracy: 0.936, InvokeTime:6.876921892166138,  aggTime: 7.81554388999939, total Time: 29.152042865753174, 
+Iter: 31, Loss: 0.23198434710502625, Accuracy: 0.937, InvokeTime:7.8899641036987305,  aggTime: 8.598305940628052, total Time: 31.18182396888733, 
+Iter: 32, Loss: 0.23159106075763702, Accuracy: 0.937, InvokeTime:6.883323907852173,  aggTime: 8.354816913604736, total Time: 35.97770977020264, 
+Iter: 33, Loss: 0.2280893623828888, Accuracy: 0.938, InvokeTime:5.157498121261597,  aggTime: 8.226580142974854, total Time: 36.14161515235901, 
+Iter: 34, Loss: 0.22784171998500824, Accuracy: 0.938, InvokeTime:7.230723857879639,  aggTime: 7.85174036026001, total Time: 29.660396099090576, 
+Iter: 35, Loss: 0.2233491688966751, Accuracy: 0.939, InvokeTime:6.9961628913879395,  aggTime: 8.392812013626099, total Time: 30.007349014282227, 
+Iter: 36, Loss: 0.22338832914829254, Accuracy: 0.939, InvokeTime:6.240055084228516,  aggTime: 8.037722110748291, total Time: 28.570744037628174, 
+Iter: 37, Loss: 0.22115539014339447, Accuracy: 0.940, InvokeTime:5.848955154418945,  aggTime: 7.51660418510437, total Time: 27.57976007461548, 
+Iter: 38, Loss: 0.217694953083992, Accuracy: 0.942, InvokeTime:6.463758230209351,  aggTime: 7.678545236587524, total Time: 28.613307237625122, 
+Iter: 39, Loss: 0.21541333198547363, Accuracy: 0.943, InvokeTime:7.804471969604492,  aggTime: 7.933247089385986, total Time: 29.927402019500732, 
+Iter: 40, Loss: 0.21566037833690643, Accuracy: 0.942, InvokeTime:8.254472970962524,  aggTime: 7.740647792816162, total Time: 30.557166814804077, 
+Iter: 41, Loss: 0.2145322561264038, Accuracy: 0.943, InvokeTime:5.065011978149414,  aggTime: 7.657520771026611, total Time: 27.18856692314148, 
+Iter: 42, Loss: 0.2119254171848297, Accuracy: 0.944, InvokeTime:6.9950878620147705,  aggTime: 8.103792190551758, total Time: 29.65073013305664, 
+Iter: 43, Loss: 0.21199139952659607, Accuracy: 0.944, InvokeTime:7.198767185211182,  aggTime: 7.42561674118042, total Time: 28.913776874542236, 
+Iter: 44, Loss: 0.2107897698879242, Accuracy: 0.945, InvokeTime:6.260877847671509,  aggTime: 7.542737245559692, total Time: 28.169963121414185, 
+Iter: 45, Loss: 0.20780949294567108, Accuracy: 0.946, InvokeTime:7.057492971420288,  aggTime: 7.698803901672363, total Time: 29.228489875793457, 
+Iter: 46, Loss: 0.20762407779693604, Accuracy: 0.946, InvokeTime:7.696493864059448,  aggTime: 8.103863000869751, total Time: 47.4593608379364, 
+Iter: 47, Loss: 0.20416979491710663, Accuracy: 0.946, InvokeTime:7.321555852890015,  aggTime: 7.631468057632446, total Time: 29.69591498374939, 
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.5288654565811157, Accuracy: 0.697, InvokeTime:5.652837038040161,  aggTime: 12.534454107284546, total Time: 71.55646014213562, 
+Iter: 2, Loss: 1.0034412145614624, Accuracy: 0.823, InvokeTime:6.162927150726318,  aggTime: 7.9206976890563965, total Time: 60.75960397720337, 
+Iter: 3, Loss: 0.7253821492195129, Accuracy: 0.853, InvokeTime:6.646414041519165,  aggTime: 7.736284971237183, total Time: 77.68641519546509, 
+Iter: 4, Loss: 0.573586106300354, Accuracy: 0.868, InvokeTime:6.9809980392456055,  aggTime: 8.471420049667358, total Time: 29.23433804512024, 
+Iter: 5, Loss: 0.4838867783546448, Accuracy: 0.880, InvokeTime:4.906825065612793,  aggTime: 8.054593086242676, total Time: 47.54457402229309, 
+Iter: 6, Loss: 0.42935308814048767, Accuracy: 0.888, InvokeTime:6.821928024291992,  aggTime: 7.806121110916138, total Time: 40.541829109191895, 
+Iter: 7, Loss: 0.38862064480781555, Accuracy: 0.896, InvokeTime:5.789283037185669,  aggTime: 7.677695989608765, total Time: 41.13484787940979, 
+Iter: 8, Loss: 0.3591289818286896, Accuracy: 0.901, InvokeTime:7.200587034225464,  aggTime: 8.258701086044312, total Time: 39.730005979537964, 
+Iter: 9, Loss: 0.3381124436855316, Accuracy: 0.904, InvokeTime:5.842257261276245,  aggTime: 8.10188889503479, total Time: 28.626012086868286, 
+Iter: 10, Loss: 0.3185221552848816, Accuracy: 0.909, InvokeTime:6.960080862045288,  aggTime: 7.518177032470703, total Time: 28.997382879257202, 
+Iter: 11, Loss: 0.30846795439720154, Accuracy: 0.911, InvokeTime:7.557112216949463,  aggTime: 7.675214052200317, total Time: 29.692651987075806, 
+Iter: 12, Loss: 0.29202812910079956, Accuracy: 0.914, InvokeTime:7.871768951416016,  aggTime: 7.853440999984741, total Time: 30.421746015548706, 
+Iter: 13, Loss: 0.28329306840896606, Accuracy: 0.916, InvokeTime:5.88754415512085,  aggTime: 7.82548189163208, total Time: 27.36202907562256, 
+Iter: 14, Loss: 0.2754545509815216, Accuracy: 0.918, InvokeTime:7.758142948150635,  aggTime: 8.751161098480225, total Time: 29.52600598335266, 
+Iter: 15, Loss: 0.26698458194732666, Accuracy: 0.922, InvokeTime:6.643132925033569,  aggTime: 8.21561312675476, total Time: 29.11641001701355, 
+Iter: 16, Loss: 0.25870007276535034, Accuracy: 0.926, InvokeTime:5.682748794555664,  aggTime: 7.979351043701172, total Time: 28.032532930374146, 
+Iter: 17, Loss: 0.2574130892753601, Accuracy: 0.924, InvokeTime:7.507431268692017,  aggTime: 8.596494913101196, total Time: 30.90601110458374, 
+Iter: 18, Loss: 0.25136953592300415, Accuracy: 0.927, InvokeTime:7.429800033569336,  aggTime: 8.028960943222046, total Time: 30.16309094429016, 
+Iter: 19, Loss: 0.24623429775238037, Accuracy: 0.929, InvokeTime:5.677786111831665,  aggTime: 8.43108606338501, total Time: 28.255492210388184, 
+Iter: 20, Loss: 0.23955051600933075, Accuracy: 0.931, InvokeTime:7.014458179473877,  aggTime: 7.981269121170044, total Time: 28.918092250823975, 
+Iter: 21, Loss: 0.2348693311214447, Accuracy: 0.933, InvokeTime:6.5468590259552,  aggTime: 7.901464223861694, total Time: 27.926993131637573, 
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.579282283782959, Accuracy: 0.649, InvokeTime:4.852190971374512,  aggTime: 13.46568489074707, total Time: 142.63175082206726, 
+Iter: 2, Loss: 1.054073691368103, Accuracy: 0.779, InvokeTime:5.483343839645386,  aggTime: 8.458931922912598, total Time: 59.153971910476685, 
+Iter: 3, Loss: 0.7826525568962097, Accuracy: 0.819, InvokeTime:5.896942138671875,  aggTime: 7.705728054046631, total Time: 62.05564618110657, 
+Iter: 4, Loss: 0.6300215125083923, Accuracy: 0.844, InvokeTime:5.2249181270599365,  aggTime: 7.908517122268677, total Time: 37.89360022544861, 
+Iter: 5, Loss: 0.540610134601593, Accuracy: 0.859, InvokeTime:5.829041957855225,  aggTime: 10.22797679901123, total Time: 40.96488809585571, 
+Iter: 6, Loss: 0.4810302257537842, Accuracy: 0.870, InvokeTime:5.953423261642456,  aggTime: 7.794745206832886, total Time: 61.60173320770264, 
+Iter: 7, Loss: 0.43540990352630615, Accuracy: 0.881, InvokeTime:5.534020900726318,  aggTime: 7.692527770996094, total Time: 52.679131746292114, 
+ ############## Experiment : test_num_clients_100_mnistcnn_0###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.4588669538497925, Accuracy: 0.768, InvokeTime:4.522876977920532,  aggTime: 12.350291967391968, total Time: 89.09292507171631, 
+Iter: 2, Loss: 0.9731414914131165, Accuracy: 0.833, InvokeTime:5.898935794830322,  aggTime: 8.450140237808228, total Time: 28.90383791923523, 
+Iter: 3, Loss: 0.7224260568618774, Accuracy: 0.849, InvokeTime:5.3973870277404785,  aggTime: 8.051807880401611, total Time: 31.308783769607544, 
+Iter: 4, Loss: 0.5824965238571167, Accuracy: 0.863, InvokeTime:5.260786056518555,  aggTime: 8.517930030822754, total Time: 28.706945180892944, 
+Iter: 5, Loss: 0.500454306602478, Accuracy: 0.873, InvokeTime:6.015416145324707,  aggTime: 9.190006017684937, total Time: 123.34150099754333, 
+Iter: 6, Loss: 0.4452459514141083, Accuracy: 0.883, InvokeTime:5.454998970031738,  aggTime: 7.787589073181152, total Time: 40.016170024871826, 
+Iter: 7, Loss: 0.40590181946754456, Accuracy: 0.891, InvokeTime:5.261850833892822,  aggTime: 7.908505201339722, total Time: 48.685641050338745, 
+Iter: 8, Loss: 0.37452489137649536, Accuracy: 0.897, InvokeTime:5.4420390129089355,  aggTime: 8.279561996459961, total Time: 28.43909215927124, 
+Iter: 9, Loss: 0.34995079040527344, Accuracy: 0.902, InvokeTime:5.179373025894165,  aggTime: 7.902530908584595, total Time: 47.1723518371582, 
+Iter: 10, Loss: 0.3323090374469757, Accuracy: 0.906, InvokeTime:5.442952871322632,  aggTime: 8.152961015701294, total Time: 52.141682863235474, 
+Iter: 11, Loss: 0.3200230598449707, Accuracy: 0.910, InvokeTime:5.348574161529541,  aggTime: 7.532752275466919, total Time: 27.484905242919922, 
+Iter: 12, Loss: 0.307874470949173, Accuracy: 0.912, InvokeTime:5.201918125152588,  aggTime: 8.244613885879517, total Time: 48.01079702377319, 
+Iter: 13, Loss: 0.2967545688152313, Accuracy: 0.916, InvokeTime:5.289201021194458,  aggTime: 7.822386026382446, total Time: 27.595757961273193, 
+Iter: 14, Loss: 0.2867738604545593, Accuracy: 0.919, InvokeTime:5.6591479778289795,  aggTime: 7.887251853942871, total Time: 28.486170053482056, 
+Iter: 15, Loss: 0.2782039940357208, Accuracy: 0.921, InvokeTime:5.469326734542847,  aggTime: 7.931131839752197, total Time: 34.44135761260986, 
+Iter: 16, Loss: 0.2752876281738281, Accuracy: 0.922, InvokeTime:5.4914820194244385,  aggTime: 7.908853054046631, total Time: 27.836283206939697, 
+Iter: 17, Loss: 0.27095693349838257, Accuracy: 0.923, InvokeTime:5.946510076522827,  aggTime: 8.497629880905151, total Time: 28.58961009979248, 
+Iter: 18, Loss: 0.2671365737915039, Accuracy: 0.924, InvokeTime:5.24141526222229,  aggTime: 8.052095890045166, total Time: 27.89915418624878, 
+Iter: 19, Loss: 0.26264989376068115, Accuracy: 0.925, InvokeTime:5.689229965209961,  aggTime: 7.343159914016724, total Time: 27.67887783050537, 
+Iter: 20, Loss: 0.2540280520915985, Accuracy: 0.929, InvokeTime:5.973107814788818,  aggTime: 7.4616241455078125, total Time: 27.704285860061646, 
+Iter: 21, Loss: 0.25073671340942383, Accuracy: 0.930, InvokeTime:5.171509742736816,  aggTime: 7.88811182975769, total Time: 27.824059009552002, 
+Iter: 22, Loss: 0.2464340776205063, Accuracy: 0.932, InvokeTime:5.665417909622192,  aggTime: 7.845154047012329, total Time: 34.84707570075989, 
+Iter: 23, Loss: 0.24294087290763855, Accuracy: 0.933, InvokeTime:5.723984003067017,  aggTime: 7.716451168060303, total Time: 44.180474281311035, 
+Iter: 24, Loss: 0.23971736431121826, Accuracy: 0.933, InvokeTime:5.550256967544556,  aggTime: 7.7915730476379395, total Time: 27.968738794326782, 
+Iter: 25, Loss: 0.24132263660430908, Accuracy: 0.932, InvokeTime:5.76787805557251,  aggTime: 7.998152017593384, total Time: 28.32706880569458, 
+Iter: 26, Loss: 0.23344206809997559, Accuracy: 0.935, InvokeTime:5.432110071182251,  aggTime: 8.188793897628784, total Time: 28.137259006500244, 
+Iter: 27, Loss: 0.23337037861347198, Accuracy: 0.934, InvokeTime:6.015068769454956,  aggTime: 7.805633068084717, total Time: 28.343161821365356, 
+Iter: 28, Loss: 0.2307465523481369, Accuracy: 0.935, InvokeTime:5.417205095291138,  aggTime: 8.028292179107666, total Time: 28.219518423080444, 
+Iter: 29, Loss: 0.2317265123128891, Accuracy: 0.935, InvokeTime:5.653785705566406,  aggTime: 8.060336828231812, total Time: 28.24524974822998, 
+Iter: 30, Loss: 0.22694063186645508, Accuracy: 0.936, InvokeTime:5.890039920806885,  aggTime: 7.908638954162598, total Time: 28.728440046310425, 
+Iter: 31, Loss: 0.22692641615867615, Accuracy: 0.936, InvokeTime:5.075103282928467,  aggTime: 8.150696992874146, total Time: 27.92513608932495, 
+Iter: 32, Loss: 0.22602824866771698, Accuracy: 0.936, InvokeTime:5.647864818572998,  aggTime: 8.121435165405273, total Time: 28.462294101715088, 
+Iter: 33, Loss: 0.22291569411754608, Accuracy: 0.938, InvokeTime:5.830146074295044,  aggTime: 8.160609006881714, total Time: 28.516422033309937, 
+Iter: 34, Loss: 0.21748489141464233, Accuracy: 0.939, InvokeTime:5.632799863815308,  aggTime: 8.403467178344727, total Time: 28.740576028823853, 
+Iter: 35, Loss: 0.21733210980892181, Accuracy: 0.939, InvokeTime:4.997666120529175,  aggTime: 7.9048850536346436, total Time: 27.688189029693604, 
+Iter: 36, Loss: 0.21655046939849854, Accuracy: 0.939, InvokeTime:5.559548377990723,  aggTime: 7.610171794891357, total Time: 29.3797550201416, 
+Iter: 37, Loss: 0.2181837111711502, Accuracy: 0.939, InvokeTime:5.334575176239014,  aggTime: 8.10477614402771, total Time: 37.352596282958984, 
+Iter: 38, Loss: 0.21717846393585205, Accuracy: 0.939, InvokeTime:5.835718870162964,  aggTime: 8.180076837539673, total Time: 39.69093680381775, 
+Iter: 39, Loss: 0.21434257924556732, Accuracy: 0.941, InvokeTime:5.322849988937378,  aggTime: 7.983824014663696, total Time: 27.919235944747925, 
+Iter: 40, Loss: 0.21443723142147064, Accuracy: 0.940, InvokeTime:5.499335765838623,  aggTime: 7.2841126918792725, total Time: 27.62938165664673, 
+Iter: 41, Loss: 0.2122352570295334, Accuracy: 0.941, InvokeTime:5.232041835784912,  aggTime: 7.708685874938965, total Time: 27.91333770751953, 
+Iter: 42, Loss: 0.21015749871730804, Accuracy: 0.943, InvokeTime:5.364591121673584,  aggTime: 7.703311920166016, total Time: 28.06390380859375, 
+Iter: 43, Loss: 0.20948171615600586, Accuracy: 0.943, InvokeTime:5.556596040725708,  aggTime: 7.522707939147949, total Time: 27.491466999053955, 
+Iter: 44, Loss: 0.20623581111431122, Accuracy: 0.944, InvokeTime:5.315972089767456,  aggTime: 7.393676042556763, total Time: 28.921618223190308, 
+Iter: 45, Loss: 0.20417475700378418, Accuracy: 0.944, InvokeTime:5.201174974441528,  aggTime: 7.575704097747803, total Time: 27.6302809715271, 
+Iter: 46, Loss: 0.20483092963695526, Accuracy: 0.944, InvokeTime:5.676093101501465,  aggTime: 7.521223068237305, total Time: 42.10417914390564, 
+Iter: 47, Loss: 0.2049832046031952, Accuracy: 0.944, InvokeTime:5.354193925857544,  aggTime: 7.779954195022583, total Time: 28.068504095077515, 
+Iter: 48, Loss: 0.2039199024438858, Accuracy: 0.944, InvokeTime:5.226513862609863,  aggTime: 7.452903985977173, total Time: 32.770158767700195, 
+Iter: 49, Loss: 0.2032695710659027, Accuracy: 0.945, InvokeTime:5.5151917934417725,  aggTime: 7.691539764404297, total Time: 30.92545771598816, 
+Iter: 50, Loss: 0.19867506623268127, Accuracy: 0.947, InvokeTime:5.600880861282349,  aggTime: 7.560550928115845, total Time: 35.09433197975159, 
+Iter: 51, Loss: 0.1991543024778366, Accuracy: 0.946, InvokeTime:5.753413200378418,  aggTime: 7.689502239227295, total Time: 32.78091526031494, 
+Iter: 52, Loss: 0.19928036630153656, Accuracy: 0.946, InvokeTime:5.313508033752441,  aggTime: 8.093885898590088, total Time: 50.03118681907654, 
+Iter: 53, Loss: 0.1969951093196869, Accuracy: 0.948, InvokeTime:5.87325382232666,  aggTime: 7.616970062255859, total Time: 33.104026794433594, 
+Iter: 54, Loss: 0.19670991599559784, Accuracy: 0.948, InvokeTime:5.77617883682251,  aggTime: 7.686058044433594, total Time: 65.02347207069397, 
+Iter: 55, Loss: 0.19663944840431213, Accuracy: 0.948, InvokeTime:5.301950931549072,  aggTime: 7.671728134155273, total Time: 31.905717134475708, 
+Iter: 56, Loss: 0.1955222636461258, Accuracy: 0.949, InvokeTime:5.515162229537964,  aggTime: 7.998536109924316, total Time: 39.074655055999756, 
+Iter: 57, Loss: 0.1944171041250229, Accuracy: 0.948, InvokeTime:5.1932830810546875,  aggTime: 7.772197961807251, total Time: 41.93987202644348, 
+Iter: 58, Loss: 0.19388306140899658, Accuracy: 0.950, InvokeTime:5.778512001037598,  aggTime: 7.664813041687012, total Time: 29.41131901741028, 
+Iter: 59, Loss: 0.19411373138427734, Accuracy: 0.949, InvokeTime:5.672172784805298,  aggTime: 7.9866249561309814, total Time: 35.007853746414185, 
+Iter: 60, Loss: 0.19296342134475708, Accuracy: 0.950, InvokeTime:5.599308013916016,  aggTime: 8.02925729751587, total Time: 29.23018217086792, 
+Iter: 61, Loss: 0.19453001022338867, Accuracy: 0.949, InvokeTime:5.761310815811157,  aggTime: 8.607897758483887, total Time: 29.22612500190735, 
+Iter: 62, Loss: 0.19281668961048126, Accuracy: 0.949, InvokeTime:5.465358018875122,  aggTime: 7.907530069351196, total Time: 35.42988395690918, 
+Iter: 63, Loss: 0.19317390024662018, Accuracy: 0.950, InvokeTime:5.505232095718384,  aggTime: 8.08701491355896, total Time: 28.266026973724365, 
+Iter: 64, Loss: 0.19007351994514465, Accuracy: 0.950, InvokeTime:6.026878833770752,  aggTime: 8.046941041946411, total Time: 28.678617000579834, 
+Iter: 65, Loss: 0.19189290702342987, Accuracy: 0.950, InvokeTime:5.7210001945495605,  aggTime: 7.72868800163269, total Time: 46.9544141292572, 
+Iter: 66, Loss: 0.1908789873123169, Accuracy: 0.950, InvokeTime:5.904853105545044,  aggTime: 7.822581052780151, total Time: 27.969115257263184, 
+Iter: 67, Loss: 0.1907413750886917, Accuracy: 0.951, InvokeTime:5.657709121704102,  aggTime: 7.609831809997559, total Time: 27.74742293357849, 
+Iter: 68, Loss: 0.18716922402381897, Accuracy: 0.952, InvokeTime:5.779301881790161,  aggTime: 7.91392707824707, total Time: 28.29316210746765, 
+Iter: 69, Loss: 0.1875145137310028, Accuracy: 0.951, InvokeTime:5.939373970031738,  aggTime: 7.913433790206909, total Time: 30.408585786819458, 
+Iter: 70, Loss: 0.18598893284797668, Accuracy: 0.952, InvokeTime:5.502496004104614,  aggTime: 8.314736127853394, total Time: 28.086601972579956, 
+Iter: 71, Loss: 0.1844392567873001, Accuracy: 0.952, InvokeTime:5.255796909332275,  aggTime: 7.9023637771606445, total Time: 27.614337921142578, 
+Iter: 72, Loss: 0.1844504475593567, Accuracy: 0.952, InvokeTime:5.71737003326416,  aggTime: 7.844821929931641, total Time: 28.049683809280396, 
+Iter: 73, Loss: 0.18384921550750732, Accuracy: 0.953, InvokeTime:5.581244945526123,  aggTime: 7.8379058837890625, total Time: 27.87229585647583, 
+Iter: 74, Loss: 0.18240927159786224, Accuracy: 0.953, InvokeTime:6.000349283218384,  aggTime: 7.721659183502197, total Time: 28.1910982131958, 
+Iter: 75, Loss: 0.18206347525119781, Accuracy: 0.954, InvokeTime:5.572019100189209,  aggTime: 7.784353017807007, total Time: 28.224366188049316, 
+Iter: 76, Loss: 0.18089094758033752, Accuracy: 0.954, InvokeTime:5.947071075439453,  aggTime: 7.539742946624756, total Time: 27.83421516418457, 
+Iter: 77, Loss: 0.1820589303970337, Accuracy: 0.954, InvokeTime:5.95153284072876,  aggTime: 7.757282733917236, total Time: 26.983030796051025, 
+Iter: 78, Loss: 0.17908872663974762, Accuracy: 0.955, InvokeTime:5.6245269775390625,  aggTime: 7.6831371784210205, total Time: 27.793707132339478, 
+Iter: 79, Loss: 0.17875948548316956, Accuracy: 0.955, InvokeTime:5.548823118209839,  aggTime: 7.198729991912842, total Time: 27.5224130153656, 
+Iter: 80, Loss: 0.1804475039243698, Accuracy: 0.954, InvokeTime:5.442400932312012,  aggTime: 7.42538595199585, total Time: 27.31629490852356, 
+Iter: 81, Loss: 0.17951108515262604, Accuracy: 0.954, InvokeTime:5.7202582359313965,  aggTime: 7.39792799949646, total Time: 27.778747081756592, 
+Iter: 82, Loss: 0.17671790719032288, Accuracy: 0.956, InvokeTime:5.803129196166992,  aggTime: 8.238512754440308, total Time: 28.31507897377014, 
+Iter: 83, Loss: 0.17829211056232452, Accuracy: 0.956, InvokeTime:5.109125137329102,  aggTime: 7.863527774810791, total Time: 27.66205406188965, 
+Iter: 84, Loss: 0.17784109711647034, Accuracy: 0.956, InvokeTime:5.440738201141357,  aggTime: 7.610899925231934, total Time: 27.604655981063843, 
+Iter: 85, Loss: 0.17800582945346832, Accuracy: 0.956, InvokeTime:5.2551491260528564,  aggTime: 7.851259708404541, total Time: 28.407794952392578, 
+Iter: 86, Loss: 0.1791379302740097, Accuracy: 0.955, InvokeTime:5.518611907958984,  aggTime: 7.698439121246338, total Time: 27.65040111541748, 
+Iter: 87, Loss: 0.17671868205070496, Accuracy: 0.956, InvokeTime:5.848280191421509,  aggTime: 7.649165868759155, total Time: 28.538980960845947, 
+Iter: 88, Loss: 0.17342160642147064, Accuracy: 0.957, InvokeTime:5.08329176902771,  aggTime: 7.473447322845459, total Time: 36.18480205535889, 
+Iter: 89, Loss: 0.17331205308437347, Accuracy: 0.957, InvokeTime:5.320836067199707,  aggTime: 7.4262261390686035, total Time: 43.796117305755615, 
+Iter: 90, Loss: 0.1723700612783432, Accuracy: 0.957, InvokeTime:5.315834283828735,  aggTime: 7.5917909145355225, total Time: 27.607316970825195, 
+Iter: 91, Loss: 0.17433081567287445, Accuracy: 0.957, InvokeTime:5.827005863189697,  aggTime: 7.859681129455566, total Time: 28.690887928009033, 
+Iter: 92, Loss: 0.17181532084941864, Accuracy: 0.957, InvokeTime:6.022359848022461,  aggTime: 7.5488810539245605, total Time: 52.79199290275574, 
+Iter: 93, Loss: 0.17310674488544464, Accuracy: 0.957, InvokeTime:5.467489004135132,  aggTime: 7.873934030532837, total Time: 39.67778396606445, 
+Iter: 94, Loss: 0.17070510983467102, Accuracy: 0.958, InvokeTime:5.0660810470581055,  aggTime: 7.647330045700073, total Time: 33.94373917579651, 
+Iter: 95, Loss: 0.17142680287361145, Accuracy: 0.958, InvokeTime:5.371099948883057,  aggTime: 8.355971097946167, total Time: 28.224918127059937, 
+Iter: 96, Loss: 0.17108868062496185, Accuracy: 0.958, InvokeTime:5.54079008102417,  aggTime: 7.844293117523193, total Time: 28.251893997192383, 
+Iter: 97, Loss: 0.1716228574514389, Accuracy: 0.958, InvokeTime:5.488483905792236,  aggTime: 7.849287986755371, total Time: 28.156962871551514, 
+Iter: 98, Loss: 0.17130696773529053, Accuracy: 0.959, InvokeTime:5.204485177993774,  aggTime: 7.672749042510986, total Time: 27.34626293182373, 
+Iter: 99, Loss: 0.1690276712179184, Accuracy: 0.959, InvokeTime:5.051900386810303,  aggTime: 7.54459023475647, total Time: 27.031561374664307, 
+Iter: 100, Loss: 0.16913552582263947, Accuracy: 0.959, InvokeTime:5.4251389503479,  aggTime: 7.6821582317352295, total Time: 27.773653030395508, 
+Iter: 101, Loss: 0.16948682069778442, Accuracy: 0.959, InvokeTime:5.888804197311401,  aggTime: 7.632267951965332, total Time: 27.74755311012268, 
+Iter: 102, Loss: 0.17111091315746307, Accuracy: 0.959, InvokeTime:5.446353197097778,  aggTime: 8.133702278137207, total Time: 28.3425452709198, 
+Iter: 103, Loss: 0.16944269835948944, Accuracy: 0.959, InvokeTime:5.4536871910095215,  aggTime: 7.904525995254517, total Time: 28.26389503479004, 
+Iter: 104, Loss: 0.16862274706363678, Accuracy: 0.959, InvokeTime:4.942003965377808,  aggTime: 8.056013107299805, total Time: 27.73776912689209, 
+Iter: 105, Loss: 0.16733820736408234, Accuracy: 0.960, InvokeTime:5.344856023788452,  aggTime: 8.452849864959717, total Time: 28.390284061431885, 
+Iter: 106, Loss: 0.16887526214122772, Accuracy: 0.960, InvokeTime:6.174398899078369,  aggTime: 8.199294805526733, total Time: 28.7737877368927, 
+Iter: 107, Loss: 0.16692288219928741, Accuracy: 0.961, InvokeTime:5.678598165512085,  aggTime: 7.851844787597656, total Time: 28.460448026657104, 
+Iter: 108, Loss: 0.16840815544128418, Accuracy: 0.960, InvokeTime:5.810705900192261,  aggTime: 8.121031999588013, total Time: 28.910615921020508, 
+Iter: 109, Loss: 0.169419065117836, Accuracy: 0.960, InvokeTime:6.139553070068359,  aggTime: 7.798372983932495, total Time: 48.34908890724182, 
+Iter: 110, Loss: 0.16781513392925262, Accuracy: 0.960, InvokeTime:5.029430150985718,  aggTime: 7.80555272102356, total Time: 30.368767976760864, 
+Iter: 111, Loss: 0.16693688929080963, Accuracy: 0.961, InvokeTime:5.1259026527404785,  aggTime: 7.8640360832214355, total Time: 43.28933072090149, 
+Iter: 112, Loss: 0.16586245596408844, Accuracy: 0.960, InvokeTime:5.65165114402771,  aggTime: 8.150771856307983, total Time: 38.05636501312256, 
+Iter: 113, Loss: 0.16549544036388397, Accuracy: 0.961, InvokeTime:5.510876893997192,  aggTime: 7.988756895065308, total Time: 49.13230776786804, 
+Iter: 114, Loss: 0.16552478075027466, Accuracy: 0.961, InvokeTime:5.519704818725586,  aggTime: 7.4053709506988525, total Time: 33.40978384017944, 
+Iter: 115, Loss: 0.16565454006195068, Accuracy: 0.960, InvokeTime:5.1377081871032715,  aggTime: 7.715011119842529, total Time: 35.08784317970276, 
+Iter: 116, Loss: 0.16539113223552704, Accuracy: 0.961, InvokeTime:5.561913013458252,  aggTime: 7.632386922836304, total Time: 28.40963101387024, 
+Iter: 117, Loss: 0.1658337414264679, Accuracy: 0.961, InvokeTime:5.1707398891448975,  aggTime: 8.782975912094116, total Time: 47.96385478973389, 
+Iter: 118, Loss: 0.16525445878505707, Accuracy: 0.961, InvokeTime:5.667718887329102,  aggTime: 7.895697116851807, total Time: 45.51989984512329, 
+Iter: 119, Loss: 0.16485907137393951, Accuracy: 0.961, InvokeTime:5.222398281097412,  aggTime: 7.6439597606658936, total Time: 52.786519050598145, 
+Iter: 120, Loss: 0.1641284078359604, Accuracy: 0.961, InvokeTime:5.800989866256714,  aggTime: 7.507181167602539, total Time: 52.33807587623596, 
+Iter: 121, Loss: 0.16340909898281097, Accuracy: 0.962, InvokeTime:5.061957836151123,  aggTime: 8.072981119155884, total Time: 42.86387300491333, 
+Iter: 122, Loss: 0.1618739813566208, Accuracy: 0.961, InvokeTime:5.1419408321380615,  aggTime: 8.0237398147583, total Time: 28.200877904891968, 
+Iter: 123, Loss: 0.1625339537858963, Accuracy: 0.962, InvokeTime:5.4826929569244385,  aggTime: 8.118117809295654, total Time: 28.05443286895752, 
+Iter: 124, Loss: 0.16277667880058289, Accuracy: 0.962, InvokeTime:5.217452049255371,  aggTime: 7.675461053848267, total Time: 27.280449151992798, 
+Iter: 125, Loss: 0.16062532365322113, Accuracy: 0.962, InvokeTime:5.497303009033203,  aggTime: 7.706352949142456, total Time: 27.705893993377686, 
+Iter: 126, Loss: 0.16070735454559326, Accuracy: 0.962, InvokeTime:4.823131084442139,  aggTime: 7.977017164230347, total Time: 27.491335153579712, 
+Iter: 127, Loss: 0.16166163980960846, Accuracy: 0.962, InvokeTime:5.169125080108643,  aggTime: 7.972819089889526, total Time: 27.99959707260132, 
+Iter: 128, Loss: 0.1606867015361786, Accuracy: 0.962, InvokeTime:5.304590225219727,  aggTime: 7.670054197311401, total Time: 27.56945514678955, 
+Iter: 129, Loss: 0.16154684126377106, Accuracy: 0.962, InvokeTime:5.701451063156128,  aggTime: 7.9818198680877686, total Time: 41.76883292198181, 
+Iter: 130, Loss: 0.16126659512519836, Accuracy: 0.962, InvokeTime:5.004701852798462,  aggTime: 8.113488912582397, total Time: 28.069867849349976, 
+Iter: 131, Loss: 0.1616557240486145, Accuracy: 0.962, InvokeTime:5.656005144119263,  aggTime: 8.215004205703735, total Time: 28.70180034637451, 
+Iter: 132, Loss: 0.16151873767375946, Accuracy: 0.962, InvokeTime:5.8864710330963135,  aggTime: 7.941161870956421, total Time: 28.32369589805603, 
+Iter: 133, Loss: 0.15910950303077698, Accuracy: 0.963, InvokeTime:5.5961222648620605,  aggTime: 7.821911096572876, total Time: 27.65308117866516, 
+Iter: 134, Loss: 0.15955691039562225, Accuracy: 0.963, InvokeTime:5.557888984680176,  aggTime: 7.788506984710693, total Time: 32.40183711051941, 
+Iter: 135, Loss: 0.15866024792194366, Accuracy: 0.963, InvokeTime:4.7956459522247314,  aggTime: 8.202534914016724, total Time: 52.02161979675293, 
+Iter: 136, Loss: 0.15831348299980164, Accuracy: 0.963, InvokeTime:5.191004991531372,  aggTime: 8.417468070983887, total Time: 28.44623112678528, 
+Iter: 137, Loss: 0.15817579627037048, Accuracy: 0.963, InvokeTime:4.958170175552368,  aggTime: 8.581500053405762, total Time: 62.09890913963318, 
+Iter: 138, Loss: 0.158696249127388, Accuracy: 0.963, InvokeTime:5.150418758392334,  aggTime: 8.441673040390015, total Time: 28.471336841583252, 
+Iter: 139, Loss: 0.15893712639808655, Accuracy: 0.963, InvokeTime:5.636113166809082,  aggTime: 8.083124160766602, total Time: 44.946410179138184, 
+Iter: 140, Loss: 0.15872648358345032, Accuracy: 0.963, InvokeTime:5.584181070327759,  aggTime: 8.284045934677124, total Time: 28.41376495361328, 
+Iter: 141, Loss: 0.1574438214302063, Accuracy: 0.963, InvokeTime:5.434678077697754,  aggTime: 7.790842294692993, total Time: 27.78757405281067, 
+Iter: 142, Loss: 0.1585576981306076, Accuracy: 0.963, InvokeTime:5.365910053253174,  aggTime: 8.175111770629883, total Time: 28.34382200241089, 
+Iter: 143, Loss: 0.15844711661338806, Accuracy: 0.963, InvokeTime:5.275932788848877,  aggTime: 7.932287931442261, total Time: 28.866943836212158, 
+Iter: 144, Loss: 0.1577012836933136, Accuracy: 0.964, InvokeTime:5.270539045333862,  aggTime: 7.965183973312378, total Time: 28.179223775863647, 
+Iter: 145, Loss: 0.15786094963550568, Accuracy: 0.963, InvokeTime:5.205595016479492,  aggTime: 8.074365139007568, total Time: 28.113495111465454, 
+Iter: 146, Loss: 0.15822741389274597, Accuracy: 0.964, InvokeTime:5.378038167953491,  aggTime: 7.899633884429932, total Time: 27.971497058868408, 
+Iter: 147, Loss: 0.15671642124652863, Accuracy: 0.964, InvokeTime:5.222278118133545,  aggTime: 7.942466974258423, total Time: 27.627973079681396, 
+Iter: 148, Loss: 0.15779216587543488, Accuracy: 0.964, InvokeTime:4.885595083236694,  aggTime: 8.331945896148682, total Time: 28.0577130317688, 
+Iter: 149, Loss: 0.15571871399879456, Accuracy: 0.964, InvokeTime:5.520135879516602,  aggTime: 8.034744024276733, total Time: 29.138952016830444, 
+Iter: 150, Loss: 0.15698659420013428, Accuracy: 0.964, InvokeTime:5.382252216339111,  aggTime: 7.6519060134887695, total Time: 27.8802330493927, 
+Iter: 151, Loss: 0.15395618975162506, Accuracy: 0.964, InvokeTime:5.702322244644165,  aggTime: 7.2357189655303955, total Time: 27.533896923065186, 
+Iter: 152, Loss: 0.15537254512310028, Accuracy: 0.964, InvokeTime:5.111433029174805,  aggTime: 7.091493129730225, total Time: 27.26827120780945, 
+Iter: 153, Loss: 0.15566647052764893, Accuracy: 0.965, InvokeTime:5.513351917266846,  aggTime: 7.694289922714233, total Time: 38.89694786071777, 
+Iter: 154, Loss: 0.15608319640159607, Accuracy: 0.964, InvokeTime:5.593881130218506,  aggTime: 7.486662149429321, total Time: 27.857197046279907, 
+Iter: 155, Loss: 0.15464752912521362, Accuracy: 0.965, InvokeTime:6.285508155822754,  aggTime: 7.363433837890625, total Time: 28.027714014053345, 
+Iter: 156, Loss: 0.15457163751125336, Accuracy: 0.964, InvokeTime:5.570857048034668,  aggTime: 7.429797172546387, total Time: 28.02194309234619, 
+Iter: 157, Loss: 0.1558254063129425, Accuracy: 0.965, InvokeTime:5.16420316696167,  aggTime: 7.513166189193726, total Time: 27.418721199035645, 
+Iter: 158, Loss: 0.15589052438735962, Accuracy: 0.965, InvokeTime:5.1527321338653564,  aggTime: 7.54508900642395, total Time: 28.19103193283081, 
+Iter: 159, Loss: 0.15559421479701996, Accuracy: 0.965, InvokeTime:5.1976399421691895,  aggTime: 7.39646315574646, total Time: 29.05587410926819, 
+Iter: 160, Loss: 0.15378572046756744, Accuracy: 0.965, InvokeTime:5.580075979232788,  aggTime: 7.437335729598999, total Time: 29.423314809799194, 
+Iter: 161, Loss: 0.1536237746477127, Accuracy: 0.964, InvokeTime:5.414682149887085,  aggTime: 7.6148600578308105, total Time: 36.728344202041626, 
+Iter: 162, Loss: 0.1543123573064804, Accuracy: 0.965, InvokeTime:5.238600015640259,  aggTime: 7.812201976776123, total Time: 41.687660694122314, 
+Iter: 163, Loss: 0.15402594208717346, Accuracy: 0.965, InvokeTime:5.8769659996032715,  aggTime: 7.753292798995972, total Time: 28.510969877243042, 
+Iter: 164, Loss: 0.15262119472026825, Accuracy: 0.965, InvokeTime:5.707953929901123,  aggTime: 7.607302904129028, total Time: 28.820162773132324, 
+Iter: 165, Loss: 0.1542859673500061, Accuracy: 0.965, InvokeTime:6.001514911651611,  aggTime: 7.646712779998779, total Time: 28.629883766174316, 
+Iter: 166, Loss: 0.1517443060874939, Accuracy: 0.965, InvokeTime:5.463399171829224,  aggTime: 7.63093900680542, total Time: 28.05094599723816, 
+Iter: 167, Loss: 0.1506650447845459, Accuracy: 0.965, InvokeTime:5.298048973083496,  aggTime: 7.6695380210876465, total Time: 29.666095972061157, 
+Iter: 168, Loss: 0.15115994215011597, Accuracy: 0.965, InvokeTime:5.282052040100098,  aggTime: 7.885663986206055, total Time: 35.86813807487488, 
+Iter: 169, Loss: 0.15234386920928955, Accuracy: 0.965, InvokeTime:5.42651891708374,  aggTime: 7.356127977371216, total Time: 65.83218288421631, 
+Iter: 170, Loss: 0.15125034749507904, Accuracy: 0.965, InvokeTime:5.012655258178711,  aggTime: 7.935899972915649, total Time: 28.184515237808228, 
+Iter: 171, Loss: 0.15144628286361694, Accuracy: 0.965, InvokeTime:5.451310873031616,  aggTime: 7.412652015686035, total Time: 28.036102056503296, 
+Iter: 172, Loss: 0.1515120416879654, Accuracy: 0.966, InvokeTime:5.425480127334595,  aggTime: 7.594896078109741, total Time: 27.932682037353516, 
+Iter: 173, Loss: 0.15112653374671936, Accuracy: 0.966, InvokeTime:5.437416076660156,  aggTime: 7.775495767593384, total Time: 29.72925591468811, 
+Iter: 174, Loss: 0.15124189853668213, Accuracy: 0.966, InvokeTime:5.530032157897949,  aggTime: 7.621227741241455, total Time: 55.82893705368042, 
+Iter: 175, Loss: 0.15177889168262482, Accuracy: 0.965, InvokeTime:5.74018120765686,  aggTime: 7.7329888343811035, total Time: 28.870694160461426, 
+Iter: 176, Loss: 0.15196679532527924, Accuracy: 0.965, InvokeTime:5.540515899658203,  aggTime: 7.514276027679443, total Time: 30.5915629863739, 
+Iter: 177, Loss: 0.15290090441703796, Accuracy: 0.965, InvokeTime:5.830493927001953,  aggTime: 7.628288984298706, total Time: 45.41064786911011, 
+Iter: 178, Loss: 0.15055102109909058, Accuracy: 0.965, InvokeTime:5.616986036300659,  aggTime: 7.601797103881836, total Time: 32.831419229507446, 
+Iter: 179, Loss: 0.15161052346229553, Accuracy: 0.965, InvokeTime:5.6642889976501465,  aggTime: 7.6596362590789795, total Time: 38.3292441368103, 
+Iter: 180, Loss: 0.15009436011314392, Accuracy: 0.966, InvokeTime:5.831798076629639,  aggTime: 7.82518196105957, total Time: 33.14983773231506, 
+Iter: 181, Loss: 0.15014538168907166, Accuracy: 0.966, InvokeTime:5.540204048156738,  aggTime: 7.963128089904785, total Time: 39.72114706039429, 
+Iter: 182, Loss: 0.15051373839378357, Accuracy: 0.966, InvokeTime:5.403314113616943,  aggTime: 7.732258081436157, total Time: 29.167132139205933, 
+Iter: 183, Loss: 0.15104733407497406, Accuracy: 0.966, InvokeTime:5.27289605140686,  aggTime: 7.398619174957275, total Time: 27.439849138259888, 
+Iter: 184, Loss: 0.15092726051807404, Accuracy: 0.966, InvokeTime:5.11323881149292,  aggTime: 7.806980133056641, total Time: 27.765476942062378, 
+Iter: 185, Loss: 0.15045905113220215, Accuracy: 0.966, InvokeTime:5.163310766220093,  aggTime: 7.738699197769165, total Time: 27.873342990875244, 
+Iter: 186, Loss: 0.15064775943756104, Accuracy: 0.965, InvokeTime:5.122792959213257,  aggTime: 7.658325910568237, total Time: 27.68668007850647, 
+Iter: 187, Loss: 0.15064960718154907, Accuracy: 0.965, InvokeTime:5.608011960983276,  aggTime: 8.181933164596558, total Time: 28.750904083251953, 
+Iter: 188, Loss: 0.14952553808689117, Accuracy: 0.966, InvokeTime:5.363969087600708,  aggTime: 7.442505121231079, total Time: 27.502005100250244, 
+Iter: 189, Loss: 0.14982818067073822, Accuracy: 0.966, InvokeTime:5.687516212463379,  aggTime: 8.011005878448486, total Time: 30.305164098739624, 
+Iter: 190, Loss: 0.14970026910305023, Accuracy: 0.965, InvokeTime:5.475176095962524,  aggTime: 7.593471050262451, total Time: 27.80836510658264, 
+Iter: 191, Loss: 0.150029718875885, Accuracy: 0.966, InvokeTime:5.206834077835083,  aggTime: 7.8049821853637695, total Time: 27.901774168014526, 
+Iter: 192, Loss: 0.14779873192310333, Accuracy: 0.966, InvokeTime:5.94825291633606,  aggTime: 7.640145301818848, total Time: 28.43757915496826, 
+Iter: 193, Loss: 0.1469995677471161, Accuracy: 0.967, InvokeTime:5.62655782699585,  aggTime: 7.880017995834351, total Time: 28.204920768737793, 
+Iter: 194, Loss: 0.1468062549829483, Accuracy: 0.966, InvokeTime:5.473420858383179,  aggTime: 9.751191139221191, total Time: 29.89767599105835, 
+Iter: 195, Loss: 0.1475764960050583, Accuracy: 0.966, InvokeTime:5.281662940979004,  aggTime: 7.573917865753174, total Time: 28.249190092086792, 
+Iter: 196, Loss: 0.14704090356826782, Accuracy: 0.966, InvokeTime:5.336888790130615,  aggTime: 7.81493616104126, total Time: 27.912635803222656, 
+Iter: 197, Loss: 0.14633631706237793, Accuracy: 0.966, InvokeTime:5.879425048828125,  aggTime: 7.839959144592285, total Time: 28.491791009902954, 
+Iter: 198, Loss: 0.14576345682144165, Accuracy: 0.967, InvokeTime:5.5720579624176025,  aggTime: 7.607422113418579, total Time: 39.195948123931885, 
+Iter: 199, Loss: 0.14627353847026825, Accuracy: 0.966, InvokeTime:5.200828790664673,  aggTime: 7.496296405792236, total Time: 42.929689168930054, 
+Iter: 200, Loss: 0.14754849672317505, Accuracy: 0.967, InvokeTime:5.590957880020142,  aggTime: 7.814932107925415, total Time: 28.34205198287964, 
+Iter: 201, Loss: 0.1460670530796051, Accuracy: 0.967, InvokeTime:5.2862327098846436,  aggTime: 7.63678503036499, total Time: 27.311741828918457, 
+Iter: 202, Loss: 0.14654584228992462, Accuracy: 0.967, InvokeTime:5.319671154022217,  aggTime: 7.959143161773682, total Time: 28.163494110107422, 
+Iter: 203, Loss: 0.14626868069171906, Accuracy: 0.967, InvokeTime:5.0767982006073,  aggTime: 7.7289488315582275, total Time: 51.26277709007263, 
+Iter: 204, Loss: 0.1460283249616623, Accuracy: 0.966, InvokeTime:5.185033082962036,  aggTime: 7.930373907089233, total Time: 28.186733961105347, 
+Iter: 205, Loss: 0.1465320587158203, Accuracy: 0.966, InvokeTime:5.155649900436401,  aggTime: 7.765825033187866, total Time: 28.09942102432251, 
+Iter: 206, Loss: 0.145894855260849, Accuracy: 0.966, InvokeTime:5.123109817504883,  aggTime: 8.053197145462036, total Time: 28.175358057022095, 
+Iter: 207, Loss: 0.14608368277549744, Accuracy: 0.966, InvokeTime:5.396489143371582,  aggTime: 8.14824390411377, total Time: 53.35765480995178, 
+Iter: 208, Loss: 0.14578180015087128, Accuracy: 0.967, InvokeTime:5.666713237762451,  aggTime: 7.8225719928741455, total Time: 28.34010910987854, 
+Iter: 209, Loss: 0.1458331048488617, Accuracy: 0.967, InvokeTime:5.466387987136841,  aggTime: 8.070087194442749, total Time: 28.499742031097412, 
+Iter: 210, Loss: 0.14524705708026886, Accuracy: 0.967, InvokeTime:5.669751167297363,  aggTime: 8.040931940078735, total Time: 28.715013027191162, 
+Iter: 211, Loss: 0.14353600144386292, Accuracy: 0.967, InvokeTime:5.7370288372039795,  aggTime: 8.359710931777954, total Time: 28.967559814453125, 
+Iter: 212, Loss: 0.1435641646385193, Accuracy: 0.967, InvokeTime:5.169774055480957,  aggTime: 7.9863526821136475, total Time: 28.6016948223114, 
+Iter: 213, Loss: 0.1448037028312683, Accuracy: 0.967, InvokeTime:4.940913200378418,  aggTime: 7.9290900230407715, total Time: 27.59889316558838, 
+Iter: 214, Loss: 0.1443004310131073, Accuracy: 0.967, InvokeTime:5.385862827301025,  aggTime: 7.885404109954834, total Time: 40.038671016693115, 
+Iter: 215, Loss: 0.14496958255767822, Accuracy: 0.967, InvokeTime:5.507567882537842,  aggTime: 8.052205085754395, total Time: 52.06604027748108, 
+Iter: 216, Loss: 0.14377230405807495, Accuracy: 0.967, InvokeTime:5.449728012084961,  aggTime: 7.840876579284668, total Time: 28.678224802017212, 
+Iter: 217, Loss: 0.14451676607131958, Accuracy: 0.967, InvokeTime:5.297992944717407,  aggTime: 7.84735107421875, total Time: 28.40783190727234, 
+Iter: 218, Loss: 0.14467595517635345, Accuracy: 0.967, InvokeTime:5.269254207611084,  aggTime: 8.199649810791016, total Time: 28.056999921798706, 
+Iter: 219, Loss: 0.14309391379356384, Accuracy: 0.967, InvokeTime:5.247018814086914,  aggTime: 7.819057941436768, total Time: 28.010818004608154, 
+Iter: 220, Loss: 0.14442245662212372, Accuracy: 0.967, InvokeTime:5.647540092468262,  aggTime: 7.944845914840698, total Time: 28.034976959228516, 
+Iter: 221, Loss: 0.1437174379825592, Accuracy: 0.967, InvokeTime:5.078970909118652,  aggTime: 8.038497924804688, total Time: 28.126022815704346, 
+Iter: 222, Loss: 0.14336048066616058, Accuracy: 0.966, InvokeTime:5.298535108566284,  aggTime: 9.561453819274902, total Time: 29.642345905303955, 
+Iter: 223, Loss: 0.1430974304676056, Accuracy: 0.967, InvokeTime:4.918774843215942,  aggTime: 7.853851318359375, total Time: 33.466323137283325, 
+Iter: 224, Loss: 0.14458735287189484, Accuracy: 0.967, InvokeTime:5.122575759887695,  aggTime: 8.114241123199463, total Time: 28.269362926483154, 
+Iter: 225, Loss: 0.14334812760353088, Accuracy: 0.967, InvokeTime:5.11167573928833,  aggTime: 10.03071904182434, total Time: 39.01773691177368, 
+Iter: 226, Loss: 0.1424422413110733, Accuracy: 0.967, InvokeTime:5.541290998458862,  aggTime: 8.245742797851562, total Time: 54.330989837646484, 
+Iter: 227, Loss: 0.14204788208007812, Accuracy: 0.967, InvokeTime:5.490539073944092,  aggTime: 7.864500045776367, total Time: 36.688679933547974, 
+Iter: 228, Loss: 0.14228053390979767, Accuracy: 0.967, InvokeTime:5.2416229248046875,  aggTime: 8.898374795913696, total Time: 29.11069679260254, 
+Iter: 229, Loss: 0.1428680121898651, Accuracy: 0.968, InvokeTime:5.351324796676636,  aggTime: 7.985484838485718, total Time: 28.260175943374634, 
+Iter: 230, Loss: 0.14374838769435883, Accuracy: 0.967, InvokeTime:5.289626121520996,  aggTime: 7.826045036315918, total Time: 27.834253072738647, 
+Iter: 231, Loss: 0.1430606245994568, Accuracy: 0.967, InvokeTime:5.811930894851685,  aggTime: 8.111093044281006, total Time: 28.60633087158203, 
+Iter: 232, Loss: 0.14230377972126007, Accuracy: 0.967, InvokeTime:5.466434955596924,  aggTime: 8.053776979446411, total Time: 28.258727073669434, 
+Iter: 233, Loss: 0.14307953417301178, Accuracy: 0.967, InvokeTime:5.148982048034668,  aggTime: 9.134212017059326, total Time: 28.95878505706787, 
+Iter: 234, Loss: 0.1414489448070526, Accuracy: 0.967, InvokeTime:5.3943798542022705,  aggTime: 7.931988000869751, total Time: 28.026845932006836, 
+Iter: 235, Loss: 0.14152604341506958, Accuracy: 0.968, InvokeTime:5.572176933288574,  aggTime: 8.04580283164978, total Time: 28.064392805099487, 
+Iter: 236, Loss: 0.14178171753883362, Accuracy: 0.967, InvokeTime:5.016560077667236,  aggTime: 8.453059196472168, total Time: 28.483220100402832, 
+Iter: 237, Loss: 0.14166685938835144, Accuracy: 0.967, InvokeTime:5.728932857513428,  aggTime: 8.04626178741455, total Time: 50.4900906085968, 
+Iter: 238, Loss: 0.14142920076847076, Accuracy: 0.967, InvokeTime:5.311946868896484,  aggTime: 8.025679111480713, total Time: 28.12630796432495, 
+Iter: 239, Loss: 0.14078721404075623, Accuracy: 0.968, InvokeTime:5.064647912979126,  aggTime: 7.8212220668792725, total Time: 44.406641244888306, 
+Iter: 240, Loss: 0.14198064804077148, Accuracy: 0.967, InvokeTime:6.155305862426758,  aggTime: 7.828431844711304, total Time: 28.917624950408936, 
+Iter: 241, Loss: 0.14094948768615723, Accuracy: 0.967, InvokeTime:6.277225971221924,  aggTime: 7.628398180007935, total Time: 28.89420223236084, 
+Iter: 242, Loss: 0.1404726803302765, Accuracy: 0.968, InvokeTime:5.4171142578125,  aggTime: 7.935511112213135, total Time: 28.383376359939575, 
+Iter: 243, Loss: 0.14070163667201996, Accuracy: 0.967, InvokeTime:5.489822864532471,  aggTime: 8.222425937652588, total Time: 29.026145935058594, 
+Iter: 244, Loss: 0.1407983899116516, Accuracy: 0.968, InvokeTime:5.51814079284668,  aggTime: 8.052164077758789, total Time: 45.977269887924194, 
+Iter: 245, Loss: 0.14117035269737244, Accuracy: 0.968, InvokeTime:5.248368978500366,  aggTime: 8.282384872436523, total Time: 50.129573822021484, 
+Iter: 246, Loss: 0.1409093737602234, Accuracy: 0.968, InvokeTime:5.57542610168457,  aggTime: 8.573804140090942, total Time: 29.03238606452942, 
+Iter: 247, Loss: 0.14070312678813934, Accuracy: 0.968, InvokeTime:6.099233150482178,  aggTime: 8.147001266479492, total Time: 28.75448513031006, 
+Iter: 248, Loss: 0.13895270228385925, Accuracy: 0.968, InvokeTime:5.583386182785034,  aggTime: 7.819959878921509, total Time: 28.52643895149231, 
+Iter: 249, Loss: 0.14051929116249084, Accuracy: 0.968, InvokeTime:5.53445029258728,  aggTime: 8.029067993164062, total Time: 28.450026988983154, 
+Iter: 250, Loss: 0.14046257734298706, Accuracy: 0.969, InvokeTime:6.003176927566528,  aggTime: 7.819841146469116, total Time: 39.46832895278931, 
+Iter: 251, Loss: 0.14122121036052704, Accuracy: 0.968, InvokeTime:5.308032989501953,  aggTime: 8.019886016845703, total Time: 28.239885091781616, 
+Iter: 252, Loss: 0.1409560590982437, Accuracy: 0.969, InvokeTime:5.788039922714233,  aggTime: 7.867871046066284, total Time: 28.294187784194946, 
+Iter: 253, Loss: 0.140482559800148, Accuracy: 0.968, InvokeTime:5.934085130691528,  aggTime: 8.016641855239868, total Time: 28.44263005256653, 
+Iter: 254, Loss: 0.139909029006958, Accuracy: 0.968, InvokeTime:5.4645140171051025,  aggTime: 7.8014750480651855, total Time: 28.320802211761475, 
+Iter: 255, Loss: 0.14009617269039154, Accuracy: 0.968, InvokeTime:5.880136966705322,  aggTime: 7.965070009231567, total Time: 28.479007959365845, 
+Iter: 256, Loss: 0.14115619659423828, Accuracy: 0.968, InvokeTime:5.466389894485474,  aggTime: 7.886823892593384, total Time: 28.302642822265625, 
+Iter: 257, Loss: 0.1397605687379837, Accuracy: 0.968, InvokeTime:5.361832857131958,  aggTime: 8.167889833450317, total Time: 28.177700996398926, 
+Iter: 258, Loss: 0.14012756943702698, Accuracy: 0.968, InvokeTime:5.651277780532837,  aggTime: 7.76188588142395, total Time: 51.212220907211304, 
+Iter: 259, Loss: 0.14021365344524384, Accuracy: 0.968, InvokeTime:5.834514141082764,  aggTime: 7.88001012802124, total Time: 28.534330129623413, 
+Iter: 260, Loss: 0.1409447193145752, Accuracy: 0.967, InvokeTime:5.600835084915161,  aggTime: 7.797952890396118, total Time: 28.073153972625732, 
+Iter: 261, Loss: 0.1391308456659317, Accuracy: 0.968, InvokeTime:5.226512908935547,  aggTime: 8.115577936172485, total Time: 28.12478995323181, 
+Iter: 262, Loss: 0.13971759378910065, Accuracy: 0.968, InvokeTime:5.476006984710693,  aggTime: 8.387160778045654, total Time: 28.740509033203125, 
+Iter: 263, Loss: 0.14016187191009521, Accuracy: 0.969, InvokeTime:5.531203031539917,  aggTime: 8.087980031967163, total Time: 28.202536821365356, 
+Iter: 264, Loss: 0.140334814786911, Accuracy: 0.968, InvokeTime:5.210085868835449,  aggTime: 7.722433090209961, total Time: 27.762232065200806, 
+Iter: 265, Loss: 0.1396646946668625, Accuracy: 0.968, InvokeTime:5.347365140914917,  aggTime: 7.941880941390991, total Time: 27.82542610168457, 
+Iter: 266, Loss: 0.1395241767168045, Accuracy: 0.968, InvokeTime:5.831197023391724,  aggTime: 8.170818090438843, total Time: 28.642035245895386, 
+Iter: 267, Loss: 0.1397130787372589, Accuracy: 0.968, InvokeTime:5.4945969581604,  aggTime: 8.044983863830566, total Time: 28.352545022964478, 
+Iter: 268, Loss: 0.1403065174818039, Accuracy: 0.969, InvokeTime:5.1172261238098145,  aggTime: 7.7797651290893555, total Time: 27.97919011116028, 
+Iter: 269, Loss: 0.13891449570655823, Accuracy: 0.968, InvokeTime:5.6550986766815186,  aggTime: 7.984326124191284, total Time: 43.37721800804138, 
+Iter: 270, Loss: 0.13983626663684845, Accuracy: 0.969, InvokeTime:4.872735261917114,  aggTime: 7.959296941757202, total Time: 49.298073053359985, 
+Iter: 271, Loss: 0.14013077318668365, Accuracy: 0.968, InvokeTime:5.592534065246582,  aggTime: 8.077515125274658, total Time: 28.409386157989502, 
+Iter: 272, Loss: 0.1405234932899475, Accuracy: 0.968, InvokeTime:5.5672008991241455,  aggTime: 8.298086881637573, total Time: 28.812697887420654, 
+Iter: 273, Loss: 0.1421339362859726, Accuracy: 0.969, InvokeTime:5.690214157104492,  aggTime: 7.960282802581787, total Time: 55.088852882385254, 
+Iter: 274, Loss: 0.1442483812570572, Accuracy: 0.969, InvokeTime:5.291883945465088,  aggTime: 7.954929828643799, total Time: 48.08729791641235, 
+Iter: 275, Loss: 0.14204910397529602, Accuracy: 0.968, InvokeTime:5.442770004272461,  aggTime: 8.30485200881958, total Time: 67.64999604225159, 
+Iter: 276, Loss: 0.14085127413272858, Accuracy: 0.968, InvokeTime:5.3885498046875,  aggTime: 7.953648090362549, total Time: 76.7289650440216, 
+Iter: 277, Loss: 0.14111216366291046, Accuracy: 0.968, InvokeTime:5.736669063568115,  aggTime: 8.390668153762817, total Time: 54.02002215385437, 
+Iter: 278, Loss: 0.14019852876663208, Accuracy: 0.969, InvokeTime:5.604626178741455,  aggTime: 8.116111993789673, total Time: 28.363916158676147, 
+Iter: 279, Loss: 0.1409151405096054, Accuracy: 0.968, InvokeTime:5.213176012039185,  aggTime: 8.508075952529907, total Time: 28.57104992866516, 
+Iter: 280, Loss: 0.14059314131736755, Accuracy: 0.968, InvokeTime:5.56838583946228,  aggTime: 8.186492919921875, total Time: 28.437241792678833, 
+Iter: 281, Loss: 0.14038291573524475, Accuracy: 0.969, InvokeTime:5.553068161010742,  aggTime: 8.075742959976196, total Time: 28.360692977905273, 
+Iter: 282, Loss: 0.14058533310890198, Accuracy: 0.969, InvokeTime:5.6561830043792725,  aggTime: 8.156199932098389, total Time: 28.941335678100586, 
+Iter: 283, Loss: 0.1412922590970993, Accuracy: 0.969, InvokeTime:5.638183116912842,  aggTime: 8.114328145980835, total Time: 28.665581941604614, 
+Iter: 284, Loss: 0.14117035269737244, Accuracy: 0.969, InvokeTime:5.598942041397095,  aggTime: 8.145410060882568, total Time: 28.613636016845703, 
+Iter: 285, Loss: 0.1408512443304062, Accuracy: 0.969, InvokeTime:5.646255970001221,  aggTime: 8.361520290374756, total Time: 28.767558097839355, 
+Iter: 286, Loss: 0.14064764976501465, Accuracy: 0.969, InvokeTime:5.960075855255127,  aggTime: 8.33568286895752, total Time: 29.077890872955322, 
+Iter: 287, Loss: 0.1397036910057068, Accuracy: 0.969, InvokeTime:5.328032732009888,  aggTime: 7.7755210399627686, total Time: 27.932882070541382, 
+Iter: 288, Loss: 0.13970394432544708, Accuracy: 0.969, InvokeTime:5.210000991821289,  aggTime: 7.8719847202301025, total Time: 28.258538961410522, 
+Iter: 289, Loss: 0.14143508672714233, Accuracy: 0.969, InvokeTime:5.547008752822876,  aggTime: 8.09614109992981, total Time: 28.435133934020996, 
+Iter: 290, Loss: 0.14015936851501465, Accuracy: 0.969, InvokeTime:5.419751882553101,  aggTime: 8.14195990562439, total Time: 28.22444796562195, 
+Iter: 291, Loss: 0.1401645690202713, Accuracy: 0.969, InvokeTime:5.617754936218262,  aggTime: 8.523531913757324, total Time: 29.10710096359253, 
+Iter: 292, Loss: 0.1403905302286148, Accuracy: 0.969, InvokeTime:5.845494747161865,  aggTime: 7.968494176864624, total Time: 28.40818214416504, 
+Iter: 293, Loss: 0.14105071127414703, Accuracy: 0.969, InvokeTime:5.207003831863403,  aggTime: 8.19409990310669, total Time: 28.21756386756897, 
+Iter: 294, Loss: 0.14170090854167938, Accuracy: 0.969, InvokeTime:5.729668855667114,  aggTime: 8.297775030136108, total Time: 28.650678873062134, 
+Iter: 295, Loss: 0.14179272949695587, Accuracy: 0.969, InvokeTime:5.812102794647217,  aggTime: 8.098470211029053, total Time: 28.843492031097412, 
+Iter: 296, Loss: 0.14092648029327393, Accuracy: 0.969, InvokeTime:5.463815927505493,  aggTime: 8.21648097038269, total Time: 28.814642906188965, 
+Iter: 297, Loss: 0.13990679383277893, Accuracy: 0.969, InvokeTime:5.829270124435425,  aggTime: 8.298879146575928, total Time: 28.930049896240234, 
+Iter: 298, Loss: 0.13980241119861603, Accuracy: 0.969, InvokeTime:5.5586371421813965,  aggTime: 8.155372619628906, total Time: 28.682459831237793, 
+Iter: 299, Loss: 0.1400521844625473, Accuracy: 0.969, InvokeTime:5.710561037063599,  aggTime: 8.38601803779602, total Time: 29.539366006851196, 
+Iter: 300, Loss: 0.14021505415439606, Accuracy: 0.970, InvokeTime:5.205354690551758,  aggTime: 8.360300779342651, total Time: 43.26998567581177, 
+Iter: 301, Loss: 0.13989797234535217, Accuracy: 0.970, InvokeTime:5.131181240081787,  aggTime: 8.018330097198486, total Time: 31.1169171333313, 
+Iter: 302, Loss: 0.13957852125167847, Accuracy: 0.969, InvokeTime:5.297437906265259,  aggTime: 7.992738962173462, total Time: 28.155908823013306, 
+Iter: 303, Loss: 0.14014390110969543, Accuracy: 0.969, InvokeTime:5.725758075714111,  aggTime: 8.190345048904419, total Time: 28.74184799194336, 
+Iter: 304, Loss: 0.1401694416999817, Accuracy: 0.970, InvokeTime:5.105215072631836,  aggTime: 7.453294038772583, total Time: 34.735836029052734, 
+Iter: 305, Loss: 0.13941419124603271, Accuracy: 0.969, InvokeTime:5.216004848480225,  aggTime: 7.211383819580078, total Time: 27.322362899780273, 
+Iter: 306, Loss: 0.13964785635471344, Accuracy: 0.969, InvokeTime:5.106955051422119,  aggTime: 7.178874254226685, total Time: 27.032646894454956, 
+Iter: 307, Loss: 0.14025725424289703, Accuracy: 0.970, InvokeTime:5.671493053436279,  aggTime: 7.349863052368164, total Time: 27.874608039855957, 
+Iter: 308, Loss: 0.14068889617919922, Accuracy: 0.969, InvokeTime:5.278379678726196,  aggTime: 7.373882055282593, total Time: 27.46989393234253, 
+Iter: 309, Loss: 0.1393156498670578, Accuracy: 0.970, InvokeTime:5.706376075744629,  aggTime: 7.256532907485962, total Time: 27.995784997940063, 
+Iter: 310, Loss: 0.13950131833553314, Accuracy: 0.970, InvokeTime:5.480327129364014,  aggTime: 7.479932069778442, total Time: 41.85938000679016, 
+Iter: 311, Loss: 0.13915105164051056, Accuracy: 0.970, InvokeTime:5.60281229019165,  aggTime: 7.219360828399658, total Time: 28.018985986709595, 
+Iter: 312, Loss: 0.13980446755886078, Accuracy: 0.969, InvokeTime:5.684753894805908,  aggTime: 7.533271074295044, total Time: 39.85844898223877, 
+Iter: 313, Loss: 0.14206179976463318, Accuracy: 0.969, InvokeTime:5.871334075927734,  aggTime: 7.407568693161011, total Time: 28.262075901031494, 
+Iter: 314, Loss: 0.14063024520874023, Accuracy: 0.969, InvokeTime:5.687241077423096,  aggTime: 7.260648965835571, total Time: 28.016297101974487, 
+Iter: 315, Loss: 0.14056450128555298, Accuracy: 0.969, InvokeTime:6.493252754211426,  aggTime: 7.126213312149048, total Time: 28.184422969818115, 
+Iter: 316, Loss: 0.1405649334192276, Accuracy: 0.970, InvokeTime:5.377995014190674,  aggTime: 7.453510999679565, total Time: 28.22381091117859, 
+Iter: 317, Loss: 0.1404133141040802, Accuracy: 0.970, InvokeTime:5.363649845123291,  aggTime: 7.47444486618042, total Time: 27.78887391090393, 
+Iter: 318, Loss: 0.1409246027469635, Accuracy: 0.969, InvokeTime:5.558927774429321,  aggTime: 7.932643175125122, total Time: 28.488199949264526, 
+Iter: 319, Loss: 0.14135496318340302, Accuracy: 0.969, InvokeTime:6.0785088539123535,  aggTime: 7.525124788284302, total Time: 28.229529857635498, 
+Iter: 320, Loss: 0.1409958451986313, Accuracy: 0.969, InvokeTime:5.979559898376465,  aggTime: 7.656623840332031, total Time: 28.386677026748657, 
+Iter: 321, Loss: 0.1413133293390274, Accuracy: 0.969, InvokeTime:5.9329657554626465,  aggTime: 7.47212815284729, total Time: 27.866586923599243, 
+Iter: 322, Loss: 0.14180131256580353, Accuracy: 0.969, InvokeTime:5.084900856018066,  aggTime: 7.734314203262329, total Time: 31.949129104614258, 
+Iter: 323, Loss: 0.1419987827539444, Accuracy: 0.969, InvokeTime:5.176206111907959,  aggTime: 7.860266923904419, total Time: 36.39575910568237, 
+Iter: 324, Loss: 0.14190950989723206, Accuracy: 0.969, InvokeTime:5.2647199630737305,  aggTime: 8.083280324935913, total Time: 35.545488119125366, 
+Iter: 325, Loss: 0.14182959496974945, Accuracy: 0.969, InvokeTime:5.592275857925415,  aggTime: 7.838443756103516, total Time: 28.214234828948975, 
+Iter: 326, Loss: 0.1412377655506134, Accuracy: 0.970, InvokeTime:5.6681530475616455,  aggTime: 7.617415904998779, total Time: 36.4579701423645, 

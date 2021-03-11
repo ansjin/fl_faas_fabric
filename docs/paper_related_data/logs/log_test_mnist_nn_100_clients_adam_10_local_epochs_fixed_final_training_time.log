@@ -1,0 +1,84 @@
+ ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+Num Clients per rounds: 100
+ ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+Num Clients per rounds: 100
+                       activation_id    start_time  end_time          diff
+0   c28947be4fdd4f888947be4fddbf88c7  1.600854e+09       0.0 -1.600854e+09
+1   5a6c54b432ed4749ac54b432edf749cd  1.600854e+09       0.0 -1.600854e+09
+2   87504ea6a3a944d5904ea6a3a964d57d  1.600854e+09       0.0 -1.600854e+09
+3   e6f71138a3e043d3b71138a3e003d301  1.600854e+09       0.0 -1.600854e+09
+4   f43b21917218430abb21917218330a81  1.600854e+09       0.0 -1.600854e+09
+..                               ...           ...       ...           ...
+95  1b04c4e15d63412984c4e15d63a12995  1.600855e+09       0.0 -1.600855e+09
+96  db3f9df5370c4b8ebf9df5370ccb8ee8  1.600855e+09       0.0 -1.600855e+09
+97  90065ff6f393452d865ff6f393652db2  1.600855e+09       0.0 -1.600855e+09
+98  21d17e3e21114670917e3e2111c67019  1.600855e+09       0.0 -1.600855e+09
+99  8e7a17a3a963488aba17a3a963388afb  1.600855e+09       0.0 -1.600855e+09
+
+[100 rows x 4 columns]
+Iter: 1, Loss: 1.794037103652954, Accuracy: 0.591, InvokeTime:10.502586126327515,  aggTime: 19.14726996421814, total Time: 156.28869485855103, Training Time: 126.63883876800537
+                       activation_id    start_time  end_time          diff
+0   c96fbf5cb4aa4a21afbf5cb4aada2105  1.600855e+09       0.0 -1.600855e+09
+1   c9dc250ac7ec43969c250ac7ece396be  1.600855e+09       0.0 -1.600855e+09
+2   6fcfdee9a9a446588fdee9a9a4f658a6  1.600855e+09       0.0 -1.600855e+09
+3   ed6bc616780141b2abc6167801a1b214  1.600855e+09       0.0 -1.600855e+09
+4   7cfebd0008eb4cb7bebd0008eb0cb704  1.600855e+09       0.0 -1.600855e+09
+..                               ...           ...       ...           ...
+95  e8dbd75a615d4d979bd75a615d7d972c  1.600855e+09       0.0 -1.600855e+09
+96  886779352e0a41f6a779352e0a11f6b3  1.600855e+09       0.0 -1.600855e+09
+97  7f7f8e33219e4d65bf8e33219e9d65f9  1.600855e+09       0.0 -1.600855e+09
+98  e2160cbccaf14660960cbccaf1b660a8  1.600855e+09       0.0 -1.600855e+09
+99  a44907af3d67406f8907af3d67306f1a  1.600855e+09       0.0 -1.600855e+09
+
+[100 rows x 4 columns]
+Iter: 2, Loss: 1.1019091606140137, Accuracy: 0.828, InvokeTime:10.609896898269653,  aggTime: 13.257181882858276, total Time: 71.08655405044556, Training Time: 47.21947526931763
+                       activation_id    start_time  end_time          diff
+0   132bb129a7354833abb129a735a8331d  1.600855e+09       0.0 -1.600855e+09
+1   5b0da6546a0b48848da6546a0bc88486  1.600855e+09       0.0 -1.600855e+09
+2   585f2db814c2437f9f2db814c2037f2d  1.600855e+09       0.0 -1.600855e+09
+3   27d5d8b281774f7d95d8b281776f7d2b  1.600855e+09       0.0 -1.600855e+09
+4   23d10d34be7c4183910d34be7c918362  1.600855e+09       0.0 -1.600855e+09
+..                               ...           ...       ...           ...
+95  224907d4348f42fc8907d4348fd2fca0  1.600855e+09       0.0 -1.600855e+09
+96  efdffb60c47e4bba9ffb60c47edbba56  1.600855e+09       0.0 -1.600855e+09
+97  651a92bfb80e41c69a92bfb80e01c68f  1.600855e+09       0.0 -1.600855e+09
+98  4d19296af163408399296af163e083d3  1.600855e+09       0.0 -1.600855e+09
+99  cb3e1a221fc443b4be1a221fc443b4de  1.600855e+09       0.0 -1.600855e+09
+
+[100 rows x 4 columns]
+Iter: 3, Loss: 0.6984061598777771, Accuracy: 0.880, InvokeTime:12.123855829238892,  aggTime: 15.56029200553894, total Time: 73.84579300880432, Training Time: 46.16164517402649
+ ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+Num Clients per rounds: 100
+                       activation_id    start_time      end_time       diff
+0   3bf9d48f910148e5b9d48f910178e5c0  1.600855e+09  1.600855e+09  22.497864
+1   c0dfda690e6040989fda690e6040989b  1.600855e+09  1.600855e+09  26.507946
+2   d397be75fbde473e97be75fbde073e31  1.600855e+09  1.600855e+09  29.199798
+3   d68c7774a6f348d58c7774a6f338d516  1.600855e+09  1.600855e+09  22.290403
+4   bf8216e508c240c78216e508c2a0c748  1.600855e+09  1.600855e+09  26.261339
+..                               ...           ...           ...        ...
+95  ca691645d9d2470fa91645d9d2370f76  1.600855e+09  1.600855e+09  17.269357
+96  5b6ccefe6b4646f5accefe6b46a6f5f1  1.600855e+09  1.600855e+09  22.259384
+97  eb1771286e784c7d9771286e780c7d16  1.600855e+09  1.600855e+09  19.196610
+98  0b8c45576a8049f58c45576a8069f54f  1.600855e+09  1.600855e+09  17.038532
+99  c2d36f762f27414f936f762f27214f69  1.600855e+09  1.600855e+09  20.580243
+
+[100 rows x 4 columns]
+Iter: 1, Loss: 1.8294867277145386, Accuracy: 0.721, InvokeTime:11.50340485572815,  aggTime: 13.64728307723999, total Time: 82.91093301773071, Training Time: 57.76024508476257
+ ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.7642706632614136, Accuracy: 0.549, InvokeTime:11.120797872543335,  aggTime: 13.961972951889038, total Time: 123.2533848285675, Training Time: 98.17061400413513
+Iter: 2, Loss: 1.0982576608657837, Accuracy: 0.753, InvokeTime:10.917969942092896,  aggTime: 14.561777114868164, total Time: 347.88832998275757, Training Time: 322.4085829257965
+Iter: 3, Loss: 0.6770809292793274, Accuracy: 0.827, InvokeTime:11.196116924285889,  aggTime: 13.060731887817383, total Time: 71.92062067985535, Training Time: 47.663771867752075
+Iter: 4, Loss: 0.48997485637664795, Accuracy: 0.880, InvokeTime:10.628902196884155,  aggTime: 13.284432888031006, total Time: 50.09349513053894, Training Time: 26.18016004562378
+Iter: 5, Loss: 0.3659939169883728, Accuracy: 0.906, InvokeTime:11.527854919433594,  aggTime: 13.550514936447144, total Time: 57.001893043518066, Training Time: 31.92352318763733
+Iter: 6, Loss: 0.28011807799339294, Accuracy: 0.930, InvokeTime:11.419043064117432,  aggTime: 13.89573359489441, total Time: 49.8107807636261, Training Time: 24.496004104614258
+ ############## Experiment : test_mnist_nn_100_clients_adam_10_local_epochs_fixed_final_training_time###################
+Num Clients per rounds: 100
+Iter: 1, Loss: 1.7795970439910889, Accuracy: 0.716, InvokeTime:10.6559579372406,  aggTime: 17.722711086273193, total Time: 97.09847903251648, Training Time: 68.71981000900269
+Iter: 2, Loss: 1.0754953622817993, Accuracy: 0.859, InvokeTime:10.478699684143066,  aggTime: 14.010535955429077, total Time: 42.71063303947449, Training Time: 18.221397399902344
+Iter: 3, Loss: 0.6811162829399109, Accuracy: 0.903, InvokeTime:11.390472173690796,  aggTime: 15.186933994293213, total Time: 54.71465229988098, Training Time: 28.137246131896973
+Iter: 4, Loss: 0.4573688507080078, Accuracy: 0.929, InvokeTime:10.608969926834106,  aggTime: 13.675482034683228, total Time: 54.66804599761963, Training Time: 30.383594036102295
+Iter: 5, Loss: 0.33779585361480713, Accuracy: 0.941, InvokeTime:10.312581062316895,  aggTime: 13.965723276138306, total Time: 52.351380348205566, Training Time: 28.073076009750366
+Iter: 6, Loss: 0.263601690530777, Accuracy: 0.950, InvokeTime:11.434569120407104,  aggTime: 14.222105026245117, total Time: 52.13882303237915, Training Time: 26.48214888572693
+Iter: 7, Loss: 0.20173926651477814, Accuracy: 0.958, InvokeTime:10.510440826416016,  aggTime: 13.326027870178223, total Time: 41.950514793395996, Training Time: 18.114046096801758
+Iter: 8, Loss: 0.1730555146932602, Accuracy: 0.960, InvokeTime:11.348317861557007,  aggTime: 13.500111103057861, total Time: 59.86420392990112, Training Time: 35.015774965286255
