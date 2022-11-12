@@ -1,4 +1,4 @@
-# FedKeeper [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ansjin/fl_faas_fabric/blob/master/LICENSE)
+# FedKeeper [![License: Apache 2](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/ansjin/fl_faas_fabric/blob/master/LICENSE)
 
 
 FedKeeper is  a  client-based  python  tool  for  propagatingFL-client functions over FaaS fabric. 
